@@ -1,0 +1,3016 @@
+count, gb id, description, protein id, length
+0, CP019280.1, Escherichia coli, AUZ01052.1, 431
+1, CP035320.1, Escherichia coli, QAU77646.1, 431
+2, CP035321.1, Escherichia coli, QAU59612.1, 431
+4, CP024859.1, Escherichia coli, ATX54336.1, 431
+6, CP024855.1, Escherichia coli, ATX46874.1, 431
+8, CP023377.1, Escherichia coli, ATC02266.1, 431
+9, CP018995.1, Escherichia coli, AQV78343.1, 431
+17, CP033631.1, Klebsiella sp. P1CD1, AYW18859.1, 431
+18, CP018307.1, Klebsiella variicola, AXO69083.1, 431
+19, LS992185.1, Escherichia coli, SYX36405.1, 431
+23, LR134235.1, Klebsiella aerogenes, VEC98825.1, 431
+24, CP028578.2, Escherichia coli, AVZ08987.1, 431
+26, CP030173.1, Klebsiella variicola, AWX76416.1, 431
+27, CP013985.1, Klebsiella variicola, APW87367.1, 431
+28, LT838200.1, Escherichia coli, SMB26490.1, 431
+29, LT838196.1, Escherichia coli, SMB26493.1, 431
+30, CP010523.2, Klebsiella variicola, AJE88909.1, 431
+31, CP009274.2, Klebsiella variicola, AJA98239.1, 431
+32, LT174603.1, Klebsiella pneumoniae, CZQ25307.1, 431
+38, CP001891.1, Klebsiella variicola At-22, ADC57493.1, 431
+39, CP000964.1, Klebsiella variicola, ACI11711.1, 431
+44, CP024916.1, Klebsiella pneumoniae, AVT95427.1, 431
+45, CP027612.1, Klebsiella pneumoniae subsp. ozaenae, AVO93676.1, 431
+46, CP025515.1, Klebsiella pneumoniae, AUH97563.1, 431
+47, CP006636.1, Escherichia coli PCN061, AKM35607.1, 431
+50, CP022444.1, Klebsiella sp. LY, AZZ17566.1, 431
+51, CP030171.1, Klebsiella quasipneumoniae subsp. quasipneumoniae, AWX86785.1, 431
+52, CP029597.1, Klebsiella quasipneumoniae subsp. similipneumoniae, AWO63095.1, 431
+53, CP029432.1, Klebsiella quasipneumoniae, AWL62177.1, 431
+54, CP029437.1, Klebsiella quasipneumoniae, AWL76368.1, 431
+55, CP029443.1, Klebsiella quasipneumoniae, AWL58430.1, 431
+56, CP014071.1, Klebsiella quasipneumoniae, AVF90165.1, 431
+58, CP023963.1, Klebsiella aerogenes, ATM92246.1, 431
+59, CP000802.1, Escherichia coli HS, ABV06459.1, 431
+63, CP024515.1, Klebsiella pneumoniae, ATR14998.1, 431
+64, CP024504.1, Klebsiella pneumoniae, ATR09267.1, 431
+65, CP024499.1, Klebsiella pneumoniae, ATR03869.1, 431
+66, CP024496.1, Klebsiella pneumoniae, ATQ98699.1, 431
+67, CP023416.1, Klebsiella pneumoniae, AXT65453.1, 431
+68, CP031577.1, Klebsiella pneumoniae, AXO56944.1, 431
+69, CP035777.1, Klebsiella pneumoniae, QBD90240.1, 431
+70, CP031562.1, Klebsiella pneumoniae, QBA32868.1, 431
+71, CP031938.1, Klebsiella pneumoniae, AZP88588.1, 431
+72, LR134206.1, Klebsiella aerogenes, VEC00897.1, 431
+73, CP028783.1, Klebsiella pneumoniae subsp. pneumoniae, AWA51436.1, 431
+74, CP024548.1, Klebsiella pneumoniae, ATR52162.1, 431
+75, CP024545.1, Klebsiella pneumoniae, ATR46851.1, 431
+76, CP024542.1, Klebsiella pneumoniae, ATR41533.1, 431
+78, CP018352.1, Klebsiella pneumoniae, APM18281.1, 431
+81, CP006656.1, Klebsiella pneumoniae JM45, AGT23506.1, 431
+82, CP032185.1, Klebsiella pneumoniae, AXZ08281.1, 431
+83, CP026153.1, Klebsiella pneumoniae, QAW89208.1, 431
+86, LS399318.1, Klebsiella pneumoniae, SPR88245.1, 431
+87, CP029590.1, Klebsiella pneumoniae, AWO47419.1, 431
+88, CP029587.1, Klebsiella pneumoniae, AWO42510.1, 431
+90, CP025636.1, Klebsiella pneumoniae, AUN63139.1, 431
+92, CP024038.1, Klebsiella pneumoniae, ATO26055.1, 431
+93, CP023919.1, Klebsiella pneumoniae, ATM41871.1, 431
+97, CP012561.1, Klebsiella pneumoniae, AOM95483.1, 431
+98, CP012560.1, Klebsiella pneumoniae, AOM91684.1, 431
+99, LT174604.1, Klebsiella pneumoniae, CZQ25315.1, 431
+105, CP015385.1, Klebsiella pneumoniae, APV24424.1, 431
+107, CP035331.1, Escherichia coli, QAU87018.1, 431
+109, CP009450.1, Pluralibacter gergoviae, AIR00769.1, 431
+110, LR134333.1, Klebsiella oxytoca, VEF68568.1, 430
+111, CP027426.1, Klebsiella oxytoca, AVL83412.1, 430
+112, LR133932.1, Klebsiella oxytoca, VDY53621.1, 430
+113, LS483483.1, Klebsiella oxytoca, SQI95516.1, 430
+114, LT174599.1, Klebsiella pneumoniae, CZQ25274.1, 430
+117, CP033844.1, Klebsiella oxytoca, AYZ51158.1, 430
+118, CP018816.1, Klebsiella pneumoniae, APR47666.1, 430
+120, CP006659.2, Klebsiella pneumoniae, AHI36964.1, 430
+121, CP030026.1, Salmonella enterica subsp. enterica, AXC69447.1, 431
+123, CP030219.1, Salmonella enterica, AXD72938.1, 431
+124, CP029995.1, Salmonella enterica subsp. enterica, AXC86813.1, 431
+125, CP029989.1, Salmonella enterica subsp. enterica, AXC71572.1, 431
+127, CP029992.1, Salmonella enterica subsp. enterica, AXC79782.1, 431
+134, CP006608.1, Salmonella bongori N268-08, AGR57873.1, 431
+139, CP023009.1, Lonsdalea britannica, AXW86983.1, 430
+140, CP025573.1, Escherichia coli, AZZ27021.1, 433
+145, AP008232.1, morsitans, BAE74392.1, 434
+147, CP006569.1, Sodalis praecaptivus, AHF76527.1, 427
+151, CP019952.1, Pseudomonas parafulva, AQW67787.1, 435
+152, CP003588.1, Pseudomonas putida ND6, AFK67964.1, 435
+153, MH325889.1, Citrobacter braakii, AWU66598.1, 430
+154, MH325884.1, Citrobacter youngae, AWU66550.1, 430
+155, MH325885.1, Citrobacter youngae, AWU66565.1, 430
+156, CP020964.1, Xanthomonas phaseoli pv. phaseoli, ATS22504.1, 428
+157, CP020971.1, Xanthomonas phaseoli pv. phaseoli, ATS31073.1, 428
+162, CP020967.1, Xanthomonas phaseoli pv. phaseoli, ATS25410.1, 428
+163, MH325883.1, Citrobacter youngae, AWU66535.1, 430
+164, CP020975.1, Xanthomonas phaseoli pv. phaseoli, ATS33661.1, 428
+165, CP017188.2, Xanthomonas citri pv. glycines str. 8ra, AOY61693.1, 428
+166, CP015972.1, Xanthomonas citri pv. glycines str. 12-2, ARV24661.1, 428
+167, CP012002.1, Xanthomonas citri pv. aurantifolii, AMV07863.1, 428
+168, FO681494.1, Xanthomonas citri pv. fuscans, CDF62924.1, 428
+169, CP011250.1, Xanthomonas citri pv. aurantifolii, ARE56260.1, 428
+170, CP020992.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS62422.1, 428
+171, CP021001.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS72541.1, 428
+172, CP020998.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS67879.1, 428
+173, CP021006.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS75315.1, 428
+174, CP021018.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS87426.1, 428
+175, CP021012.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS81459.1, 428
+176, CP012055.1, Xanthomonas citri pv. fuscans, AZU22886.1, 428
+177, CP012051.1, Xanthomonas citri pv. fuscans, AZU94197.1, 428
+178, CP012053.1, Xanthomonas citri pv. fuscans, AZU18934.1, 428
+179, CP023294.1, Xanthomonas citri pv. fuscans, ATB59948.1, 428
+180, CP022263.1, Xanthomonas citri pv. vignicola, ASK90931.1, 428
+181, CP011163.1, Xanthomonas citri pv. aurantifolii, AMV01636.1, 428
+182, CP011160.1, Xanthomonas citri pv. aurantifolii, AMU97289.1, 428
+183, CP013004.1, Xanthomonas citri pv. malvacearum, ASN00014.1, 428
+184, CP013006.1, Xanthomonas citri pv. malvacearum, ASN08204.1, 428
+185, CP023155.1, Xanthomonas citri pv. malvacearum, ASY83367.1, 428
+187, CP016833.1, Xanthomonas fragariae, AOD19297.1, 428
+188, CP016830.1, Xanthomonas fragariae, AOD15876.1, 428
+189, LT853885.1, Xanthomonas fragariae, SMR04504.1, 428
+190, LT853880.1, Xanthomonas fragariae, SMQ94168.1, 428
+191, LT853882.1, Xanthomonas fragariae, SMQ98032.1, 428
+192, CP018728.1, Xanthomonas gardneri, APP79382.1, 428
+193, CP031059.1, Xanthomonas axonopodis pv. commiphoreae, AYO94450.1, 428
+195, CP028301.1, Acidovorax avenae subsp. avenae, AVT12026.1, 428
+197, CP028294.1, Acidovorax avenae subsp. avenae, AVS87483.1, 428
+199, CP017020.1, Xanthomonas citri pv. malvacearum, AOL20784.1, 428
+200, CP023159.1, Xanthomonas citri pv. malvacearum, ASY90088.1, 428
+201, CP018467.1, Xanthomonas euvesicatoria, APO89343.1, 428
+202, CP017190.1, Xanthomonas campestris pv. vesicatoria str. 85-10, AOY67071.1, 428
+203, AM039952.1, Xanthomonas campestris pv. vesicatoria str. 85-10, CAJ25452.1, 428
+207, AF204145.1, Xanthomonas campestris pv. campestris, AAK53481.1, 428
+209, AM920689.1, Xanthomonas campestris pv. campestris, CAP53116.1, 428
+210, CP002789.1, Xanthomonas campestris pv. raphani 756C, AEL05671.1, 428
+212, AE008922.1, Xanthomonas campestris pv. campestris str. ATCC 33913, AAM39917.1, 428
+216, CP016878.1, Xanthomonas hortorum, ASW46616.1, 428
+217, CP012145.1, Xanthomonas campestris pv. campestris, AKS17517.1, 428
+218, CP000050.1, Xanthomonas campestris pv. campestris str. 8004, AAY50673.1, 428
+219, CP018731.1, Xanthomonas gardneri, APP83479.1, 428
+220, CP011946.1, Xanthomonas campestris pv. campestris, ALE67542.1, 428
+221, CP015878.1, Pseudomonas citronellolis, ANI17983.1, 427
+223, CP033055.1, Serratia sp. 3ACOL1, AYM89688.1, 424
+224, LR134318.1, Pseudomonas fluorescens, VEF12186.1, 435
+225, LR134318.1, Pseudomonas fluorescens, VEF13778.1, 417
+226, LR134178.1, Legionella sainthelensi, VEB38830.1, 436
+227, LR134388.1, Legionella sainthelensi, VEH37226.1, 436
+230, KX156850.1, Franconibacter pulveris, ANF28854.1, 451
+232, LT907842.1, Pseudomonas fluorescens, SNY06916.1, 451
+233, LS483372.1, Pseudomonas fluorescens, SQF92997.1, 451
+236, AP018756.1, Metakosakonia sp. MRY16-398, BBE76750.1, 451
+238, LT629769.1, Pseudomonas syringae, SDT57753.1, 454
+240, LT963402.1, Pseudomonas syringae pv. avii, SOS28882.1, 454
+242, LT907782.1, Nitrosomonas ureae, SNX61189.1, 447
+243, LT907782.1, Nitrosomonas ureae, SNX60731.1, 424
+244, CP005970.1, Pseudomonas syringae UMAF0158, ALE00890.1, 454
+246, CP008742.1, Pseudomonas savastanoi pv. savastanoi NCPPB 3335, ARD11068.1, 454
+248, CP007014.1, Pseudomonas syringae CC1557, AHG42570.1, 454
+249, AE016853.1, Pseudomonas syringae pv. tomato str. DC3000, AAO54604.1, 454
+251, CP006256.1, Pseudomonas syringae pv. syringae HS191, AKF53061.1, 454
+253, CP019871.1, Pseudomonas syringae pv. tomato, AVI83329.1, 454
+257, CP002552.1, Nitrosomonas sp. AL212, ADZ27299.1, 447
+258, CP002552.1, Nitrosomonas sp. AL212, ADZ27787.1, 424
+259, AL954747.1, Nitrosomonas europaea ATCC 19718, CAD84394.1, 451
+261, CP009455.1, Pseudomonas cremoricolorata, AIR89969.1, 448
+265, CP000103.1, Nitrosospira multiformis ATCC 25196, ABB75687.1, 488
+267, AP014576.1, Burkholderia sp. RPE67, BAO87203.1, 442
+269, CP003087.1, Burkholderia sp. YI23, AET89916.1, 442
+271, CP022411.1, Pseudomonas sp. RU47, AZZ77554.1, 450
+272, CP022411.1, Pseudomonas sp. RU47, AZZ79185.1, 417
+273, LT855380.1, Pseudomonas viridiflava, SMS12009.1, 455
+274, LT855380.1, Pseudomonas viridiflava, SMS12134.1, 456
+275, CP026197.1, Enterobacteriaceae bacterium ENNIH3, AUU91856.1, 451
+277, CP026192.1, Enterobacteriaceae bacterium ENNIH2, AUV08097.1, 451
+279, CP007448.2, Yersinia enterocolitica LC20, AHM73227.1, 410
+284, CP020892.1, Pseudomonas sp. M30-35, ARU86607.1, 417
+285, CP009787.1, Yersinia rohdei, AJJ09491.1, 408
+286, CP027762.1, Pseudomonas sp. LBUM920, AZF65384.1, 452
+289, CP000712.1, Pseudomonas putida F1, ABQ80049.1, 449
+291, CP023964.1, Yersinia frederiksenii, ATM96526.1, 408
+293, CP028324.1, Massilia armeniaca, AVR98400.1, 406
+295, CP020820.1, Pantoea vagans, AWP32388.1, 457
+297, CP027716.1, Pseudomonas chlororaphis, AZD32746.1, 421
+298, CP007039.1, Pseudomonas cichorii JBC1, AHF65278.1, 449
+300, LR134136.1, Atlantibacter hermannii, VDZ74213.1, 407
+302, CP012201.1, Massilia sp. NR 4-1, AKU24022.1, 406
+303, CP034148.1, Pantoea agglomerans, AZI51591.1, 457
+304, CP018470.1, Xanthomonas vesicatoria, APO95173.1, 449
+305, CP007029.1, Thioalkalivibrio paradoxus ARh 1, AHE98513.1, 408
+308, CP029343.1, Massilia oculi, AWL06099.1, 406
+311, AM260479.1, Cupriavidus necator H16, CAJ93979.1, 423
+312, CP001392.1, Acidovorax ebreus TPSY, ACM32044.1, 406
+313, CP003403.1, Rahnella aquatilis HX2, AFE57954.1, 463
+315, CP011256.1, Xanthomonas campestris, AKC79531.1, 455
+318, AB811598.1, Escherichia coli, BAQ00606.1, 404
+319, CP027140.1, Escherichia coli, AVJ78187.1, 404
+320, CP019267.1, Escherichia coli, AUY97490.1, 404
+321, LR134236.1, Escherichia coli, VED01863.1, 404
+322, CP025048.1, Escherichia coli, AUA39888.1, 404
+323, LR025096.1, Escherichia coli, VAX89662.1, 404
+324, LR134222.1, Escherichia coli, VEC43212.1, 404
+325, CP026755.1, Escherichia coli, AVE94294.1, 404
+326, CP023201.1, Escherichia coli, ASZ46461.1, 408
+328, CP034966.1, Escherichia coli, QAS89673.1, 404
+329, CP029108.1, Escherichia coli, AWF11907.1, 404
+330, CP029369.1, Escherichia coli, AWX38105.1, 404
+331, CP023899.1, Escherichia coli, ATM28055.1, 404
+332, CP031231.1, Escherichia coli, AXH86398.1, 404
+333, CP031653.1, Escherichia coli, AXP26352.1, 404
+334, CP017184.1, Enterobacter roggenkampii, AOP96282.1, 448
+335, CP031321.1, Escherichia coli, AXK26764.1, 404
+342, CP033401.1, Escherichia coli, AYQ00574.1, 404
+343, CP033401.1, Escherichia coli, AYQ03186.1, 469
+344, CP034958.1, Escherichia coli, QAS85041.1, 404
+345, CP034958.1, Escherichia coli, QAS83513.1, 469
+346, CP024801.1, Escherichia coli, ATX35209.1, 404
+347, CP024801.1, Escherichia coli, ATX33612.1, 469
+348, CP027205.2, Escherichia coli, AVN00830.1, 404
+349, CP027205.2, Escherichia coli, AVM99173.1, 469
+351, CP010150.1, Escherichia coli, APK31606.1, 404
+358, CP024141.1, Escherichia coli, AUK00667.1, 404
+359, CP022129.1, Methylovulum psychrotolerans, ASF45839.1, 406
+361, LT604072.1, Xanthomonas translucens pv. translucens DSM 18974, SCB06233.1, 454
+362, CP023268.1, Serratia sp. MYb239, AVJ16966.1, 405
+364, CP031648.1, Pseudomonas fluorescens, AXP06133.1, 421
+367, CP010133.1, Escherichia coli, APJ97979.1, 404
+368, CP002663.1, Pusillimonas sp. T7-7, AEC21709.1, 406
+369, CP036175.1, Klebsiella sp. WCHKl090001, QBG07477.1, 404
+371, LR134485.1, Citrobacter youngae, VEI42374.1, 408
+373, CP023441.1, Klebsiella pneumoniae, AWR62652.1, 404
+374, CP025542.1, Pseudomonas fluorescens, AUM72628.1, 421
+376, CP025780.1, Stenotrophomonas sp. Pemsol, AYA89411.1, 446
+377, CP026722.1, Klebsiella aerogenes, AVE37215.1, 404
+378, CP024880.1, Klebsiella aerogenes, ATX88579.1, 404
+379, CP024883.1, Klebsiella aerogenes, ATY01867.1, 404
+380, CP014748.2, Klebsiella aerogenes, AMQ58437.1, 404
+381, CP033817.1, Klebsiella aerogenes, AYY01177.1, 404
+382, CP026756.1, Klebsiella aerogenes, AVE99504.1, 404
+383, CP014029.2, Klebsiella aerogenes, AMH08527.1, 404
+384, CP024885.1, Klebsiella aerogenes, ATY08698.1, 404
+385, CP031756.1, Klebsiella aerogenes, AXY31708.1, 404
+386, FO203355.1, Klebsiella aerogenes EA1509E, CCG29188.1, 404
+387, CP011539.1, Klebsiella aerogenes, AML34316.1, 404
+388, CP023478.1, Klebsiella quasipneumoniae, AVR36975.1, 404
+389, LR134202.1, Klebsiella pneumoniae, VEB81312.1, 404
+390, CP016337.1, Kosakonia sacchari, ANR80891.1, 430
+391, MH325890.1, Citrobacter braakii, AWU66609.1, 408
+392, CP008714.1, Xanthomonas translucens pv. undulosa, AKK68988.1, 454
+393, CP009750.1, Xanthomonas translucens pv. undulosa, AVY67944.1, 454
+395, CP011072.1, Azoarcus sp. CIB, AKU13555.1, 418
+396, CP028555.1, Klebsiella variicola, AWA00476.1, 404
+401, CP011597.1, Klebsiella oxytoca, AKL09065.1, 404
+402, CP011618.1, Klebsiella oxytoca, AKL26007.1, 404
+404, LT174606.1, Klebsiella pneumoniae, CZQ25333.1, 404
+405, CP022202.1, Pseudomonas thivervalensis, AXA63823.1, 421
+407, CP022201.1, Pseudomonas thivervalensis, AXA58111.1, 421
+409, CP029128.1, Klebsiella oxytoca, AWF34959.1, 404
+411, CP016344.1, Klebsiella variicola, AXA29467.1, 404
+413, CP032354.1, Klebsiella variicola, QAA71971.1, 404
+414, CP027064.2, Klebsiella variicola, AVJ59194.1, 404
+417, CP017964.1, Pseudomonas protegens, , 0
+418, CP017964.1, Pseudomonas protegens, , 0
+420, CP004143.1, Pseudomonas sp. ATCC 13867, AGI23567.1, 409
+421, CP007511.1, Pseudomonas balearica DSM 6083, AJE15484.1, 407
+426, CP025738.1, Pseudomonas fluorescens, AUO49639.1, 421
+428, CP024081.1, Pseudomonas sp. s211(2017), AVU78492.1, 421
+430, CP013144.1, Pseudomonas aeruginosa, ALS13164.1, 421
+431, CP008862.2, Pseudomonas aeruginosa, ALY73440.1, 421
+432, CP027165.1, Pseudomonas aeruginosa, AVJ94668.1, 421
+433, CP031660.1, Pseudomonas aeruginosa, AXR14306.1, 421
+434, CP031660.1, Pseudomonas aeruginosa, AXR12383.1, 422
+435, CP000438.1, Pseudomonas aeruginosa UCBPP-PA14, ABJ14836.1, 421
+436, LT608330.1, Pseudomonas aeruginosa, SCM65707.1, 421
+437, CP021999.1, Pseudomonas aeruginosa, ASD00665.1, 421
+438, CP006853.1, Pseudomonas aeruginosa MTB-1, AHB59202.1, 421
+439, CP006853.1, Pseudomonas aeruginosa MTB-1, AHB57001.1, 396
+442, CP019338.1, Pseudomonas aeruginosa, ASM88632.1, 421
+443, CP030075.1, Pseudomonas aeruginosa, AYL29485.1, 421
+444, CP030075.1, Pseudomonas aeruginosa, AYL33418.1, 422
+445, CP006931.1, Pseudomonas aeruginosa SCV20265, AHC80285.1, 421
+446, CP033685.1, Pseudomonas aeruginosa, AYW69503.1, 421
+448, CP029745.1, Pseudomonas aeruginosa, AWS88226.1, 421
+470, CP017886.1, Pseudomonas frederiksbergensis, APC16777.1, 421
+473, CP004061.1, Pseudomonas aeruginosa B136-33, AGI84639.1, 421
+477, CP012578.1, Pseudomonas aeruginosa, AON14013.1, 422
+478, CP012585.1, Pseudomonas aeruginosa, AON10039.1, 421
+479, CP012585.1, Pseudomonas aeruginosa, AON08025.1, 422
+480, CP012580.1, Pseudomonas aeruginosa, AON28019.1, 421
+481, CP012580.1, Pseudomonas aeruginosa, AON23677.1, 422
+482, CP012581.1, Pseudomonas aeruginosa, AON34026.1, 421
+483, CP012581.1, Pseudomonas aeruginosa, AON31992.1, 422
+484, CP012583.1, Pseudomonas aeruginosa, AON46017.1, 421
+485, CP012583.1, Pseudomonas aeruginosa, AON43979.1, 422
+486, CP012579.1, Pseudomonas aeruginosa, AON22031.1, 421
+487, CP012579.1, Pseudomonas aeruginosa, AON19998.1, 422
+488, CP012584.1, Pseudomonas aeruginosa, AON52019.1, 421
+489, CP012584.1, Pseudomonas aeruginosa, AON49990.1, 422
+490, CP034436.1, Pseudomonas aeruginosa, AZN49512.1, 421
+491, CP034436.1, Pseudomonas aeruginosa, AZN49793.1, 422
+492, CP034436.1, Pseudomonas aeruginosa, AZN49690.1, 465
+493, CP034430.1, Pseudomonas aeruginosa, AZP63383.1, 421
+494, CP034430.1, Pseudomonas aeruginosa, AZP61210.1, 328
+495, CP034430.1, Pseudomonas aeruginosa, AZP63197.1, 465
+496, CP034435.1, Pseudomonas aeruginosa, AZN61256.1, 421
+497, CP034435.1, Pseudomonas aeruginosa, AZN61738.1, 422
+498, CP034435.1, Pseudomonas aeruginosa, AZN56024.1, 465
+499, LR134330.1, Pseudomonas aeruginosa, VEF56068.1, 421
+500, LR134330.1, Pseudomonas aeruginosa, VEF63729.1, 328
+501, CP029147.1, Pseudomonas aeruginosa, AWF57340.1, 421
+502, CP029147.1, Pseudomonas aeruginosa, AWF61972.1, 327
+503, CP029147.1, Pseudomonas aeruginosa, AWF61726.1, 465
+504, CP033432.1, Pseudomonas aeruginosa, AYQ83885.1, 421
+505, CP033432.1, Pseudomonas aeruginosa, AYQ80573.1, 422
+506, CP033432.1, Pseudomonas aeruginosa, AYQ84367.1, 465
+507, CP034368.1, Pseudomonas aeruginosa, AZN03604.1, 421
+508, CP034368.1, Pseudomonas aeruginosa, AZN03810.1, 422
+509, CP034368.1, Pseudomonas aeruginosa, AZN03092.1, 465
+510, CP008739.2, Pseudomonas aeruginosa VRFPA04, AID87390.1, 421
+511, CP032569.1, Pseudomonas aeruginosa, AYF72046.1, 421
+512, CP032569.1, Pseudomonas aeruginosa, AYF70621.1, 422
+513, CP032569.1, Pseudomonas aeruginosa, , 0
+514, CP033439.1, Pseudomonas aeruginosa, AYR15913.1, 421
+515, CP033439.1, Pseudomonas aeruginosa, AYR12385.1, 422
+516, CP033439.1, Pseudomonas aeruginosa, AYR10555.1, 465
+517, CP034369.1, Pseudomonas aeruginosa, AZN09330.1, 421
+518, CP034369.1, Pseudomonas aeruginosa, AZN09956.1, 422
+523, CP034409.1, Pseudomonas aeruginosa, AZN16367.1, 421
+524, CP034409.1, Pseudomonas aeruginosa, AZN17792.1, 422
+525, CP034409.1, Pseudomonas aeruginosa, AZN15849.1, 465
+526, AP014651.1, Pseudomonas aeruginosa, BAQ43399.1, 421
+527, AP014651.1, Pseudomonas aeruginosa, BAQ40996.1, 327
+528, CP029148.1, Pseudomonas aeruginosa, AWF69451.1, 421
+529, CP029148.1, Pseudomonas aeruginosa, AWF63651.1, 327
+530, CP027714.1, Pseudomonas chlororaphis, AZD18994.1, 424
+531, CP020560.1, Pseudomonas aeruginosa, AVR70602.1, 421
+532, CP029093.1, Pseudomonas aeruginosa, AWE95463.1, 421
+533, CP027169.1, Pseudomonas aeruginosa, AVK05131.1, 421
+535, CP032167.1, Klebsiella pneumoniae, AXZ12476.1, 404
+536, CP027477.1, Pseudomonas koreensis, AVX92083.1, 421
+538, CP027477.1, Pseudomonas koreensis, AVX90388.1, 419
+539, CP015225.1, Pseudomonas fluorescens, AMZ73512.1, 421
+541, CP011020.1, Pseudomonas chlororaphis, AKK01637.1, 421
+544, CP029713.1, Pseudomonas aeruginosa, AYW44068.1, 421
+545, CP022001.1, Pseudomonas aeruginosa, ASD13964.1, 421
+546, CP022001.1, Pseudomonas aeruginosa, ASD10095.1, 422
+547, CP015852.1, Pseudomonas koreensis, ANI00856.1, 421
+548, CP027218.1, Pseudomonas sp. DTU12.3, QAX82487.1, 417
+549, CP027218.1, Pseudomonas sp. DTU12.3, QAX86217.1, 450
+550, CP015377.1, Pseudomonas aeruginosa, ANA70280.1, 421
+551, CP015377.1, Pseudomonas aeruginosa, ANA74360.1, 396
+552, CP027717.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD76569.1, 424
+553, CP027717.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD70404.1, 433
+555, CP027748.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE20428.1, 421
+556, CP027748.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE14504.1, 433
+557, CP027751.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE39352.1, 421
+559, CP027750.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE33045.1, 421
+561, CP027752.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE45685.1, 421
+563, CP027749.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE26797.1, 421
+565, CP027656.1, Pseudomonas chlororaphis subsp. piscium, AVO62132.1, 421
+566, CP006705.1, Pseudomonas aeruginosa PAO581, AGV58296.1, 421
+570, AE004091.2, Pseudomonas aeruginosa PAO1, AAG08835.1, 421
+571, AE004091.2, Pseudomonas aeruginosa PAO1, AAG04775.1, 422
+572, CP032540.1, Pseudomonas aeruginosa, AZN89733.1, 421
+573, CP032540.1, Pseudomonas aeruginosa, AZN85926.1, 422
+574, CP032541.1, Pseudomonas aeruginosa, AZN95514.1, 421
+575, CP032541.1, Pseudomonas aeruginosa, AZN91436.1, 422
+576, CP006832.1, Pseudomonas aeruginosa PAO1-VE13, AGY72254.1, 421
+578, CP006831.1, Pseudomonas aeruginosa PAO1-VE2, AGY66016.1, 421
+580, CP017149.1, Pseudomonas aeruginosa, AOP60927.1, 421
+581, CP017149.1, Pseudomonas aeruginosa, AOP59059.1, 422
+582, LN871187.1, Pseudomonas aeruginosa, CTQ40416.1, 421
+583, LN871187.1, Pseudomonas aeruginosa, CTQ38510.1, 422
+584, CP020659.1, Pseudomonas aeruginosa PAK, ARI05205.1, 421
+586, CP030351.1, Pseudomonas aeruginosa, AWZ92898.1, 421
+587, LN831024.1, Pseudomonas aeruginosa, CKI29475.1, 421
+588, LN831024.1, Pseudomonas aeruginosa, CKH82985.1, 337
+589, CP012001.1, Pseudomonas aeruginosa DSM 50071 = NBRC 12689, AKO89624.1, 421
+590, CP012001.1, Pseudomonas aeruginosa DSM 50071 = NBRC 12689, AKO87710.1, 422
+591, CP013989.1, Pseudomonas aeruginosa, ALZ94224.1, 421
+592, CP015647.1, Pseudomonas aeruginosa, ARN38183.1, 421
+593, CP014948.1, Pseudomonas aeruginosa, AMU04044.1, 421
+594, CP014948.1, Pseudomonas aeruginosa, AMU02133.1, 328
+595, CP032126.1, Pseudomonas aeruginosa, QAS76262.1, 421
+596, CP032126.1, Pseudomonas aeruginosa, QAS74239.1, 422
+597, CP013696.1, Pseudomonas aeruginosa, ALU47345.1, 421
+598, CP008868.1, Pseudomonas aeruginosa, ALZ06606.1, 421
+599, CP027171.1, Pseudomonas aeruginosa, AVK10023.1, 421
+600, CP025055.1, Pseudomonas aeruginosa, AUA80428.1, 421
+601, CP025056.1, Pseudomonas aeruginosa, AUB05058.1, 421
+602, AP012280.1, Pseudomonas aeruginosa NCGM2.S1, BAK93031.1, 421
+603, CP008870.2, Pseudomonas aeruginosa, ALZ22436.1, 421
+604, CP008873.1, Pseudomonas aeruginosa, ALZ36234.1, 421
+606, CP008866.2, Pseudomonas aeruginosa, ALY96934.1, 421
+607, CP008866.2, Pseudomonas aeruginosa, ALY98991.2, 422
+608, AP014622.1, Pseudomonas aeruginosa, BAP25359.1, 421
+609, CP015117.1, Pseudomonas aeruginosa, AMX88425.1, 421
+611, CP011857.1, Pseudomonas aeruginosa, ANT79625.1, 421
+612, CP011857.1, Pseudomonas aeruginosa, ANT77579.1, 422
+613, CP008861.1, Pseudomonas aeruginosa, ALY66874.1, 421
+614, LR134309.1, Pseudomonas aeruginosa, VEE92736.1, 421
+615, LR134309.1, Pseudomonas aeruginosa, VEE88689.1, 328
+616, AP014646.1, Pseudomonas aeruginosa, BAP54160.1, 421
+617, CP033843.1, Pseudomonas aeruginosa, AYZ45976.1, 421
+618, AP017302.1, Pseudomonas aeruginosa, BAT68820.1, 421
+619, AP017302.1, Pseudomonas aeruginosa, BAT66666.1, 327
+620, LT883143.1, Pseudomonas aeruginosa C-NN2, SMZ54299.1, 421
+621, CP033771.1, Pseudomonas aeruginosa, AYY40158.1, 421
+622, CP033771.1, Pseudomonas aeruginosa, AYY38138.1, 413
+623, CP008865.2, Pseudomonas aeruginosa, ALY89900.1, 421
+624, CP008865.2, Pseudomonas aeruginosa, ALY87727.2, 422
+625, CP033833.1, Pseudomonas aeruginosa, AYZ58028.1, 421
+629, CP033832.1, Pseudomonas aeruginosa, AYZ75925.1, 421
+630, CP033832.1, Pseudomonas aeruginosa, AYZ80121.1, 422
+632, CP020603.1, Pseudomonas aeruginosa, ARG90555.1, 421
+633, CP028162.1, Pseudomonas aeruginosa, AVR86571.1, 421
+634, CP033684.1, Pseudomonas aeruginosa, AYW76109.1, 421
+635, CP029605.1, Pseudomonas aeruginosa, AXS75085.1, 421
+636, CP029097.1, Pseudomonas aeruginosa, AWF02451.1, 421
+638, CP027166.1, Pseudomonas aeruginosa, AVK01294.1, 421
+639, CP027740.1, Pseudomonas chlororaphis subsp. piscium, AZC92719.1, 421
+640, LR134334.1, Pseudomonas chlororaphis, VEF75349.1, 421
+641, CP027708.1, Pseudomonas chlororaphis subsp. piscium, AZC40916.1, 421
+643, CP027707.1, Pseudomonas chlororaphis subsp. piscium, AZC34380.1, 421
+645, CP027538.1, Pseudomonas aeruginosa, AVN44841.1, 421
+647, CP028339.1, Thauera aromatica K172, AVR87878.1, 413
+648, CP009290.1, Pseudomonas chlororaphis subsp. aurantiaca, AIS10154.1, 421
+650, CP027747.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE14463.1, 424
+651, CP027747.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE08324.1, 433
+652, CP027744.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD57975.1, 421
+653, CP025309.1, Pseudomonas chlororaphis, AUG44062.1, 421
+654, CP025309.1, Pseudomonas chlororaphis, AUG42331.1, 455
+655, CP027745.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD63889.1, 421
+656, CP027736.1, Pseudomonas chlororaphis subsp. piscium, AZC66633.1, 421
+657, CP027711.1, Pseudomonas chlororaphis subsp. piscium, AZC98907.1, 421
+658, CP027737.1, Pseudomonas chlororaphis subsp. piscium, AZC72894.1, 421
+659, CP027718.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD82827.1, 421
+660, CP027718.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD81010.1, 469
+661, CP027738.1, Pseudomonas chlororaphis subsp. piscium, AZC79105.1, 421
+662, CP027741.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD39076.1, 421
+663, CP027742.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD45417.1, 421
+664, AP014623.1, Pseudomonas chlororaphis subsp. aurantiaca, BAV78326.1, 421
+665, CP027739.1, Pseudomonas chlororaphis subsp. piscium, AZC85440.1, 421
+666, CP027735.1, Pseudomonas chlororaphis subsp. piscium, AZC60483.1, 421
+667, CP027746.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD70362.1, 421
+668, CP027746.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD63930.1, 433
+670, LT629747.1, Pseudomonas chlororaphis, SDT69295.1, 433
+671, CP027710.1, Pseudomonas chlororaphis subsp. piscium, AZC54155.1, 421
+672, CP027722.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE08281.1, 421
+673, CP027722.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE02206.1, 433
+674, CP027721.1, Pseudomonas chlororaphis subsp. aureofaciens, AZE02163.1, 421
+675, CP027721.1, Pseudomonas chlororaphis subsp. aureofaciens, AZD95910.1, 433
+676, CP027720.1, Pseudomonas chlororaphis subsp. aureofaciens, AZD95868.1, 421
+677, CP027720.1, Pseudomonas chlororaphis subsp. aureofaciens, AZD89461.1, 433
+679, LT629738.1, Pseudomonas chlororaphis, SDT64830.1, 433
+680, CP008696.1, Pseudomonas chlororaphis, AIC22918.1, 421
+681, CP008696.1, Pseudomonas chlororaphis, AIC21447.1, 472
+682, CP027719.1, Pseudomonas chlororaphis subsp. aureofaciens, AZD89419.1, 421
+683, CP027719.1, Pseudomonas chlororaphis subsp. aureofaciens, AZD82869.1, 433
+684, LR130534.1, Pseudomonas aeruginosa, VDL52810.1, 421
+685, LR130533.1, Pseudomonas aeruginosa, VDL30676.1, 421
+686, CP021774.1, Pseudomonas aeruginosa, ASA32728.1, 421
+687, CP022000.1, Pseudomonas aeruginosa, ASD07153.1, 421
+689, CP024608.1, Massilia violaceinigra, ATQ75370.1, 406
+690, CP027743.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD51719.1, 421
+691, CP027712.1, Pseudomonas chlororaphis subsp. chlororaphis, AZD05396.1, 421
+692, CP027712.1, Pseudomonas chlororaphis subsp. chlororaphis, AZD03676.1, 456
+693, CP027715.1, Pseudomonas chlororaphis subsp. aurantiaca, AZD25429.1, 421
+694, CP000744.1, Pseudomonas aeruginosa PA7, ABR85323.1, 421
+695, CP011254.1, Serratia fonticola, AKG70732.1, 453
+696, CP032552.1, Pseudomonas aeruginosa, AYK26522.1, 421
+697, CP032552.1, Pseudomonas aeruginosa, AYK24371.1, 422
+698, CP014866.1, Pseudomonas aeruginosa, ARC82771.1, 421
+699, CP035739.1, Pseudomonas aeruginosa, QBC08917.1, 421
+700, CP035739.1, Pseudomonas aeruginosa, QBC11482.1, 422
+701, CP031449.2, Pseudomonas aeruginosa, AXN29415.1, 421
+702, CP031449.2, Pseudomonas aeruginosa, AXN25535.1, 422
+703, CP012831.1, Pseudomonas fluorescens, ALI07469.1, 421
+705, CP002745.1, Collimonas fungivorans Ter331, AEK60952.1, 419
+706, CP018927.1, Serratia marcescens, ASM16034.1, 451
+707, CP030910.1, Pseudomonas aeruginosa, AXL74044.1, 421
+708, CP033750.1, Burkholderia multivorans, AYY58235.1, 406
+710, CP027753.1, Pseudomonas chlororaphis, AZE52147.1, 421
+712, LT707063.1, Pseudomonas sp. B10, SIR32305.1, 447
+713, CP010584.1, Serratia marcescens, APS35963.1, 451
+715, CP033800.1, Enterobacter roggenkampii, AYY07989.1, 429
+716, CP033800.1, Enterobacter roggenkampii, AYY05488.1, 453
+717, CP025049.1, Pseudomonas aeruginosa, AUA74171.1, 421
+718, CP025049.1, Pseudomonas aeruginosa, AUA71675.1, 422
+719, CP025050.1, Pseudomonas aeruginosa, AUA98793.1, 421
+720, CP025050.1, Pseudomonas aeruginosa, AUA96233.1, 422
+721, CP033686.1, Pseudomonas aeruginosa, AYW63245.1, 421
+722, CP033686.1, Pseudomonas aeruginosa, AYW61173.1, 422
+723, CP010892.1, Pseudomonas sp. MRSN12121, AJO81587.1, 421
+725, FR904230.1, Serratia symbiotica SCt-VLC, CDG46869.1, 409
+730, CP012830.1, Pseudomonas fluorescens, ALI01436.1, 417
+732, CP014158.1, Pseudomonas citronellolis, AMO73683.1, 417
+750, CP008859.2, Pseudomonas aeruginosa, ALY52613.1, 421
+803, CP008858.2, Pseudomonas aeruginosa, ALY50755.1, 421
+804, CP026680.1, Pseudomonas aeruginosa, AVE36406.1, 421
+805, CP030327.1, Pseudomonas aeruginosa, AXA01118.1, 421
+837, CP015002.1, Pseudomonas aeruginosa, AOX36632.1, 421
+839, CP030911.1, Pseudomonas aeruginosa, AXO32197.1, 421
+840, CP030911.1, Pseudomonas aeruginosa, AXO29983.1, 328
+921, CP000094.2, Pseudomonas fluorescens Pf0-1, ABA75785.1, 438
+926, CP027798.1, Serratia marcescens, AXX25274.1, 405
+927, CP027796.1, Serratia marcescens, AXX21893.1, 405
+929, CP021984.1, Serratia marcescens, ASC77856.1, 405
+930, CP005927.1, Serratia sp. FS14, AIA49510.1, 405
+932, CP028826.1, Pseudomonas fluorescens, AWA42330.1, 416
+933, CP028826.1, Pseudomonas fluorescens, AWA40723.1, 426
+934, CP029482.1, Pseudomonas sp. 31-12, AWM89444.1, 416
+937, LT629756.1, Pseudomonas sp. Z003-0.4C(8344-21), SDS61198.1, 419
+938, CP014205.2, Pseudomonas sp. MS586, AMQ82960.1, 416
+939, CP014205.2, Pseudomonas sp. MS586, AMQ86313.1, 426
+940, LN854573.1, Pseudomonas sp. URMO17WK12:I11, CRL49678.1, 417
+941, CP026702.1, Serratia marcescens, AVE49242.1, 405
+942, CP024646.1, Pseudomonas syringae, AZV29900.1, 416
+943, CP024646.1, Pseudomonas syringae, AZV28308.1, 457
+944, HG326223.1, Serratia marcescens subsp. marcescens Db11, CDG11453.1, 405
+945, CP028487.1, Yersinia massiliensis, AVX40386.1, 404
+947, CP023962.1, Yersinia frederiksenii, ATM88830.1, 404
+951, CP028963.1, Burkholderia sp. IDO3, AXK64696.1, 406
+953, MH449675.1, Aeromonas hydrophila, AXL04866.1, 403
+960, CP001025.1, Burkholderia ambifaria MC40-6, ACB63263.1, 406
+965, CP009781.1, Yersinia aldovae 670-83, AJJ61339.1, 402
+966, AP018111.1, Burkholderia stabilis, BAX59984.1, 406
+969, CP032487.1, Yersinia sp. CFS1934, QAX79183.1, 402
+970, CP013393.1, Burkholderia vietnamiensis, AOJ12750.1, 406
+971, CP016032.1, Serratia marcescens, ANM78449.1, 358
+972, CP007781.1, Burkholderia cenocepacia, AIO42272.1, 406
+973, CP034545.1, Burkholderia cenocepacia, AZQ50310.1, 406
+974, CP030092.1, Massilia sp. YMA4, AXA94897.1, 385
+975, CP029824.1, Burkholderia sp. JP2-270, AWV01057.1, 406
+977, CP003872.1, Acidovorax sp. KKS102, AFU44347.1, 406
+978, CP029608.1, Pseudomonas kribbensis, AXI64330.1, 417
+980, CP002780.1, Desulfotomaculum ruminis DSM 2154, AEG61869.1, 405
+981, CP014947.1, Pseudomonas koreensis, AMT86016.1, 417
+982, CP014947.1, Pseudomonas koreensis, AMT90142.1, 439
+983, CP028295.1, Acidovorax avenae subsp. avenae, AVS92109.1, 413
+984, CP028295.1, Acidovorax avenae subsp. avenae, , 0
+987, CP014784.1, Pseudomonas alcaligenes, AMR65318.1, 416
+988, CP013235.1, Collimonas arenae, AMP11044.1, 420
+989, CP013235.1, Collimonas arenae, AMP08581.1, 474
+990, CP013233.1, Collimonas arenae, AMP01149.1, 420
+991, CP013233.1, Collimonas arenae, AMO98691.1, 474
+992, HG322950.1, Pseudomonas knackmussii B13, CDF86800.1, 419
+994, CP028297.1, Acidovorax avenae subsp. avenae, AVS98107.1, 403
+996, CP028299.1, Acidovorax avenae subsp. avenae, AVT07757.1, 403
+998, CP028303.1, Acidovorax avenae subsp. avenae, AVT22310.1, 403
+1000, AY442352.1, Aneurinibacillus thermoaerophilus, AAS55714.1, 408
+1003, CP009962.1, Collimonas arenae, AIY42848.1, 418
+1008, LT629777.1, Pseudomonas asplenii, SDT01054.1, 453
+1009, CP013234.1, Collimonas pratensis, AMP06291.1, 418
+1010, CP013236.1, Collimonas pratensis, AMP16213.1, 418
+1012, CP003915.1, Advenella mimigardefordensis DPN7, AHG62790.1, 406
+1016, AB812022.1, Escherichia coli, BAQ01054.1, 402
+1017, CP027667.1, Melaminivora sp. SC2-9, AVO48658.1, 443
+1020, LT963395.1, Pseudomonas cerasi, SOS14701.1, 405
+1022, LT222319.1, Pseudomonas cerasi, CZT27311.1, 405
+1024, CP000075.1, Pseudomonas syringae pv. syringae B728a, AAY35976.1, 405
+1026, CP013251.1, Endozoicomonas montiporae CL-33, AMO56835.1, 428
+1028, CP009801.1, Yersinia intermedia, AJJ21013.1, 402
+1030, CP018202.1, Pseudomonas syringae pv. actinidiae ICMP 9853, AQL36105.1, 405
+1032, CP034078.1, Pseudomonas syringae pv. pisi str. PP1, AZG85171.1, 405
+1034, CP028490.1, Pseudomonas syringae pv. atrofaciens, AVX24465.1, 405
+1036, LT963409.1, Pseudomonas syringae, SOS41422.1, 405
+1038, LT985192.1, Pseudomonas syringae, SPD80649.1, 405
+1040, CP026558.1, Pseudomonas amygdali pv. morsprunorum, AVB13434.1, 405
+1042, CP033105.1, Pseudomonas sp. LTJR-52, AYN92941.1, 405
+1043, CP014030.2, Citrobacter sp. FDAARGOS_156, AVH81983.1, 399
+1044, CP023465.1, Lysobacter capsici, ATE73390.1, 414
+1045, CP023465.1, Lysobacter capsici, ATE73110.1, 410
+1046, CP026562.1, Pseudomonas avellanae, AVB18884.1, 405
+1048, LT963408.1, Pseudomonas syringae group genomosp. 3, SOS32411.1, 405
+1050, CP032871.1, Pseudomonas syringae pv. actinidiae, AYL17520.1, 405
+1052, CP019730.1, Pseudomonas syringae pv. actinidiae, AQX61023.1, 405
+1054, CP017009.1, Pseudomonas syringae pv. actinidiae, APQ05395.1, 405
+1056, CP019732.1, Pseudomonas syringae pv. actinidiae, AQX64453.1, 405
+1058, CP011972.2, Pseudomonas syringae pv. actinidiae ICMP 18884, AKT32343.1, 405
+1060, CP012179.1, Pseudomonas syringae pv. actinidiae ICMP 18708, AOE58681.1, 405
+1062, CP017007.1, Pseudomonas syringae pv. actinidiae, APP99635.1, 405
+1064, CP032631.1, Pseudomonas syringae pv. actinidiae str. Shaanxi_M228, AYL82855.1, 405
+1066, CP024712.1, Pseudomonas syringae pv. actinidiae, ATV16511.1, 405
+1068, CP003614.1, Oscillatoria nigro-viridis PCC 7112, AFZ04964.1, 470
+1070, CP000058.1, Pseudomonas savastanoi pv. phaseolicola 1448A, AAZ33210.1, 405
+1072, LT963391.1, Pseudomonas syringae pv. cerasicola, SOS20126.1, 405
+1074, CP006979.1, Pseudomonas monteilii SB3101, AHC86800.1, 402
+1075, CP006978.1, Pseudomonas monteilii SB3078, AHC81371.1, 402
+1076, CP018319.1, Pseudomonas frederiksbergensis, APV41520.1, 404
+1077, CP006777.1, Clostridium beijerinckii ATCC 35702, AIU01660.1, 420
+1078, CP000721.1, Clostridium beijerinckii NCIMB 8052, ABR36857.1, 420
+1079, CP014331.1, Clostridium sp. MF28, AVK48688.1, 420
+1082, CP000949.1, Pseudomonas putida W619, ACA71892.1, 402
+1083, CP013141.1, Lysobacter antibioticus, ALN62951.1, 401
+1084, CP000153.1, Sulfurimonas denitrificans DSM 1251, ABB45005.1, 410
+1086, CP003607.1, Oscillatoria acuminata PCC 6304, AFY84663.1, 468
+1087, CP003607.1, Oscillatoria acuminata PCC 6304, AFY84589.1, 430
+1090, CP000614.1, Burkholderia vietnamiensis G4, ABO56202.1, 461
+1091, CP000614.1, Burkholderia vietnamiensis G4, ABO53824.1, 454
+1092, CP013997.1, Pseudomonas monteilii, AMA46822.1, 405
+1093, CP033433.1, Cohnella sp. 18JY8-7, AYQ74170.1, 446
+1094, CP013183.1, Pseudomonas syringae pv. lapsa, ALU59177.1, 405
+1096, LT962481.1, Pseudomonas syringae pv. syringae, SOQ02990.1, 405
+1098, LT962480.1, Pseudomonas syringae pv. syringae, SOP96220.1, 405
+1100, CP005969.1, Pseudomonas syringae pv. syringae B301D, AKF44511.1, 405
+1105, LT828648.1, Nitrospira japonica, SLM49980.1, 450
+1106, LT828648.1, Nitrospira japonica, SLM46425.1, 425
+1108, CP033381.1, Methylomonas sp. LW13, QBC26046.1, 443
+1109, CP033381.1, Methylomonas sp. LW13, QBC27031.1, 411
+1110, CP022713.1, Blautia coccoides, ASU27521.1, 436
+1112, CP015405.2, Blautia sp. YL58, ANU74716.1, 436
+1114, CP027562.1, Stenotrophomonas maltophilia, AVO28914.1, 413
+1115, CP015612.1, Stenotrophomonas maltophilia, ARQ88537.1, 413
+1116, HE980331.1, Clostridioides difficile, CCK73628.1, 430
+1117, CP020378.1, Clostridioides difficile, AXU28892.1, 422
+1118, CP020380.1, Clostridioides difficile, AXU36468.1, 422
+1119, CP020379.1, Clostridioides difficile, AXU32680.1, 422
+1120, CP005975.1, Pseudomonas fluorescens PICF7, AJZ94916.1, 454
+1122, CP010896.1, Pseudomonas fluorescens, AJP53748.1, 454
+1124, CP007637.1, Pseudomonas simiae, AIB37942.1, 454
+1126, CP032364.1, Lachnoanaerobaculum umeaense, AYB00731.1, 442
+1127, CP032364.1, Lachnoanaerobaculum umeaense, AYA98900.1, 433
+1128, HE577333.1, Azospirillum brasilense Sp245, CCD04059.1, 407
+1130, CP022256.1, Azospirillum brasilense Sp245, AWJ93510.1, 407
+1132, AF324836.3, Aneurinibacillus thermoaerophilus, AAS49125.1, 435
+1134, FP929050.1, Roseburia intestinalis XB6B4, CBL13760.1, 424
+1138, LR027880.1, Roseburia intestinalis L1-82, VCV20934.1, 434
+1140, CP001810.1, Butyrivibrio proteoclasticus B316, ADL33296.1, 456
+1143, CP014343.1, Pseudomonas putida, AMK30025.1, 411
+1144, FP929140.1, gamma proteobacterium HdN1, CBL44279.1, 456
+1150, LT799039.1, Pseudomonas putida, SKB79393.1, 405
+1153, CP017831.1, Butyrivibrio hungatei, AOZ95568.1, 441
+1154, CP017831.1, Butyrivibrio hungatei, AOZ95485.1, 424
+1155, CP021165.1, Klebsiella pneumoniae, AWQ52104.1, 443
+1156, CP034760.1, Klebsiella pneumoniae, AZV14111.1, 443
+1157, CP031814.1, Klebsiella pneumoniae, AXS08255.1, 443
+1158, CP000647.1, Klebsiella pneumoniae subsp. pneumoniae MGH 78578, ABR77903.1, 443
+1159, LT174596.1, Klebsiella pneumoniae, CZQ25252.1, 443
+1161, CP010415.1, Azotobacter chroococcum NCIMB 8003, AJE22106.1, 405
+1164, LT907843.1, Serratia sp. JKS000199, SNY82755.1, 444
+1165, CP033504.1, Serratia sp. LS-1, AYU89708.1, 444
+1166, CP025698.1, Serratia marcescens, AUO00597.1, 444
+1167, CP018924.1, Serratia marcescens, ASM01534.1, 444
+1168, FP929049.1, Roseburia intestinalis M50/1, CBL07742.1, 424
+1171, CP012639.1, Serratia marcescens, ALD43278.1, 444
+1173, LO018304.1, Planktothrix agardhii, CUM61585.1, 470
+1174, AP017991.1, Planktothrix agardhii NIES-204, BBD55478.1, 470
+1175, CP028519.1, Microvirgula aerodenitrificans, , 0
+1176, AP018298.1, Fischerella sp. NIES-4106, BAZ67920.1, 444
+1177, AP018298.1, Fischerella sp. NIES-4106, BAZ68734.1, 431
+1178, AP018298.1, Fischerella sp. NIES-4106, BAZ65637.1, 444
+1179, AP018298.1, Fischerella sp. NIES-4106, BAZ68237.1, 428
+1180, AP018298.1, Fischerella sp. NIES-4106, BAZ66845.1, 435
+1181, AP018298.1, Fischerella sp. NIES-4106, BAZ68341.1, 428
+1182, AP018298.1, Fischerella sp. NIES-4106, BAZ65920.1, 437
+1184, MH325899.1, Citrobacter braakii, AWU66706.1, 444
+1185, CP028901.1, Bordetella sp. HZ20, AWB35014.1, 411
+1187, CP011131.1, Lysobacter gummosus, ALN93123.1, 418
+1188, CP011131.1, Lysobacter gummosus, ALN92794.1, 376
+1189, CP013140.1, Lysobacter enzymogenes, ALN59586.1, 418
+1190, CP013140.1, Lysobacter enzymogenes, ALN59220.1, 381
+1191, MH325898.1, Citrobacter werkmanii, AWU66697.1, 446
+1192, CP029216.1, Klebsiella pneumoniae, AWJ10804.1, 443
+1193, CP028797.1, Klebsiella pneumoniae, AWA58301.1, 443
+1194, CP027068.2, Klebsiella pneumoniae, AVJ64789.1, 443
+1195, CP025951.1, Klebsiella pneumoniae subsp. pneumoniae, AUS19202.1, 443
+1196, CP028793.1, Klebsiella pneumoniae, AWA73704.1, 443
+1197, CP029689.1, Klebsiella pneumoniae, AXR49172.1, 443
+1198, CP036305.1, Klebsiella pneumoniae, QBH31885.1, 443
+1199, CP022882.1, Klebsiella pneumoniae, ASV27476.1, 443
+1200, CP023933.1, Klebsiella pneumoniae, ATM51927.1, 443
+1201, CP025461.1, Klebsiella pneumoniae, AUH92059.1, 443
+1202, AP018671.1, Klebsiella pneumoniae, BBE03037.1, 443
+1203, CP025456.1, Klebsiella pneumoniae, AUH80674.1, 443
+1204, CP028548.1, Klebsiella pneumoniae subsp. pneumoniae, AVZ89157.1, 443
+1205, CP026145.1, Klebsiella pneumoniae, QAW78034.1, 443
+1206, CP026140.1, Klebsiella pneumoniae, QAW72483.1, 443
+1207, CP026130.1, Klebsiella pneumoniae, AXK96272.1, 443
+1208, CP029226.1, Klebsiella pneumoniae, AWJ21366.1, 443
+1209, CP026136.1, Klebsiella pneumoniae, QAW66809.1, 443
+1211, CP026132.1, Klebsiella pneumoniae, QAW61052.1, 443
+1212, CP026149.1, Klebsiella pneumoniae, QAW83581.1, 443
+1215, CP029693.1, Pseudomonas putida, AWY43343.1, 465
+1216, CP029693.1, Pseudomonas putida, AWY44490.1, 460
+1218, CP022960.1, Pseudomonas sp. NS1(2017), ASV40062.1, 459
+1219, AP018184.1, Nostoc sp. NIES-2111, BAY40819.1, 434
+1220, AP018184.1, Nostoc sp. NIES-2111, BAY36712.1, 418
+1221, CP005095.1, Azotobacter vinelandii CA6, AGK19989.1, 447
+1222, CP001157.1, Azotobacter vinelandii DJ, ACO77812.1, 447
+1223, CP005094.1, Azotobacter vinelandii CA, AGK15275.1, 447
+1224, CP022997.1, Klebsiella pneumoniae, ASV88853.1, 443
+1232, CP012036.1, Nostoc piscinale CENA21, ALF54344.1, 408
+1235, CP021979.1, Sulfurospirillum sp. SL2-2, ASC94329.1, 407
+1236, CP019343.1, Oceanicoccus sagamiensis, ARN73883.1, 461
+1238, CP021416.1, Sulfurospirillum sp. SL2-1, ARU49526.1, 408
+1239, CP027804.1, Aeromonas hydrophila, AVP85298.1, 438
+1240, CP011130.1, Lysobacter capsici, ALN87632.1, 422
+1241, CP011130.1, Lysobacter capsici, ALN87310.1, 353
+1242, LN907827.1, Erwinia gerundensis, CUU24609.1, 428
+1243, FP929053.1, Ruminococcus sp. SR1/5, CBL21589.1, 440
+1245, CP014025.1, Pseudomonas fulva, AVF54714.1, 406
+1246, CP024933.1, Aeromonas veronii, ATY81920.1, 438
+1247, AP014940.1, Lysobacter enzymogenes, BAV96443.1, 421
+1248, AP014940.1, Lysobacter enzymogenes, BAV96766.1, 379
+1249, LN865164.1, Pseudomonas sp. URMO17WK12:I11, CRN04926.1, 406
+1251, CP015638.1, Pseudomonas fluorescens, AOE75207.1, 454
+1252, CP015638.1, Pseudomonas fluorescens, AOE73882.1, 418
+1254, CP015637.1, Pseudomonas fluorescens, AOE69496.1, 454
+1255, CP015637.1, Pseudomonas fluorescens, AOE68058.1, 418
+1258, LR134123.1, Klebsiella aerogenes, VDZ67713.1, 444
+1259, CP002824.1, Klebsiella aerogenes KCTC 2190, AEG99527.1, 444
+1260, CP021425.1, Oleiphilus messinensis, ARU55004.1, 407
+1262, AP017305.1, Fischerella sp. NIES-3754, BAU08247.1, 440
+1263, AP017305.1, Fischerella sp. NIES-3754, BAU06313.1, 428
+1264, AP017305.1, Fischerella sp. NIES-3754, BAU05249.1, 427
+1265, AP017305.1, Fischerella sp. NIES-3754, BAU05780.1, 437
+1266, AP017305.1, Fischerella sp. NIES-3754, BAU06166.1, 425
+1267, CP003600.1, Chamaesiphon minutus PCC 6605, AFY91608.1, 453
+1268, CP003600.1, Chamaesiphon minutus PCC 6605, AFY95607.1, 426
+1269, FP929054.1, Blautia obeum A2-162, CBL24560.1, 419
+1272, CP018810.1, Citrobacter freundii, APR32899.1, 440
+1273, CP020448.2, Citrobacter braakii, ARC39386.1, 440
+1274, CP024819.1, Citrobacter freundii, ATX03637.1, 440
+1278, CP019799.1, Cellvibrio sp. PSBB023, AQT61393.1, 447
+1281, CP019927.2, Serratia marcescens, AQT63273.1, 444
+1282, CP018917.1, Serratia marcescens, ASL86985.1, 444
+1283, CP033069.1, Acidovorax sp. 1608163, AYM97605.1, 462
+1287, CP026692.1, Lobaria pulmonaria (5183) cyanobiont, AVH70503.1, 432
+1289, AP018178.1, Calothrix sp. NIES-2100, BAY23075.1, 455
+1290, AP018178.1, Calothrix sp. NIES-2100, BAY21851.1, 423
+1291, AP018178.1, Calothrix sp. NIES-2100, BAY22419.1, 414
+1296, KC999970.1, Aeromonas hydrophila, AID71054.1, 434
+1299, CP034469.1, Pantoea agglomerans, QAV50028.1, 446
+1300, CP034474.1, Pantoea agglomerans, QAV45188.1, 446
+1302, CP000473.1, Candidatus Solibacter usitatus Ellin6076, ABJ88343.1, 437
+1304, CP000473.1, Candidatus Solibacter usitatus Ellin6076, ABJ85600.1, 437
+1307, HE577054.1, Paenibacillus polymyxa M1, CCI71314.1, 423
+1308, CP015438.1, Anoxybacillus amylolyticus, ANB61926.1, 406
+1309, CP034141.1, Paenibacillus sp. M-152, AZH31410.1, 432
+1310, FP929037.1, [Clostridium] cf. saccharolyticum K10, CBK78781.1, 465
+1311, CP026511.1, Pseudomonadaceae bacterium SI-3, AZZ46896.1, 455
+1312, CP011420.1, Paenibacillus polymyxa, APQ62228.1, 433
+1313, CP028568.1, Aeromonas hydrophila subsp. hydrophila, AWA08834.1, 434
+1315, CP003107.1, Paenibacillus terrae HPL-003, AET57610.1, 434
+1317, AP009179.1, Sulfurovum sp. NBC37-1, BAF71286.1, 408
+1319, CP009533.1, Pseudomonas rhizosphaerae, AIS17570.1, 404
+1322, CP020028.1, Paenibacillus kribbensis, ASR45673.1, 434
+1325, FO818640.1, Arthrospira sp. PCC 8005, CDM94288.1, 472
+1327, CP019899.1, Raoultella planticola, AUV52839.1, 448
+1331, CP002479.1, Geobacter sp. M18, ADW12452.1, 428
+1332, CP002479.1, Geobacter sp. M18, ADW13934.1, 435
+1333, CP007201.1, Sulfurospirillum multivorans DSM 12446, AHJ13800.1, 426
+1336, CP025535.1, Anoxybacillus kamchatkensis G10, AXM89098.1, 426
+1338, CP028425.1, Zoogloeaceae bacteirum Par-f-2, AVZ79673.1, 444
+1341, AP014642.1, Leptolyngbya boryana dg5, BAS62555.1, 420
+1342, AP014642.1, Leptolyngbya boryana dg5, BAS65235.1, 418
+1343, AP014642.1, Leptolyngbya boryana dg5, BAS65902.1, 416
+1345, AP014638.1, Leptolyngbya boryana IAM M-101, BAS56207.1, 420
+1346, AP014638.1, Leptolyngbya boryana IAM M-101, BAS58887.1, 418
+1347, AP014638.1, Leptolyngbya boryana IAM M-101, BAS59554.1, 416
+1349, AP018203.1, Leptolyngbya boryana NIES-2135, BAY57623.1, 420
+1351, AP018203.1, Leptolyngbya boryana NIES-2135, BAY54104.1, 416
+1352, CP014014.1, Stenotrophomonas maltophilia, AVH93101.1, 467
+1353, CP017483.1, Stenotrophomonas sp. LM091, AOX62843.1, 454
+1354, CP013008.1, Arthrospira platensis YZ, AMW28888.1, 472
+1355, AP017308.1, Leptolyngbya sp. NIES-3755, BAU12748.1, 417
+1356, AP017308.1, Leptolyngbya sp. NIES-3755, BAU11452.1, 417
+1357, AP017308.1, Leptolyngbya sp. NIES-3755, BAU13880.1, 436
+1358, AP017308.1, Leptolyngbya sp. NIES-3755, BAU11442.1, 447
+1359, AP017308.1, Leptolyngbya sp. NIES-3755, BAU11549.1, 428
+1360, LS483431.1, Campylobacter fetus subsp. fetus, SQH29842.1, 405
+1361, CP022198.1, Pseudomonas oryzihabitans, AXA64745.1, 405
+1362, CP008808.1, Campylobacter fetus subsp. fetus 04/554, AIR78431.1, 405
+1363, CP000155.1, Hahella chejuensis KCTC 2396, ABC29058.1, 473
+1367, CP034482.1, Rahnella aquatilis, AZP46212.1, 463
+1369, CP034481.1, Rahnella aquatilis, AZP41871.1, 463
+1371, CP034483.1, Rahnella aquatilis, AZP50688.1, 463
+1373, CP032296.1, Rahnella aquatilis, AYA06632.1, 463
+1375, CP003358.1, Mesorhizobium australicum WSM2073, AGB47338.1, 408
+1377, CP003677.1, Pseudomonas stutzeri CCUG 29243, AFM31730.1, 407
+1378, CP003558.1, Synechococcus sp. PCC 6312, AFY62266.1, 450
+1379, CP003558.1, Synechococcus sp. PCC 6312, AFY62540.1, 426
+1380, CP003558.1, Synechococcus sp. PCC 6312, AFY61429.1, 335
+1381, CP007032.1, Desulfitobacterium metallireducens DSM 15288, AHF08077.1, 463
+1383, FP565176.1, Xanthomonas albilineans GPE PC73, CBA17186.1, 414
+1389, CP026004.1, Stenotrophomonas sp. ESTM1D_MKCIP4_1, AWH52176.1, 446
+1391, CP019636.1, Nostocales cyanobacterium HT-58-2, ARV61256.1, 431
+1392, CP019636.1, Nostocales cyanobacterium HT-58-2, ARV58415.1, 430
+1393, CP019636.1, Nostocales cyanobacterium HT-58-2, ARV60054.1, 425
+1394, AP012029.1, Anaerolinea thermophila UNI-1, BAJ64954.1, 427
+1395, AP012029.1, Anaerolinea thermophila UNI-1, BAJ62665.1, 418
+1396, AP012029.1, Anaerolinea thermophila UNI-1, BAJ64046.1, 418
+1397, AP012029.1, Anaerolinea thermophila UNI-1, BAJ64647.1, 417
+1433, MH449684.1, Aeromonas hydrophila, AXL05108.1, 461
+1434, CP028418.1, Aeromonas hydrophila, AZU48796.1, 461
+1435, AP019193.1, Aeromonas hydrophila, BBG84311.1, 461
+1438, CP031225.1, Pseudomonas amygdali pv. lachrymans str. M301315, AXH57826.1, 449
+1440, CP026050.1, Serratia marcescens, AUU08826.1, 445
+1441, CP019682.1, Campylobacter sputorum bv. sputorum RM3237, ASM35806.1, 407
+1442, CP002986.1, Stenotrophomonas maltophilia JV3, AEM49847.1, 430
+1443, CP001968.1, Denitrovibrio acetiphilus DSM 12809, ADD69437.1, 409
+1444, CP015381.1, Desulfococcus multivorans, AOY57519.1, 465
+1448, CP034657.1, Xanthomonas vasicola, AZR36150.1, 418
+1449, CP011914.1, Eubacterium limosum, ALU13498.1, 429
+1450, LR133964.1, Klebsiella pneumoniae, VDY59476.1, 442
+1452, CP034649.1, Xanthomonas vasicola, AZR24036.1, 418
+1453, LR134324.1, Stenotrophomonas maltophilia, VEF37120.1, 430
+1467, CP010557.1, Raoultella ornithinolytica, AJF74041.1, 442
+1468, CP034653.1, Xanthomonas campestris pv. arecae, AZR25569.1, 418
+1469, CP025998.1, Stenotrophomonas sp. YAU14A_MKIMI4_1, AWH27952.1, 452
+1470, CP010811.1, Vibrio cholerae, AKB03494.1, 412
+1474, CP002736.1, Desulfotomaculum nigrificans CO-1-SRB, AEF95429.1, 440
+1475, CR555306.1, Aromatoleum aromaticum EbN1, CAI06992.1, 483
+1476, CP028127.1, Xanthomonas vasicola pv. vasculorum, AVQ08283.1, 418
+1477, CP025272.1, Xanthomonas vasicola pv. vasculorum, AZM72481.1, 418
+1478, CP031413.1, Lysobacter sp. TY2-98, AXK70887.1, 452
+1479, CP002109.1, [Clostridium] saccharolyticum WM1, ADL06323.1, 448
+1481, LR134493.1, Serratia rubidaea, VEI72517.1, 455
+1483, CP000644.1, Aeromonas salmonicida subsp. salmonicida A449, ABO89538.1, 438
+1484, CP022181.1, Aeromonas salmonicida, ASI28301.1, 438
+1485, CP022175.1, Aeromonas salmonicida, ASI23983.1, 438
+1486, CP022186.1, Aeromonas salmonicida, ASI32432.1, 438
+1487, CP027000.1, Aeromonas salmonicida subsp. salmonicida 01-B526, AYO62636.1, 438
+1519, CP000076.1, Pseudomonas protegens Pf-5, AAY94702.1, 455
+1520, CP000076.1, Pseudomonas protegens Pf-5, AAY91317.1, 424
+1521, CP022097.2, Pseudomonas protegens, ASE21147.1, 455
+1522, CP022097.2, Pseudomonas protegens, ASE24426.1, 424
+1527, LT630003.1, [Clostridium] sphenoides JCM 1415, SET96250.1, 448
+1529, CP034448.1, Mesorhizobium sp. M1B.F.Ca.ET.045.04.1.1, AZO31547.1, 411
+1530, CP034448.1, Mesorhizobium sp. M1B.F.Ca.ET.045.04.1.1, AZO32319.1, 499
+1531, CP011305.1, Stenotrophomonas maltophilia, ALA85196.1, 451
+1532, CP011306.1, Stenotrophomonas maltophilia, ALA89152.1, 451
+1533, CP011966.3, Clostridium beijerinckii NRRL B-598, ALB44144.1, 419
+1534, CP001720.1, Desulfofarcimen acetoxidans DSM 771, ACV64804.1, 468
+1536, CP002869.1, Paenibacillus mucilaginosus KNP414, AEI39233.1, 468
+1537, CP030874.1, Raoultella sp. X13, AXC29506.1, 442
+1538, CP000151.1, Burkholderia lata, ABB07575.1, 435
+1542, CP024314.1, Rhizobium sp. NXC24, AVA25737.1, 441
+1544, CP003190.1, Pseudomonas protegens CHA0, AGL83755.1, 447
+1545, CP003190.1, Pseudomonas protegens CHA0, AGL83861.1, 424
+1546, CP013184.1, Pseudomonas protegens, AQT08756.1, 447
+1547, CP013184.1, Pseudomonas protegens, AQT08828.1, 424
+1548, AP014522.1, Pseudomonas protegens Cab57, BAO61334.1, 447
+1549, AP014522.1, Pseudomonas protegens Cab57, BAO61402.1, 424
+1550, AP018254.1, Calothrix sp. NIES-3974, BAZ07213.1, 447
+1551, AP018254.1, Calothrix sp. NIES-3974, BAZ03592.1, 421
+1552, AP018254.1, Calothrix sp. NIES-3974, BAZ03872.1, 433
+1553, AP018254.1, Calothrix sp. NIES-3974, BAZ07051.1, 435
+1554, CP009343.1, Francisella philomiragia, AJI46691.1, 445
+1556, CP009436.1, Francisella philomiragia, AJI50075.1, 445
+1558, CP000937.1, Francisella philomiragia subsp. philomiragia ATCC 25017, ABZ87480.1, 445
+1564, CP015286.1, Paenibacillus glucanolyticus, ANA79731.1, 437
+1568, CP002580.1, Burkholderia plantarii, AJK44891.1, 464
+1570, CP007746.1, Burkholderia cepacia ATCC 25416, AIO25475.1, 435
+1572, CP023518.1, Burkholderia cepacia, ATF78228.1, 435
+1574, CP022083.2, Burkholderia cepacia, ASE93595.1, 435
+1576, CP012981.1, Burkholderia cepacia ATCC 25416, ALK17760.1, 435
+1580, CP013430.1, Burkholderia multivorans, AOJ92175.1, 436
+1581, CP021377.1, Oceanisphaera profunda, ART83921.1, 443
+1582, CP013375.1, Burkholderia cepacia, AOI81708.1, 435
+1584, CP003549.1, Rivularia sp. PCC 7116, AFY58270.1, 434
+1585, CP003549.1, Rivularia sp. PCC 7116, AFY58278.1, 432
+1586, CP003549.1, Rivularia sp. PCC 7116, AFY59008.1, 409
+1587, CP003549.1, Rivularia sp. PCC 7116, AFY56183.1, 430
+1588, AP018290.1, Calothrix sp. NIES-4105, BAZ56061.1, 444
+1589, AP018290.1, Calothrix sp. NIES-4105, BAZ56068.1, 429
+1590, AP018290.1, Calothrix sp. NIES-4105, BAZ56379.1, 443
+1591, AP018290.1, Calothrix sp. NIES-4105, BAZ63563.1, 431
+1592, AP018290.1, Calothrix sp. NIES-4105, BAZ56271.1, 432
+1593, AP018290.1, Calothrix sp. NIES-4105, BAZ58778.1, 421
+1595, AP018255.1, Calothrix sp. NIES-4071, BAZ09914.1, 444
+1596, AP018255.1, Calothrix sp. NIES-4071, BAZ09921.1, 429
+1597, AP018255.1, Calothrix sp. NIES-4071, BAZ10232.1, 443
+1598, AP018255.1, Calothrix sp. NIES-4071, BAZ17418.1, 431
+1599, AP018255.1, Calothrix sp. NIES-4071, BAZ10124.1, 432
+1600, AP018255.1, Calothrix sp. NIES-4071, BAZ12633.1, 421
+1603, CP023877.1, Raoultella planticola, ATM18154.1, 442
+1604, CP023874.1, Raoultella planticola, ATM04640.1, 442
+1605, CP031396.1, Pseudomonas protegens, AXK56666.1, 424
+1606, CP015399.2, Lachnoclostridium sp. YL32, ANU46568.1, 498
+1608, AP018280.1, Calothrix sp. NIES-4101, BAZ41265.1, 475
+1609, AP018280.1, Calothrix sp. NIES-4101, BAZ42341.1, 421
+1610, AP018280.1, Calothrix sp. NIES-4101, BAZ38299.1, 430
+1614, CP014578.1, Burkholderia sp. OLGA172, ANB71470.1, 460
+1618, CP006852.1, Pseudomonas sp. TKP, AHC35864.1, 418
+1619, CP007810.1, Xanthomonas oryzae pv. oryzicola, AKK65276.1, 454
+1620, CP011957.1, Xanthomonas oryzae pv. oryzicola, AKN99727.1, 454
+1623, CP036256.1, Xanthomonas oryzae, QBH02712.1, 448
+1624, CP036253.1, Xanthomonas oryzae, QBG90905.1, 448
+1625, CP036254.1, Xanthomonas oryzae, QBG94861.1, 448
+1626, AP018233.1, Fremyella diplosiphon NIES-3275, BAY93862.1, 433
+1627, AP018233.1, Fremyella diplosiphon NIES-3275, BAY92022.1, 444
+1628, AP018233.1, Fremyella diplosiphon NIES-3275, BAY94726.1, 425
+1629, AP018233.1, Fremyella diplosiphon NIES-3275, BAY88789.1, 419
+1630, AP018233.1, Fremyella diplosiphon NIES-3275, BAY92051.1, 426
+1631, CP011960.1, Xanthomonas oryzae pv. oryzicola, AKO13505.1, 454
+1632, CP011958.1, Xanthomonas oryzae pv. oryzicola, AKO03468.1, 454
+1633, CP011959.1, Xanthomonas oryzae pv. oryzicola, AKO07358.1, 454
+1634, CP007221.1, Xanthomonas oryzae pv. oryzicola, AJQ86422.1, 454
+1635, HG916765.1, Castellaniella defragrans 65Phen, CDM22492.1, 447
+1637, CP002279.1, Mesorhizobium opportunistum WSM2075, AEH87084.1, 408
+1643, CP020882.1, Xanthomonas citri pv. citri, ARR16261.1, 454
+1644, CP020889.1, Xanthomonas citri pv. citri, ARR21506.1, 454
+1645, CP020885.1, Xanthomonas citri pv. citri, ARR13570.1, 454
+1647, FP929062.1, butyrate-producing bacterium SS3/4, CBL41638.1, 438
+1648, CP011077.1, Klebsiella michiganensis, AJZ90163.1, 405
+1652, CP003380.1, Methylophaga frappieri, AFJ03430.1, 409
+1655, AP018307.1, Aulosira laxa NIES-50, BAZ73151.1, 433
+1656, AP018307.1, Aulosira laxa NIES-50, BAZ74226.1, 424
+1657, AP018307.1, Aulosira laxa NIES-50, BAZ73918.1, 430
+1658, AP018307.1, Aulosira laxa NIES-50, BAZ71901.1, 429
+1659, AP018307.1, Aulosira laxa NIES-50, BAZ71870.1, 419
+1660, AP018248.1, Tolypothrix tenuis PCC 7101, BAY96342.1, 433
+1661, AP018248.1, Tolypothrix tenuis PCC 7101, BAZ01849.1, 424
+1662, AP018248.1, Tolypothrix tenuis PCC 7101, BAZ02161.1, 430
+1663, AP018248.1, Tolypothrix tenuis PCC 7101, BAY97591.1, 429
+1664, AP018248.1, Tolypothrix tenuis PCC 7101, BAY97622.1, 419
+1667, FP565575.1, Candidatus Methylomirabilis oxyfera, CBE67350.1, 422
+1669, CP011961.1, Xanthomonas oryzae pv. oryzicola, AKO17247.1, 454
+1670, CP011956.1, Xanthomonas oryzae pv. oryzicola, AKN98279.1, 454
+1671, CP011955.1, Xanthomonas oryzae pv. oryzicola, AKN94556.1, 454
+1672, CP003154.1, Thiocystis violascens DSM 198, AFL74597.1, 455
+1673, CP003154.1, Thiocystis violascens DSM 198, AFL75862.1, 418
+1674, CP003154.1, Thiocystis violascens DSM 198, AFL72201.1, 407
+1675, CP003057.2, Xanthomonas oryzae pv. oryzicola BLS256, AEQ97958.1, 454
+1676, CP011962.1, Xanthomonas oryzae pv. oryzicola, AKO21071.1, 454
+1678, AP019400.1, Cohnella sp. HS21, BBI35681.1, 419
+1679, AP019400.1, Cohnella sp. HS21, BBI36179.1, 433
+1682, CP018919.1, Serratia marcescens, ASL92056.1, 441
+1684, CP003360.1, Desulfomonile tiedjei DSM 6799, AFM26291.1, 432
+1689, CP023271.1, Stenotrophomonas sp. MYb57, AVJ31756.1, 464
+1690, CP034455.1, Mesorhizobium sp. M1A.F.Ca.IN.022.06.1.1, AZO59049.1, 411
+1693, CP002217.1, Burkholderia sp. CCGE1003, ADN56742.1, 455
+1694, CP020369.1, Pseudomonas tolaasii, ARB27929.1, 443
+1696, LT174600.1, Klebsiella pneumoniae, CZQ25285.1, 440
+1699, CP010163.1, Escherichia coli, APK54671.1, 440
+1700, CP034589.1, Escherichia coli, AZQ80639.1, 440
+1701, CP034734.1, Escherichia coli, AZU80476.1, 440
+1702, CP034678.1, Klebsiella quasipneumoniae, AZR62469.1, 440
+1708, LR134196.1, Klebsiella pneumoniae, VEB72089.1, 440
+1709, CP034136.1, Klebsiella quasipneumoniae subsp. similipneumoniae, AZJ27202.1, 440
+1710, CP034129.1, Klebsiella quasipneumoniae, AZJ04202.1, 440
+1711, AP014836.1, Candidatus Nitrosoglobus terrae, BAW80177.1, 416
+1712, AP014836.1, Candidatus Nitrosoglobus terrae, BAW79537.1, 397
+1714, CP019091.1, Xanthomonas oryzae pv. oryzae, AUJ13820.1, 410
+1715, CP009279.1, Paenibacillus sp. FSL H7-0737, AIQ26310.1, 408
+1719, CP008760.1, Paraburkholderia xenovorans LB400, AIP30660.1, 448
+1720, CP000270.1, Paraburkholderia xenovorans LB400, ABE29200.1, 448
+1721, CP000158.1, Hyphomonas neptunium ATCC 15444, ABI77736.1, 417
+1723, CP007203.2, Nodularia spumigena CCY9414, AHJ28663.1, 429
+1725, CP013384.1, Burkholderia sp. LA-2-3-30-S1-D2, AOI98764.1, 437
+1728, CP024784.1, Enterobacteriaceae bacterium S05, AWB64419.1, 440
+1733, CP009284.1, Paenibacillus sp. FSL R7-0331, AIQ55097.1, 427
+1735, FP236843.1, Erwinia billingiae Eb661, CAX60454.1, 444
+1739, CP018089.1, Xanthomonas oryzae pv. oryzae, AZK86407.1, 410
+1740, CP036255.1, Xanthomonas oryzae, QBH02097.1, 372
+1742, CP020600.1, Burkholderia cenocepacia, ARF88918.1, 411
+1743, CP020599.1, Burkholderia cenocepacia, ARF86335.1, 411
+1745, CP013450.1, Burkholderia cenocepacia, AOK33506.1, 437
+1747, AM747720.1, Burkholderia cenocepacia J2315, CAR53453.1, 437
+1750, AP018222.1, Nostoc linckia NIES-25, BAY77162.1, 463
+1751, AP018222.1, Nostoc linckia NIES-25, BAY74481.1, 425
+1752, CP022464.2, [Clostridium] bolteae, ASN98700.1, 498
+1753, CP022464.2, [Clostridium] bolteae, ASN97924.1, 401
+1754, MH449673.1, Aeromonas hydrophila, AXL04785.1, 413
+1755, CP024930.1, Aeromonas veronii, ATY78206.1, 413
+1756, CP003590.1, Pleurocapsa sp. PCC 7327, AFY75527.1, 467
+1757, CP003590.1, Pleurocapsa sp. PCC 7327, AFY78754.1, 428
+1758, CP003590.1, Pleurocapsa sp. PCC 7327, AFY77444.1, 406
+1759, LT629736.1, Pseudomonas xinjiangensis, SDS00422.1, 442
+1761, LT629735.1, Opitutus sp. GAS368, SDS63704.1, 412
+1762, CP026365.1, Bacillus thermocopriae, QAV25726.1, 399
+1763, CP011456.1, Anabaena sp. WA102, ALB42053.1, 457
+1767, CP013424.1, Burkholderia sp. MSMB0852, AOJ80025.1, 450
+1770, CP000390.1, Chelativorans sp. BNC1, ABG65062.1, 429
+1773, CP013457.1, Burkholderia sp. MSMB617WGS, AOK46254.1, 450
+1776, CP013404.1, Burkholderia lata, AOJ37192.1, 437
+1778, AP018194.1, Scytonema sp. HK-05, BAY42652.1, 447
+1779, AP018194.1, Scytonema sp. HK-05, BAY48376.1, 437
+1781, AP018194.1, Scytonema sp. HK-05, BAY46300.1, 424
+1782, AP018194.1, Scytonema sp. HK-05, BAY46307.1, 426
+1783, AP018194.1, Scytonema sp. HK-05, BAY47863.1, 425
+1784, LR134301.1, Stenotrophomonas maltophilia, VEE53170.1, 464
+1785, AM743169.1, Stenotrophomonas maltophilia K279a, CAQ44203.1, 464
+1786, CP008838.1, Stenotrophomonas maltophilia, AIL08332.1, 464
+1787, LT906480.1, Stenotrophomonas maltophilia, SNW05569.1, 464
+1789, CP007067.1, Rhizobium leguminosarum bv. trifolii CB782, AHG44175.1, 447
+1791, CP015130.1, Klebsiella pneumoniae, ANK46176.1, 453
+1794, CP017599.1, Moorea producens PAL-8-15-08-1, AOX00343.1, 408
+1795, CP017599.1, Moorea producens PAL-8-15-08-1, AOX04696.1, 425
+1797, CP025473.1, Enterococcus mundtii, AZP92413.1, 406
+1798, CP001053.1, Paraburkholderia phytofirmans PsJN, ACD18695.1, 456
+1800, CP002775.1, Serratia sp. AS13, AEG27368.1, 440
+1801, CP002773.1, Serratia plymuthica AS9, AEF44709.1, 440
+1802, CP002774.1, Serratia sp. AS12, AEF49661.1, 440
+1805, CP003592.1, Pseudanabaena sp. PCC 7367, AFY71827.1, 488
+1807, CP016090.1, Clostridium beijerinckii, AQS07614.1, 419
+1808, CP033900.1, Klebsiella pneumoniae, AZA40275.1, 453
+1810, CP012192.1, Burkholderia sp. HB1, ALE53861.1, 457
+1811, CP012192.1, Burkholderia sp. HB1, ALE53859.1, 483
+1812, CP034429.1, Pseudomonas aeruginosa, AZP69212.1, 326
+1815, CP020114.1, Nodularia spumigena UHCC 0039, AVZ31606.1, 429
+1818, AP013036.1, Enterococcus mundtii QU 25, BAO06458.1, 406
+1819, CP013730.1, Burkholderia cepacia JBK9, ALX12776.1, 437
+1829, CP027705.1, Pseudomonas sp. CMR5c, AZC20987.1, 450
+1831, CP009241.1, Paenibacillus sp. FSL H7-0357, AIQ20839.1, 407
+1833, CP026124.1, Achromobacter sp. AONIH1, AUT45201.1, 436
+1835, LT174598.1, Klebsiella pneumoniae, CZQ25267.1, 453
+1836, CP023270.1, Achromobacter spanius, AVJ30636.1, 458
+1841, CP012046.1, Achromobacter xylosoxidans, AKP92600.1, 453
+1842, CP017433.1, Achromobacter ruhlandii, AOU96444.1, 453
+1843, AP018227.1, Calothrix parasitica NIES-267, BAY81017.1, 446
+1844, AP018227.1, Calothrix parasitica NIES-267, BAY81005.1, 431
+1845, AP018227.1, Calothrix parasitica NIES-267, BAY87269.1, 430
+1846, AP018227.1, Calothrix parasitica NIES-267, BAY83316.1, 441
+1847, AP014950.1, Klebsiella pneumoniae, BAS34450.1, 453
+1849, CP018061.1, Enterococcus mundtii, AUB52112.1, 406
+1852, CP000528.1, Desulfovibrio vulgaris DP4, ABM30043.1, 478
+1857, CP021780.1, Paenibacillus donghaensis, ASA24434.1, 403
+1859, CP001390.1, Geobacter daltonii FRC-32, ACM19807.1, 443
+1860, CP001390.1, Geobacter daltonii FRC-32, ACM21298.1, 397
+1861, LS483371.1, Paucimonas lemoignei, SQG00711.1, 450
+1862, LS483371.1, Paucimonas lemoignei, SQG00485.1, 412
+1863, CP022930.1, Enterococcus durans, ASV95701.1, 406
+1864, CP001798.1, Nitrosococcus halophilus Nc 4, ADE15671.1, 411
+1865, CP001798.1, Nitrosococcus halophilus Nc 4, ADE16657.1, 409
+1867, AP010904.1, Desulfovibrio magneticus RS-1, BAH76110.1, 459
+1868, CP013358.1, Burkholderia oklahomensis C6786, AOI45108.1, 465
+1871, CP009555.1, Burkholderia oklahomensis C6786, AJX30744.1, 465
+1880, CP012366.1, Enterococcus durans, AKX86554.1, 406
+1882, CP002735.1, Delftia sp. Cs1-4, AEF88039.1, 441
+1883, CP013435.1, Burkholderia latens, AOK03715.1, 464
+1884, CP022365.1, Azospirillum sp. TSH58, AWJ85517.1, 450
+1886, CP016392.1, Aeromonas hydrophila, ANR99377.1, 470
+1891, LT883155.1, Serratia grimesii, SMZ55952.1, 463
+1892, CP022998.1, Rhizobium sp. 11515TR, ASW04844.1, 456
+1894, CP016172.1, Bordetella flabilis, ANN79917.1, 444
+1902, LR134297.1, Enterococcus hirae, VEE82801.1, 406
+1903, CP003504.1, Enterococcus hirae ATCC 9790, AFM69028.1, 406
+1904, CP023011.2, Enterococcus hirae, ASV82772.1, 406
+1905, CP015516.1, Enterococcus hirae, AND71998.1, 406
+1907, CP017708.1, Moorea producens JHB, AOY80920.1, 408
+1908, CP017708.1, Moorea producens JHB, AOY84325.1, 425
+1910, CP002205.1, Sulfurimonas autotrophica DSM 16294, ADN08329.1, 441
+1912, CP023344.1, Verrucomicrobia bacterium, ATC63280.1, 410
+1913, CP023344.1, Verrucomicrobia bacterium, ATC65709.1, 410
+1914, CP002213.2, Paenibacillus polymyxa SC2, ADO58772.1, 407
+1916, CP021885.1, Enterococcus faecium, AUJ66360.1, 406
+1918, LR215968.1, Enterococcus faecium, VFA48926.1, 406
+1919, CP027402.1, Enterococcus faecium, AVL44113.1, 406
+1920, CP012522.1, Enterococcus faecium, ALF49167.1, 406
+1921, CP035136.1, Enterococcus faecium, QAR73703.1, 406
+1922, CP032308.1, Enterococcus faecium, AYA34879.1, 406
+1923, CP033376.1, Enterococcus faecium, AYQ59846.1, 406
+1925, CP025685.1, Enterococcus faecium, QAA20271.1, 406
+1926, CP025077.1, Enterococcus faecium, AUC72316.1, 406
+1927, CP004063.1, Enterococcus faecium ATCC 8459 = NRRL B-2354, AGE30017.1, 406
+1929, CP030110.1, Enterococcus faecium, AWX48151.1, 406
+1930, CP013009.1, Enterococcus faecium, ALL09703.1, 406
+1931, CP006030.1, Enterococcus faecium T110, AII39539.1, 406
+1932, CP035220.1, Enterococcus faecium, QAT23432.1, 406
+1933, CP025022.1, Enterococcus faecium Com15, AZV36058.1, 406
+1935, CP003583.1, Enterococcus faecium DO, AFK58527.1, 406
+1938, CP033041.1, Enterococcus faecium, AYM73483.1, 406
+1939, CP021849.1, Enterococcus faecium, ATU30709.1, 406
+1940, CP023423.1, Enterococcus faecium, ATD77945.1, 406
+1942, CP016163.1, Enterococcus faecium, AON61371.1, 406
+1949, CP020484.1, Enterococcus faecium, AWV57893.1, 406
+1951, CP020488.1, Enterococcus faecium, AWV60908.1, 406
+1956, CP019988.1, Enterococcus faecium, AQY28005.1, 406
+1963, CP012436.1, Enterococcus faecium, AOM18774.1, 406
+1964, CP018065.1, Enterococcus faecium, APE40665.1, 406
+1965, CP012447.1, Enterococcus faecium, AOM24708.1, 406
+1966, CP018071.1, Enterococcus faecium, APJ06794.1, 406
+1969, CP013994.1, Enterococcus faecium, ALZ52408.1, 406
+1970, CP012465.1, Enterococcus faecium, AOM35546.1, 406
+1971, CP019992.1, Enterococcus faecium, AQY33219.1, 406
+1973, CP006620.1, Enterococcus faecium Aus0085, AGS74896.1, 406
+1977, CP009287.1, Paenibacillus graminis, AIQ71282.1, 406
+1979, CP014844.1, Cupriavidus nantongensis, AMR79246.1, 453
+1981, AP014627.1, Pseudomonas sp. Os17, BAQ73698.1, 424
+1983, CP003235.1, Paenibacillus mucilaginosus 3016, AFC27515.1, 408
+1984, CP002086.1, Nitrosococcus watsonii C-113, ADJ28050.1, 416
+1985, CP002086.1, Nitrosococcus watsonii C-113, ADJ27849.1, 396
+1992, CP011281.1, Enterococcus faecium, ANB93393.1, 406
+1993, CP018830.1, Enterococcus faecium, APV56627.1, 406
+1994, CP018828.1, Enterococcus faecium, APV53834.1, 406
+1995, CP025754.1, Enterococcus faecium, AUO60344.1, 406
+1996, CP012454.1, Enterococcus faecium, AOM28902.1, 406
+1997, CP012460.1, Enterococcus faecium, AOM31176.1, 406
+1998, CP012440.1, Enterococcus faecium, AOM23116.1, 406
+1999, CP023780.1, Enterococcus faecium, AUI15218.1, 406
+2000, CP023799.1, Enterococcus faecium, AUI27057.1, 406
+2001, CP023789.1, Enterococcus faecium, AUI21113.1, 406
+2002, CP017797.1, Enterococcus faecium, ATU02703.1, 406
+2003, CP017792.1, Enterococcus faecium, ATT99750.1, 406
+2004, CP017787.1, Enterococcus faecium, ATW35712.1, 406
+2005, CP023794.1, Enterococcus faecium, AUI24083.1, 406
+2006, CP023784.1, Enterococcus faecium, AUI18142.1, 406
+2007, CP012471.1, Enterococcus faecium, AOM37393.1, 406
+2008, CP023804.1, Enterococcus faecium, AUI30033.1, 406
+2009, CP023808.1, Enterococcus faecium, AUI32962.1, 406
+2010, CP025389.1, Enterococcus faecium, AVJ42646.1, 406
+2011, CP012430.1, Enterococcus faecium, AOM15410.1, 406
+2013, LT629764.1, Paenibacillaceae bacterium GAS479, SDS94793.1, 406
+2018, LR134337.1, Enterococcus faecium, VEF85682.1, 406
+2025, CP004121.1, Clostridium saccharoperbutylacetonicum N1-4(HMT), AGF59170.1, 412
+2027, CP003597.1, Chroococcidiopsis thermalis PCC 7203, AFY90617.1, 459
+2028, CP003597.1, Chroococcidiopsis thermalis PCC 7203, AFY87860.1, 425
+2029, CP003597.1, Chroococcidiopsis thermalis PCC 7203, AFY88603.1, 437
+2030, CP003597.1, Chroococcidiopsis thermalis PCC 7203, AFY90011.1, 434
+2031, CP003597.1, Chroococcidiopsis thermalis PCC 7203, AFY90204.1, 431
+2033, CP003597.1, Chroococcidiopsis thermalis PCC 7203, AFY86805.1, 431
+2034, CP003597.1, Chroococcidiopsis thermalis PCC 7203, AFY90002.1, 432
+2035, LR134155.1, Serratia rubidaea, VEA72761.1, 369
+2036, CP008762.1, Paraburkholderia xenovorans LB400, AIP36156.1, 472
+2037, CP000271.1, Paraburkholderia xenovorans LB400, ABE35302.1, 472
+2039, CP003610.1, Calothrix sp. PCC 6303, AFZ03536.1, 455
+2040, CP003610.1, Calothrix sp. PCC 6303, AFZ02031.1, 425
+2041, CP003610.1, Calothrix sp. PCC 6303, AFZ04325.1, 425
+2042, CP022990.1, Paraburkholderia aromaticivorans, ASW01647.1, 456
+2043, CP011828.1, Enterococcus faecium, AMP61608.1, 406
+2049, CP036151.1, Enterococcus faecium, QBF48901.1, 406
+2055, LN999987.1, Enterococcus faecium, CVH53123.1, 406
+2056, CP025425.1, Enterococcus faecium, AUH47131.1, 406
+2060, CP014449.1, Enterococcus faecium, AMQ96795.1, 406
+2061, CP033206.1, Enterococcus faecium, AZQ17075.1, 406
+2062, CP025392.1, Enterococcus faecium, AVJ44531.1, 406
+2064, CP003351.1, Enterococcus faecium Aus0004, AFC63471.1, 406
+2065, FR745875.1, Clostridium botulinum B str. Eklund 17B (NRP), CDH92151.1, 406
+2067, CP000804.1, Roseiflexus castenholzii DSM 13941, ABU59692.1, 443
+2069, CP001739.1, Sebaldella termitidis ATCC 33386, ACZ09262.1, 415
+2073, CP013414.1, Burkholderia ubonensis, AOJ61824.1, 462
+2075, CP000698.1, Geobacter uraniireducens Rf4, ABQ25870.1, 420
+2077, CP009001.1, Xanthomonas citri pv. citri, AJZ01443.1, 409
+2078, CP008989.1, Xanthomonas citri pv. citri, AJY83701.1, 409
+2079, CP008992.1, Xanthomonas citri subsp. citri UI6, AJY88127.1, 409
+2080, CP011827.2, Xanthomonas citri pv. citri, AKM27438.1, 392
+2081, CP009013.1, Xanthomonas citri pv. citri, AJZ19187.1, 409
+2082, CP009010.1, Xanthomonas citri pv. citri, AJZ14763.1, 409
+2083, CP008998.1, Xanthomonas citri pv. citri, AJY97019.1, 409
+2084, CP009004.1, Xanthomonas citri pv. citri, AJZ05871.1, 409
+2085, CP023662.1, Xanthomonas citri pv. citri, AYL27617.1, 392
+2086, CP009019.1, Xanthomonas citri pv. citri, AJZ28039.1, 409
+2087, CP009016.1, Xanthomonas citri pv. citri, AJZ23615.1, 409
+2088, CP023661.1, Xanthomonas citri pv. citri, AYL23186.1, 392
+2089, CP018850.1, Xanthomonas citri pv. citri, APR15020.1, 392
+2090, CP023285.1, Xanthomonas citri pv. citri, AUZ52485.1, 392
+2094, CP018854.1, Xanthomonas citri pv. citri, APR22462.1, 392
+2095, CP009022.1, Xanthomonas citri pv. citri, AJZ32480.1, 409
+2096, CP006857.1, Xanthomonas citri subsp. citri A306, AJD70192.1, 409
+2097, CP009007.1, Xanthomonas citri pv. citri, AJZ10312.1, 409
+2098, CP009025.1, Xanthomonas citri pv. citri, AJZ36944.1, 409
+2099, CP009028.1, Xanthomonas citri pv. citri, AJZ41411.1, 409
+2101, CP008995.1, Xanthomonas citri pv. citri, AJY92572.1, 409
+2104, CP023074.1, Enterococcus thailandicus, ASZ07946.1, 406
+2105, CP023074.1, Enterococcus thailandicus, ASZ08170.1, 475
+2107, CP029835.1, Azospirillum sp. M2T2B2, AWU97976.1, 473
+2108, CP000090.1, Cupriavidus pinatubonensis JMP134, AAZ60099.1, 464
+2109, CP006250.1, Serratia plymuthica 4Rx13, AGO54461.1, 439
+2112, CP015600.1, Pseudomonas antarctica, ANF87597.1, 461
+2113, LT991976.1, Cupriavidus taiwanensis, SPK71354.1, 431
+2117, CP026193.1, Enterobacteriaceae bacterium ENNIH1, AUV04138.1, 446
+2119, FQ311874.1, Azospirillum lipoferum 4B, CBS91605.1, 467
+2121, CP013614.1, Enterococcus silesiacus, ALS03195.1, 405
+2123, CP001511.1, Methylorubrum extorquens AM1, ACS43285.1, 441
+2124, CP001052.1, Paraburkholderia phytofirmans PsJN, ACD15306.1, 493
+2125, CP003344.1, Desulfitobacterium dichloroeliminans LMG P-21439, AGA68985.1, 399
+2130, CP000246.1, Clostridium perfringens ATCC 13124, ABG83461.1, 390
+2131, CP000246.1, Clostridium perfringens ATCC 13124, ABG84107.1, 393
+2136, CP028149.1, Clostridium perfringens, AXH51366.1, 390
+2137, CP028149.1, Clostridium perfringens, AXH51369.1, 393
+2138, CP009557.1, Clostridium perfringens, ALG47654.1, 390
+2139, CP009557.1, Clostridium perfringens, ALG47657.1, 393
+2140, CP013101.1, Clostridium perfringens, AOY52694.1, 390
+2141, CP013101.1, Clostridium perfringens, AOY52697.1, 393
+2142, CP023410.1, Clostridium perfringens, ATD49811.1, 390
+2143, CP023410.1, Clostridium perfringens, ATD49808.1, 393
+2144, CP010993.1, Clostridium perfringens, AMN31645.1, 390
+2145, CP010993.1, Clostridium perfringens, AMN31648.1, 393
+2146, CP017106.1, Clostridium perfringens, ASY50365.1, 390
+2147, CP017106.1, Clostridium perfringens, ASY50368.1, 393
+2148, CP025501.1, Clostridium perfringens, AWS24858.1, 390
+2149, CP025501.1, Clostridium perfringens, AWS24861.1, 393
+2150, CP019576.1, Clostridium perfringens, AQW25559.1, 390
+2151, CP019576.1, Clostridium perfringens, AQW25562.1, 393
+2153, CP021111.1, Bordetella genomosp. 13, ARP96981.1, 441
+2155, CP019468.1, Clostridium perfringens, AQW22655.1, 390
+2156, CP019468.1, Clostridium perfringens, AQW22658.1, 393
+2157, CP002432.1, Desulfurispirillum indicum S5, ADU64980.1, 408
+2158, CP010994.1, Clostridium perfringens, AMN34489.1, 390
+2159, CP010994.1, Clostridium perfringens, AMN34492.1, 393
+2160, CP003179.1, Sulfobacillus acidophilus DSM 10332, AEW05728.1, 400
+2161, CP002901.1, Sulfobacillus acidophilus TPY, AEJ39591.1, 400
+2162, CP026538.1, Desulfovibrio carbinolicus, QAZ67921.1, 459
+2163, CP017754.1, Cupriavidus sp. USMAA1020, AOZ07340.1, 458
+2164, CP017748.1, Cupriavidus sp. USMAA2-4, AOY93003.1, 458
+2169, CP000312.1, Clostridium perfringens SM101, ABG85930.1, 390
+2170, CP000312.1, Clostridium perfringens SM101, ABG86657.1, 393
+2175, CP001793.1, Paenibacillus sp. Y412MC10, ACX68021.1, 407
+2178, CP013655.1, Enterococcus rotai, ALS37351.1, 405
+2179, CP003639.1, Desulfosporosinus acidiphilus SJ4, AFM43261.1, 441
+2184, CP009909.1, Paenibacillus polymyxa, AIY08915.1, 435
+2185, CP006872.1, Paenibacillus polymyxa SQR-21, AHM68175.1, 435
+2189, AP018268.1, Scytonema sp. NIES-4073, BAZ21751.1, 445
+2190, AP018268.1, Scytonema sp. NIES-4073, BAZ22470.1, 425
+2191, AP018268.1, Scytonema sp. NIES-4073, BAZ24799.1, 426
+2192, AP018268.1, Scytonema sp. NIES-4073, BAZ24803.1, 427
+2193, AP018268.1, Scytonema sp. NIES-4073, BAZ22590.1, 428
+2194, AP018268.1, Scytonema sp. NIES-4073, BAZ21025.1, 425
+2197, CP018102.1, Enterococcus faecalis, APE72942.1, 405
+2198, CP018004.1, Enterococcus faecalis, APC56314.1, 405
+2199, AP017623.1, Enterococcus faecalis, BAV36901.1, 405
+2200, CP015998.1, Enterococcus faecalis, APS15895.1, 405
+2201, CP022488.1, Enterococcus faecalis ARO1/DG, AUC58618.1, 405
+2202, CP022488.1, Enterococcus faecalis ARO1/DG, AUC58829.1, 447
+2204, LR134312.1, Enterococcus faecalis, VEE96792.1, 405
+2205, CP025020.1, Enterococcus faecalis OG1RF, AZV34473.1, 405
+2206, CP002621.1, Enterococcus faecalis OG1RF, AEA94413.1, 405
+2207, CP025021.1, Enterococcus faecalis, AZV97316.1, 405
+2208, CP014949.1, Enterococcus faecalis, AMR94987.1, 405
+2209, HF558530.1, Enterococcus faecalis str. Symbioflor 1, CCO72859.1, 405
+2210, CP022059.2, Enterococcus faecalis, ASE66421.1, 405
+2211, CP015883.1, Enterococcus faecalis, ARV04069.1, 405
+2212, CP015883.1, Enterococcus faecalis, ARV04251.1, 461
+2213, AP018543.1, Enterococcus faecalis, BBD28410.1, 405
+2214, AP018543.1, Enterococcus faecalis, BBD28649.1, 447
+2216, AP018538.1, Enterococcus faecalis, BBD25369.1, 405
+2217, AP018538.1, Enterococcus faecalis, BBD25608.1, 447
+2221, CP028285.1, Enterococcus faecalis, AVR92315.1, 405
+2222, CP008816.1, Enterococcus faecalis ATCC 29212, AIL05031.1, 405
+2223, CP008816.1, Enterococcus faecalis ATCC 29212, AIL03767.1, 447
+2224, CP004081.1, Enterococcus faecalis DENG1, AHI41143.1, 405
+2225, CP033787.1, Enterococcus faecalis, AYZ07556.1, 405
+2227, CP003726.1, Enterococcus faecalis D32, AFO44660.1, 405
+2228, CP022712.1, Enterococcus faecalis, ASU25364.1, 405
+2229, CP022712.1, Enterococcus faecalis, ASU25783.1, 447
+2230, CP015410.2, Enterococcus faecalis, ANU73322.1, 405
+2231, CP015410.2, Enterococcus faecalis, ANU73734.1, 447
+2232, CP031027.1, Enterococcus faecalis, AXG88916.1, 405
+2233, CP031027.1, Enterococcus faecalis, AXG89149.1, 447
+2234, FP929058.1, Enterococcus faecalis, CBL31987.1, 405
+2235, FP929058.1, Enterococcus faecalis, CBL32157.1, 447
+2236, CP019512.1, Enterococcus faecalis, AQL54092.1, 405
+2237, CP019512.1, Enterococcus faecalis, AQL54325.1, 447
+2238, CP029612.1, Enterococcus faecalis, AWQ40273.1, 405
+2239, CP029612.1, Enterococcus faecalis, AWQ40487.1, 447
+2240, AE016830.1, Enterococcus faecalis V583, AAO81914.1, 405
+2241, AE016830.1, Enterococcus faecalis V583, AAO82202.1, 447
+2242, CP013737.1, Herbaspirillum rubrisubalbicans M1, ALU87684.1, 429
+2244, CP034452.1, Mesorhizobium sp. M6A.T.Cr.TU.016.01.1.1, AZO63871.1, 510
+2250, CP002491.1, Enterococcus faecalis 62, ADX80690.1, 405
+2253, CP020979.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS40895.1, 392
+2254, CP020983.1, Xanthomonas citri pv. phaseoli var. fuscans, ATS49369.1, 392
+2256, CP026536.1, Enterobacter cloacae, QAZ63453.1, 407
+2257, CP003587.1, Gloeobacter kilaueensis JS1, AGY59714.1, 420
+2261, LT629972.1, Pseudomonas fuscovaginae, SEI22809.1, 453
+2262, LT629787.1, Pseudomonas salegens, SDU36004.1, 420
+2264, KF991096.1, Xanthomonas citri pv. punicae, AIM48023.1, 409
+2265, CP014222.1, Janthinobacterium sp. B9-8, AMC36766.1, 397
+2267, LN847264.1, Pseudomonas sp. CCOS 191, CRI59812.1, 446
+2270, CP003284.1, Anabaena sp. 90, AFW95339.1, 419
+2271, CP003284.1, Anabaena sp. 90, AFW95212.1, 443
+2272, CP013102.1, Paraburkholderia caribensis, ALP62201.1, 468
+2273, CP026101.1, Paraburkholderia caribensis, AUT52571.1, 468
+2275, CP026520.1, Paenibacillus chitinolyticus, QAV17081.1, 402
+2277, CP025957.1, Paenibacillus polymyxa, AUS28822.1, 435
+2282, LT896716.1, Geobacter sp. DSM 9736, SNB46631.1, 428
+2284, DQ311660.2, Rhizobium tropici CIAT 899, ABC47694.2, 460
+2286, CP019666.1, Burkholderia cenocepacia, AQQ19337.1, 439
+2289, CP028288.1, Acidovorax avenae subsp. avenae, AVS65957.1, 426
+2291, CP028289.1, Acidovorax avenae subsp. avenae, AVS69625.1, 436
+2292, CP002581.1, Burkholderia plantarii, AJK49547.1, 463
+2293, CP010268.1, Paenibacillus polymyxa, AJE52192.1, 435
+2300, CP026512.1, Candidatus Pseudomonas adelgestsugas, QAX82153.1, 452
+2301, CP003943.1, Calothrix sp. PCC 7507, AFY36209.1, 412
+2302, CP003943.1, Calothrix sp. PCC 7507, AFY30876.1, 429
+2303, CP003943.1, Calothrix sp. PCC 7507, AFY35631.1, 428
+2304, CP003943.1, Calothrix sp. PCC 7507, AFY34236.1, 431
+2306, CP032616.1, Pseudomonas sp. DY-1, AYF89599.1, 491
+2307, CP007213.1, Burkholderia plantarii, ALK33780.1, 463
+2308, CP000154.2, Paenibacillus polymyxa E681, ADM72096.2, 435
+2309, CP015423.1, Paenibacillus polymyxa, AOK90075.1, 435
+2310, CP017968.3, Paenibacillus polymyxa, APB74066.1, 435
+2313, CP002056.1, Methylotenera versatilis 301, ADI29630.1, 426
+2315, CP013203.1, Paenibacillus sp. IHB B 3084, ALP37325.1, 435
+2316, CP012871.1, [Enterobacter] lignolyticus, ALR77305.1, 410
+2318, CP017290.1, Pseudomonas sp. LPH1, AQZ31904.1, 455
+2319, CP034655.1, Xanthomonas campestris pv. musacearum NCPPB 4379, AZR33066.1, 392
+2320, CP000127.1, Nitrosococcus oceani ATCC 19707, ABA57729.1, 416
+2321, CP000127.1, Nitrosococcus oceani ATCC 19707, ABA58641.1, 396
+2323, CP002272.1, [Enterobacter] lignolyticus SCF1, ADO47914.1, 410
+2326, CP000386.1, Rubrobacter xylanophilus DSM 9941, ABG06024.1, 436
+2327, CP000510.1, Psychromonas ingrahamii 37, ABM05143.1, 440
+2330, CP023687.1, Acidovorax citrulli, ATG96731.1, 429
+2334, CP023522.1, Burkholderia gladioli pv. gladioli, ATF85300.1, 466
+2337, CP033430.1, Burkholderia gladioli, AYQ87475.1, 466
+2340, CP034433.1, Iodobacter sp. H11R3, AZN37869.1, 395
+2342, CP016091.1, Clostridium saccharobutylicum, AQS11949.1, 419
+2344, CP006721.1, Clostridium saccharobutylicum DSM 13864, AGX45163.1, 419
+2346, CP016092.1, Clostridium saccharobutylicum, AQS16328.1, 419
+2348, CP016086.1, Clostridium saccharobutylicum, AQR92442.1, 419
+2350, CP016089.1, Clostridium saccharobutylicum, AQS02345.1, 419
+2352, CP031842.1, Dechloromonas sp. HYN0024, AXS80356.1, 454
+2355, CP009832.1, Burkholderia multivorans ATCC BAA-247, AJY19252.1, 405
+2356, CP020397.1, Burkholderia multivorans, AVR21322.1, 405
+2359, CP028133.1, Aeromonas veronii, AXV20070.1, 438
+2360, AP018180.1, Nostoc carneum NIES-2107, BAY31827.1, 450
+2361, AP018180.1, Nostoc carneum NIES-2107, BAY33462.1, 427
+2362, AP018180.1, Nostoc carneum NIES-2107, BAY31961.1, 431
+2363, AP018180.1, Nostoc carneum NIES-2107, BAY31533.1, 425
+2364, AP018180.1, Nostoc carneum NIES-2107, BAY34798.1, 429
+2365, AP018180.1, Nostoc carneum NIES-2107, BAY31600.1, 419
+2366, CP003281.1, Belliella baltica DSM 15883, AFL85070.1, 412
+2368, AP018492.1, Melissococcus plutonius, BBC61227.1, 405
+2369, AP018524.1, Melissococcus plutonius, BBD15087.1, 405
+2371, CP006683.1, Melissococcus plutonius S1, AIM24807.1, 405
+2372, AP018526.1, Melissococcus plutonius, BBD16526.1, 405
+2373, CP011602.1, Phytobacter ursingii, AKL11246.1, 481
+2377, AP014637.1, Pseudomonas sp. StFLB209, BAP46044.1, 412
+2379, CP001291.1, Cyanothece sp. PCC 7424, ACK72615.1, 425
+2380, CP001291.1, Cyanothece sp. PCC 7424, ACK68794.1, 430
+2382, MH325888.1, Citrobacter braakii, AWU66589.1, 492
+2383, CP030932.1, Enterococcus gilvus, AXG38673.1, 402
+2384, CP026235.1, Citrobacter freundii complex sp. CFNIH3, AUV26929.1, 492
+2389, AP018207.1, Calothrix brevissima NIES-22, BAY64607.1, 433
+2390, AP018207.1, Calothrix brevissima NIES-22, BAY61817.1, 426
+2391, CP012504.1, Aeromonas veronii, AMQ43851.1, 438
+2392, CP003646.1, Gloeocapsa sp. PCC 7428, AFZ32624.1, 450
+2399, LT976871.1, Cupriavidus taiwanensis, SOY88847.1, 408
+2400, LT984801.1, Cupriavidus taiwanensis, SPD41129.1, 408
+2401, CP011382.1, Calothrix sp. 336/3, AKG24646.1, 427
+2402, CP011382.1, Calothrix sp. 336/3, AKG20962.1, 419
+2403, CP011382.1, Calothrix sp. 336/3, AKG23985.1, 426
+2406, CP001037.1, Nostoc punctiforme PCC 73102, ACC82895.1, 448
+2407, LN890655.2, Candidatus Promineofilum breve, CUS02788.2, 431
+2408, LN890655.2, Candidatus Promineofilum breve, CUS04171.2, 427
+2412, CP009048.1, Pseudomonas alkylphenolica, AIL60617.1, 460
+2414, CP034454.1, Mesorhizobium sp. M8A.F.Ca.ET.057.01.1.1, AZO55833.1, 500
+2418, CP003985.1, Desulfocapsa sulfexigens DSM 10523, AGF78544.1, 462
+2419, CP003985.1, Desulfocapsa sulfexigens DSM 10523, AGF78528.1, 459
+2420, CP003985.1, Desulfocapsa sulfexigens DSM 10523, AGF78945.1, 429
+2421, CP003593.1, Pseudanabaena sp. PCC 7367, AFY72029.1, 420
+2422, CP000655.1, Polynucleobacter asymbioticus QLW-P1DMWA-1, ABP33540.1, 455
+2423, CP001344.1, Cyanothece sp. PCC 7425, ACL46516.1, 429
+2425, CP001344.1, Cyanothece sp. PCC 7425, ACL44094.1, 420
+2426, CP001344.1, Cyanothece sp. PCC 7425, ACL43487.1, 431
+2427, CP001344.1, Cyanothece sp. PCC 7425, ACL44611.1, 422
+2431, CP016210.1, Azoarcus olearius, ANQ86756.1, 467
+2432, CP026226.1, Aeromonas sp. ASNIH7, AUV15545.1, 438
+2436, CP025705.1, Aeromonas caviae, AXB01961.1, 438
+2439, CP015136.1, Luteitalea pratensis, AMY10070.1, 401
+2440, CP015136.1, Luteitalea pratensis, AMY11758.1, 407
+2445, LT629785.1, Pseudomonas pohangensis, SDU34336.1, 445
+2447, AE017282.2, Methylococcus capsulatus str. Bath, AAU91390.1, 415
+2448, AE017282.2, Methylococcus capsulatus str. Bath, AAU93083.1, 417
+2450, CP000613.2, Rhodospirillum centenum SW, ACI98251.1, 465
+2452, CP004015.1, Rhizobium tropici CIAT 899, AGB73011.1, 460
+2453, CP004015.1, Rhizobium tropici CIAT 899, AGB70768.1, 421
+2454, AP012337.1, Caldilinea aerophila DSM 14535 = NBRC 104270, BAL98248.1, 427
+2456, AM406670.1, Azoarcus sp. BH72, CAL96212.1, 469
+2458, AB777477.1, Aggregatibacter actinomycetemcomitans, BAO56811.1, 402
+2459, CP011503.1, Burkholderia pyrrocinia, AKM00508.1, 464
+2460, CP011503.1, Burkholderia pyrrocinia, AKM00511.1, 462
+2462, AP014520.1, Aggregatibacter actinomycetemcomitans NUM4039, BAS49354.1, 398
+2466, AP014815.1, Geminocystis sp. NIES-3708, BAQ61815.1, 458
+2468, CP032689.1, Rhizobium sp. CCGE532, AYG74300.1, 459
+2473, LS483306.1, Enterococcus cecorum, SQE55619.1, 401
+2474, KC999966.1, Aeromonas hydrophila, AID70934.1, 438
+2477, FP929003.1, Nitrospira defluvii, CBK43118.1, 449
+2487, GU574442.1, Burkholderia pseudomallei, ADE44322.1, 463
+2489, HM852062.1, Burkholderia pseudomallei, ADQ27812.1, 463
+2491, HM852063.1, Burkholderia pseudomallei, ADQ27826.1, 463
+2493, HQ023427.1, Burkholderia pseudomallei, ADQ27849.1, 463
+2495, CP009474.1, Burkholderia pseudomallei MSHR840, AJX70815.1, 463
+2501, CP030760.1, Rhizobium leguminosarum, AXA41379.1, 439
+2512, CP012746.1, Paraburkholderia caribensis MBA4, ALL64339.1, 460
+2513, CP000245.1, Ramlibacter tataouinensis TTB310, AEG91955.1, 448
+2519, HE798556.1, Stenotrophomonas maltophilia D457, CCH11117.1, 473
+2521, CP009435.1, Burkholderia glumae LMG 2196 = ATCC 33617, AJY65471.1, 457
+2522, CP009435.1, Burkholderia glumae LMG 2196 = ATCC 33617, AJY67535.1, 478
+2525, CP001503.2, Burkholderia glumae BGR1, ACR27926.1, 457
+2526, CP001503.2, Burkholderia glumae BGR1, ACR27924.1, 478
+2529, CP016474.1, Synechococcus sp. PCC 7003, ANV84727.1, 415
+2534, AP018318.1, Nostoc sp. HK-01, BBD57358.1, 418
+2537, LT629740.1, Mucilaginibacter mallensis, SDT53007.1, 414
+2538, CP029256.1, Christensenella minuta, AYH39204.1, 432
+2540, LT629703.1, Afipia sp. GAS231, SDO34591.1, 449
+2541, CP035495.1, Xylanibacterium sp. 2JSPR-7, QAY63406.1, 406
+2545, CP001337.1, Chloroflexus aggregans DSM 9485, ACL24459.1, 422
+2546, CP001337.1, Chloroflexus aggregans DSM 9485, ACL25620.1, 408
+2550, JN581994.1, Burkholderia pseudomallei, AEO78370.1, 464
+2551, JN581994.1, Burkholderia pseudomallei, AEO78367.1, 462
+2552, JN581995.1, Burkholderia pseudomallei, AEO78395.1, 464
+2553, JN581995.1, Burkholderia pseudomallei, AEO78392.1, 462
+2554, JN581993.1, Burkholderia pseudomallei, AEO78345.1, 464
+2555, JN581993.1, Burkholderia pseudomallei, AEO78342.1, 462
+2557, JN581996.1, Burkholderia pseudomallei, AEO78420.1, 464
+2558, JN581996.1, Burkholderia pseudomallei, AEO78417.1, 462
+2559, CP003976.1, Burkholderia pseudomallei NCTC 13179, AGZ27279.1, 464
+2563, CP008777.1, Burkholderia pseudomallei 576, AIO94367.1, 464
+2567, CP016636.1, Burkholderia pseudomallei, ANW56019.1, 464
+2568, CP016636.1, Burkholderia pseudomallei, ANW56016.1, 462
+2571, CP016638.1, Burkholderia pseudomallei, ANW50007.1, 464
+2572, CP016638.1, Burkholderia pseudomallei, ANW50004.1, 462
+2575, CP018383.1, Burkholderia pseudomallei, ARK96350.1, 464
+2576, CP018383.1, Burkholderia pseudomallei, ARK96347.1, 462
+2581, CP029096.1, Pseudomonas aeruginosa, AWE96066.1, 465
+2582, LT969519.1, Pseudomonas aeruginosa, SOV26096.1, 465
+2583, CP002355.1, Sulfuricurvum kujiense DSM 16994, ADR34775.1, 405
+2584, HM011508.1, Paenibacillus alvei, ADG29288.1, 434
+2588, AP017295.1, Nostoc sp. NIES-3756, BAT55524.1, 419
+2589, AP017295.1, Nostoc sp. NIES-3756, BAT55546.1, 430
+2591, CP016094.1, Lacunisphaera limnophila, AOS45753.1, 417
+2595, CP023737.1, Methylosinus trichosporium OB3b, ATQ69897.1, 425
+2597, CP000133.1, Rhizobium etli CFN 42, ABC89568.1, 443
+2598, CP000909.1, Chloroflexus aurantiacus J-10-fl, ABY35319.1, 422
+2599, CP000909.1, Chloroflexus aurantiacus J-10-fl, ABY34956.1, 410
+2600, CP001364.1, Chloroflexus aurantiacus Y-400-fl, ACM53668.1, 422
+2601, CP001364.1, Chloroflexus aurantiacus Y-400-fl, ACM53290.1, 410
+2602, CP013386.1, Burkholderia sp. BDU6, AOJ02742.1, 464
+2603, CP013386.1, Burkholderia sp. BDU6, AOJ02740.1, 462
+2606, CP000316.1, Polaromonas sp. JS666, ABE45897.1, 457
+2608, AF390573.1, Vibrio cholerae O37, AAM22592.1, 429
+2610, CP000099.1, Methanosarcina barkeri str. Fusaro, AAZ69355.1, 410
+2611, CP009526.1, Methanosarcina barkeri str. Wiesmoor, AKB49880.1, 410
+2613, AP018269.1, Cylindrospermum sp. NIES-4074, BAZ29612.1, 421
+2616, CP020370.1, Candidatus Thiodictyon syntrophicum, AUB83884.1, 428
+2619, CP020100.1, Pseudomonas sp. S-6-2, AQZ95274.1, 453
+2621, LT906662.1, Thermoanaerobacterium sp. RBIITD, SNX52862.1, 403
+2623, CP009286.1, Paenibacillus stellifer, AIQ65803.1, 423
+2625, CP001322.1, Desulfatibacillum alkenivorans AK-01, ACL01719.1, 445
+2626, JF745808.1, Burkholderia sp. MSMB175, AEO78252.1, 465
+2630, CP013448.1, Burkholderia sp. Bp7605, AOK28974.1, 465
+2633, CP014231.1, Leptotrichia sp. oral taxon 847, AMD95120.1, 420
+2634, CP035704.1, Xanthomonadaceae bacterium AQ6-296, QBB72537.1, 407
+2636, CP015999.1, Burkholderia sp. KK1, AQH00337.1, 456
+2637, CP015999.1, Burkholderia sp. KK1, AQG99459.1, 478
+2639, JN581998.1, Burkholderia thailandensis, AEO78450.1, 469
+2640, JN581997.1, Burkholderia thailandensis, AEO78434.1, 469
+2641, JF745807.1, Burkholderia ubonensis, AEO78222.1, 464
+2642, JF745807.1, Burkholderia ubonensis, AEO78225.1, 462
+2643, CP004097.1, Burkholderia thailandensis 2002721723, AHI72040.1, 469
+2646, CP008914.2, Burkholderia thailandensis, AIP64763.1, 469
+2649, CP013360.1, Burkholderia thailandensis, AOI51105.1, 469
+2652, CP004117.1, Burkholderia thailandensis E444, AHI77388.1, 469
+2655, CP022217.1, Burkholderia thailandensis, AWY67008.1, 469
+2658, CP004381.1, Burkholderia thailandensis E254, AIT20113.1, 469
+2661, CP009601.1, Burkholderia thailandensis 2002721643, AJX99361.1, 469
+2664, CP000086.1, Burkholderia thailandensis E264, ABC39249.1, 469
+2667, CP020390.1, Burkholderia thailandensis, AVR11588.1, 469
+2670, CP004089.1, Burkholderia thailandensis H0587, AHI63104.1, 469
+2673, CP013409.1, Burkholderia thailandensis, AOJ50138.1, 469
+2676, CP020392.1, Burkholderia thailandensis, AVR25547.1, 469
+2679, CP022214.1, Burkholderia thailandensis, AWY58822.1, 469
+2682, CP004383.1, Burkholderia thailandensis USAMRU Malaysia #20, AIC88540.1, 469
+2685, CP004385.1, Burkholderia thailandensis MSMB59, AIS95440.1, 469
+2688, CP013407.1, Burkholderia thailandensis, AOJ46154.1, 469
+2691, CP008785.1, Burkholderia thailandensis E264, AIP24774.1, 469
+2694, CP008726.1, Burkholderia oklahomensis, AIO67344.1, 469
+2697, CP013357.1, Burkholderia oklahomensis EO147, AOI41507.1, 469
+2700, CU633750.1, Cupriavidus taiwanensis LMG 19424, CAQ72506.1, 427
+2702, LT978514.1, Cupriavidus taiwanensis, SPC21362.1, 427
+2704, LT976874.1, Cupriavidus taiwanensis, SOZ08663.1, 427
+2706, LT976872.1, Cupriavidus taiwanensis, SOZ42324.1, 427
+2708, LT984802.1, Cupriavidus taiwanensis, SPD55502.1, 427
+2710, LT976873.1, Cupriavidus taiwanensis, SOZ10999.1, 427
+2714, JQ783347.1, Burkholderia thailandensis, AFU10508.1, 463
+2716, CP010017.1, Burkholderia thailandensis 34, AJY29553.1, 463
+2720, CP013411.1, Burkholderia thailandensis, AOJ57628.1, 463
+2732, LR134382.1, Bordetella hinzii, VEH27366.1, 428
+2740, CP003346.1, Echinicola vietnamensis DSM 17526, AGA78835.1, 426
+2744, CP004377.1, Burkholderia pseudomallei NAU35A-3, AIS87150.1, 469
+2747, CP009162.1, Burkholderia pseudomallei K42, AIV61839.1, 469
+2750, CP008758.1, Burkholderia pseudomallei, AIO89891.1, 469
+2753, CP008781.1, Burkholderia pseudomallei, AIO15474.1, 469
+2759, CP000572.1, Burkholderia pseudomallei 1106a, ABN92520.1, 465
+2762, CP003781.1, Burkholderia pseudomallei BPC006, AFR17026.1, 465
+2768, CP009271.1, Burkholderia pseudomallei MSHR1153, AIV51153.1, 469
+2771, CP008755.1, Burkholderia pseudomallei, AIO87869.1, 469
+2774, CP009298.1, Burkholderia pseudomallei 406e, AJW91555.1, 469
+2777, CP009128.1, Burkholderia pseudomallei, AIP70544.1, 469
+2783, CP023775.1, Burkholderia pseudomallei, AYE28436.1, 469
+2786, CP009485.1, Burkholderia pseudomallei MSHR491, AJX21703.1, 469
+2789, CP019042.1, Burkholderia pseudomallei, AUL57936.1, 469
+2792, CP033703.1, Burkholderia pseudomallei, AYX29160.1, 469
+2795, CP001408.1, Burkholderia pseudomallei MSHR346, ACQ98013.1, 465
+2798, CP008764.1, Burkholderia pseudomallei, AIP09572.1, 469
+2804, CP009551.1, Burkholderia pseudomallei PB08298010, AJX96441.1, 469
+2807, CP009478.1, Burkholderia pseudomallei MSHR2543, AJX76959.1, 469
+2810, CP013244.1, Caulobacteraceae bacterium OTSz_A_272, ANP46823.1, 443
+2811, CP000570.1, Burkholderia pseudomallei 668, ABN85061.1, 465
+2814, CP009545.1, Burkholderia pseudomallei, AJX86911.1, 469
+2817, CP009151.1, Burkholderia pseudomallei B03, AIV91284.1, 469
+2820, CP009165.1, Burkholderia pseudomallei A79A, AIV96231.1, 469
+2823, CP004001.1, Burkholderia pseudomallei NCTC 13178, AHE28650.1, 469
+2826, CP012041.1, Burkholderia pseudomallei, ALJ71190.1, 469
+2829, AF064070.1, Burkholderia pseudomallei 1026b, AAD05459.1, 469
+2831, CP016332.1, Clostridium butyricum, AOR95256.1, 431
+2832, CP014704.1, Clostridium butyricum, ANF15307.1, 431
+2833, CP013352.1, Clostridium butyricum, ALS18184.1, 431
+2834, CP013252.1, Clostridium butyricum, ALP91687.1, 431
+2835, CP008892.1, Burkholderia pseudomallei MSHR5858, AIP47146.1, 469
+2838, CP009585.1, Burkholderia pseudomallei, AJX39196.1, 469
+2841, CP008894.1, Burkholderia pseudomallei HBPUB10303a, AIP58427.1, 469
+2844, CP012094.1, Burkholderia pseudomallei, ALB14271.1, 469
+2847, CP033702.1, Burkholderia pseudomallei, AYX07483.1, 469
+2850, CP010973.1, Burkholderia pseudomallei, AJW54037.1, 469
+2853, CP033705.1, Burkholderia pseudomallei, AYX33928.1, 469
+2856, CP018400.1, Burkholderia pseudomallei, ARL49674.1, 469
+2859, CP008911.1, Burkholderia pseudomallei HBPUB10134a, AIP53224.1, 469
+2862, CP008780.1, Burkholderia pseudomallei, AIP03442.1, 469
+2865, CP025264.1, Burkholderia pseudomallei, AUG20155.1, 469
+2868, CP018369.1, Burkholderia pseudomallei, ARK53243.1, 469
+2871, CP012576.1, Burkholderia pseudomallei, ALC56417.1, 469
+2874, CP012515.1, Burkholderia pseudomallei, ALB94639.1, 469
+2877, CP012517.1, Burkholderia pseudomallei, ALC00711.1, 469
+2880, LK936442.1, Burkholderia pseudomallei, CDU29318.1, 469
+2883, CP018372.1, Burkholderia pseudomallei, ARK64244.1, 469
+2886, CP018387.1, Burkholderia pseudomallei, ARL10660.1, 469
+2889, CP006470.1, Burkholderia pseudomallei MSHR305, AGR73458.1, 469
+2892, CP016911.1, Burkholderia pseudomallei, APF97198.1, 469
+2895, CP008909.1, Burkholderia pseudomallei MSHR5848, AIP39847.1, 469
+2898, CP016909.1, Burkholderia pseudomallei, APF91147.1, 469
+2901, CP009209.1, Burkholderia pseudomallei, AIP80105.1, 469
+2904, CP018410.1, Burkholderia pseudomallei, ARL85830.1, 469
+2907, CP017050.1, Burkholderia pseudomallei, APZ19190.1, 469
+2910, CP017052.1, Burkholderia pseudomallei, APZ25383.1, 469
+2913, CP004368.1, Burkholderia pseudomallei MSHR520, AHK65293.1, 469
+2916, CP008784.1, Burkholderia pseudomallei MSHR5855, AIP20778.1, 469
+2919, CP018403.1, Burkholderia pseudomallei, ARL59833.1, 469
+2922, CP018405.1, Burkholderia pseudomallei, ARL66253.1, 469
+2925, BX571965.1, Burkholderia pseudomallei K96243, CAH36689.1, 469
+2928, CP009538.1, Burkholderia pseudomallei K96243, AJX30130.1, 469
+2934, CP018406.1, Burkholderia pseudomallei, ARL71273.1, 469
+2937, CP018393.1, Burkholderia pseudomallei, ARL30563.1, 469
+2940, CP018054.1, Burkholderia pseudomallei, APD34463.1, 469
+2943, CP004379.1, Burkholderia pseudomallei 1026b, AJX06063.1, 469
+2946, CP002833.1, Burkholderia pseudomallei 1026b, AFI65302.1, 469
+2949, CP008834.1, Burkholderia pseudomallei, AIP14880.1, 469
+2955, CP018389.1, Burkholderia pseudomallei, ARL15360.1, 469
+2958, CP018376.1, Burkholderia pseudomallei, ARK76789.1, 469
+2961, CP018395.1, Burkholderia pseudomallei, ARL38433.1, 469
+2964, CP018368.1, Burkholderia pseudomallei, ARK49867.1, 469
+2967, CP009535.1, Burkholderia pseudomallei 7894, AJX81725.1, 469
+2970, CP018373.1, Burkholderia pseudomallei, ARK67501.1, 469
+2973, CP018416.1, Burkholderia pseudomallei, ARK38843.1, 469
+2976, CP008916.1, Burkholderia pseudomallei, AIS45271.1, 469
+2979, CP000124.1, Burkholderia pseudomallei 1710b, ABA48875.1, 469
+2982, CP009899.1, Burkholderia pseudomallei Pasteur 52237, AJX60545.1, 469
+2985, CP018413.1, Burkholderia pseudomallei, ARL97442.1, 469
+2988, CP018414.1, Burkholderia pseudomallei, ARL99790.1, 469
+2991, CP018399.1, Burkholderia pseudomallei, ARL47790.1, 469
+2994, CP018380.1, Burkholderia pseudomallei, ARK87595.1, 469
+2997, CP018391.1, Burkholderia pseudomallei, ARL24273.1, 469
+3000, CP009270.1, Burkholderia pseudomallei MSHR2243, AIV59521.1, 469
+3003, CP009153.1, Burkholderia pseudomallei MSHR3965, AIV83588.1, 469
+3006, CP009235.1, Burkholderia pseudomallei MSHR62, AIV70456.1, 469
+3009, CP017046.1, Burkholderia pseudomallei, APY99550.1, 469
+3012, CP017048.1, Burkholderia pseudomallei, APZ13146.1, 469
+3016, CP009157.1, Burkholderia pseudomallei, AIV78207.1, 469
+3026, JN581990.1, Burkholderia mallei, AEO78285.1, 469
+3027, JN581992.1, Burkholderia mallei, AEO78321.1, 469
+3028, JN581991.1, Burkholderia mallei, AEO78301.1, 469
+3029, AY028370.1, Burkholderia mallei, AAK27396.1, 469
+3030, CP000875.1, Herpetosiphon aurantiacus DSM 785, ABX03681.1, 427
+3034, CP029359.1, Azospirillum sp. CFH 70021, AWK90194.1, 448
+3036, CP009742.1, Burkholderia mallei, ATE29035.1, 469
+3038, CP000546.1, Burkholderia mallei NCTC 10229, ABN02929.1, 465
+3041, CP009337.1, Burkholderia mallei, AJX01174.1, 469
+3044, CP009727.1, Burkholderia mallei, ATD93505.1, 469
+3047, CP009725.1, Burkholderia mallei, ATD88745.1, 469
+3050, CP007802.1, Burkholderia mallei NCTC 10247, AIS30678.1, 469
+3053, CP000548.1, Burkholderia mallei NCTC 10247, ABO05968.1, 465
+3056, CP000526.1, Burkholderia mallei SAVP1, ABM50952.1, 471
+3059, CP008711.1, Burkholderia mallei, AIO59871.1, 469
+3062, CP009735.1, Burkholderia mallei, ATE12967.1, 469
+3065, CP009942.1, Burkholderia mallei, AJX63670.1, 469
+3068, CP009931.1, Burkholderia mallei, ATE37830.1, 469
+3071, CP009929.1, Burkholderia mallei, ATE32861.1, 469
+3074, CP000010.1, Burkholderia mallei ATCC 23344, AAU49979.1, 465
+3077, CP009148.1, Burkholderia mallei, AIP75885.1, 469
+3080, CP009733.1, Burkholderia mallei, ATE08097.1, 469
+3083, CP008704.1, Burkholderia mallei, AIO51468.1, 469
+3086, CP008723.1, Burkholderia mallei, AIO63701.1, 469
+3089, CP010065.1, Burkholderia mallei, AJY35499.1, 469
+3091, CP009707.1, Burkholderia mallei, AJX52825.1, 469
+3094, CP008732.2, Burkholderia mallei, AIO82141.1, 469
+3097, CP017175.1, Burkholderia mallei, AOP66484.1, 469
+3100, CP009729.1, Burkholderia mallei, ATD98311.1, 469
+3103, CP009587.1, Burkholderia mallei, AJX43449.1, 469
+3106, CP009642.1, Burkholderia mallei, AJX48955.1, 469
+3109, CP009739.1, Burkholderia mallei, ATE22785.1, 469
+3112, CP009737.1, Burkholderia mallei, ATE17861.1, 469
+3115, CP010348.1, Burkholderia mallei, ATE42404.1, 469
+3118, CP009731.1, Burkholderia mallei, ATE03223.1, 469
+3121, CP003989.2, Thioalkalivibrio nitratireducens DSM 14787, AGA33569.1, 446
+3123, CP004003.1, Burkholderia pseudomallei NAU20B-16, AHE32004.1, 469
+3126, CP004023.1, Burkholderia pseudomallei MSHR511, AHG35680.1, 469
+3129, CP004042.1, Burkholderia pseudomallei MSHR146, AHG69394.1, 469
+3133, LT984814.1, Cupriavidus taiwanensis, SPD68657.1, 426
+3135, CP014304.1, Hymenobacter sp. PAMC 26628, AMJ64761.1, 429
+3136, CP022530.1, Bacterioplanes sanyensis, ASP37511.1, 405
+3139, CP017044.1, Burkholderia pseudomallei, APY93422.1, 469
+3144, CP003653.1, Stanieria cyanosphaera PCC 7437, AFZ34646.1, 426
+3148, AE008384.1, Methanosarcina mazei Go1, AAM31910.1, 504
+3151, CP002014.1, Burkholderia sp. CCGE1002, ADG19410.1, 417
+3153, DQ915177.1, Vibrio cholerae, ABI85330.1, 441
+3154, CP012109.1, Myxococcus hansupus, AKQ65363.1, 437
+3156, HQ908420.1, Burkholderia humptydooensis, ADZ55347.1, 466
+3158, JF745809.1, Burkholderia humptydooensis, AEO78272.1, 466
+3160, CP004095.1, Burkholderia thailandensis MSMB121, AGK48931.1, 466
+3164, CP023499.1, Burkholderia thailandensis, ATF37615.1, 466
+3168, LT840184.1, Paenibacillus uliginis N3/975, SMF68272.1, 435
+3170, CP030929.1, Aurantimicrobium sp. MWH-Uga1, AXE54908.1, 511
+3174, AP017560.1, Pseudanabaena sp. ABRG5-3, BBC22736.1, 427
+3175, AP017560.1, Pseudanabaena sp. ABRG5-3, BBC24662.1, 423
+3178, CP012505.1, Francisella persica ATCC VR-331, ALB01371.1, 424
+3179, CP013022.1, Francisella persica ATCC VR-331, ANH77660.1, 424
+3182, LT977071.1, Cupriavidus taiwanensis, SPA57071.1, 426
+3186, CP002199.1, Cyanothece sp. PCC 7822, ADN17648.1, 424
+3187, CP002199.1, Cyanothece sp. PCC 7822, ADN17581.1, 427
+3188, AP018326.1, Nostoc commune HK-02, BBD69183.1, 427
+3190, CP009515.1, Methanosarcina lacustris Z-7289, AKB73985.1, 410
+3191, CP009515.1, Methanosarcina lacustris Z-7289, AKB75706.1, 425
+3193, CP011520.2, Pandoraea oxalativorans, AKK25042.1, 508
+3194, CP001727.1, Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, ACV57338.1, 392
+3195, CP000383.1, Cytophaga hutchinsonii ATCC 33406, ABG58131.1, 418
+3197, CP013449.1, Burkholderia sp. Bp7605, , 0
+3198, CP001287.1, Cyanothece sp. PCC 8801, ACK67324.1, 429
+3199, CP001287.1, Cyanothece sp. PCC 8801, ACK67832.1, 435
+3201, CP001287.1, Cyanothece sp. PCC 8801, ACK64393.1, 397
+3202, CP003261.1, Clostridium pasteurianum BC1, AGK97872.1, 428
+3203, CP003642.1, Cylindrospermum stagnale PCC 7417, AFZ27920.1, 434
+3205, LT576451.1, Curtobacterium sp. 9128, SBN63952.1, 413
+3207, CP032157.1, Pseudoflavitalea sp. 5GH32-13, AXY77092.1, 414
+3208, CP032157.1, Pseudoflavitalea sp. 5GH32-13, AXY75764.1, 418
+3210, CP022163.1, Melittangium boletus DSM 14713, ATB34484.1, 439
+3213, CP002599.1, Burkholderia gladioli BSR3, AEA59482.1, 451
+3214, CP002599.1, Burkholderia gladioli BSR3, AEA59480.1, 468
+3217, CP030040.1, Acetobacterium sp. KB-1, AWW27121.1, 400
+3221, CP000777.1, Patoc 1 (Ames), ABZ94464.1, 426
+3222, CP035532.1, Chryseobacterium indologenes, QBA22830.1, 420
+3223, CP013417.1, Burkholderia sp. MSMB0266, AOJ70706.1, 458
+3224, CP013417.1, Burkholderia sp. MSMB0266, AOJ67925.1, 475
+3227, CP001673.1, Flavobacteriaceae bacterium 3519-10, ACU06826.1, 409
+3228, CP001673.1, Flavobacteriaceae bacterium 3519-10, ACU08758.1, 408
+3229, CP002118.1, Clostridium acetobutylicum EA 2018, ADZ21379.1, 419
+3230, AE001437.1, Clostridium acetobutylicum ATCC 824, AAK80284.1, 419
+3231, CP002660.1, Clostridium acetobutylicum DSM 1731, AEI32283.1, 419
+3232, CP030018.1, Clostridium acetobutylicum, AWV79294.1, 419
+3248, CP003548.1, Nostoc sp. PCC 7107, AFY40827.1, 429
+3251, CP003630.1, Microcoleus sp. PCC 7113, AFZ21379.1, 429
+3254, CP008802.1, Actinotignum schaalii, AIE82605.1, 416
+3277, CP028094.1, Synechocystis sp. IPPAS B-1465, AVP89557.1, 371
+3282, JX649899.1, uncultured bacterium A1Q1_fos_2004, AGC72332.1, 453
+3283, CP001096.1, Rhodopseudomonas palustris TIE-1, ACF03084.1, 416
+3285, AP018174.1, Anabaenopsis circularis NIES-21, BAY18551.1, 429
+3287, CP001737.1, Nakamurella multipartita DSM 44233, ACV80493.1, 424
+3289, CP009517.1, Methanosarcina barkeri 3, AKB83465.1, 417
+3290, CP009517.1, Methanosarcina barkeri 3, AKB83326.1, 430
+3291, CP002528.1, Dokdonia sp. 4H-3-7-5, AEE20031.1, 430
+3293, CP017916.1, Vibrio alginolyticus, ARP39455.1, 400
+3294, LT630032.1, Leifsonia sp. 98AMF, SFM53192.1, 412
+3296, LT629694.1, Leifsonia sp. 197AMF, SDH18645.1, 412
+3298, LT629696.1, Leifsonia sp. 466MF, SDJ19891.1, 412
+3300, LT629707.1, Leifsonia sp. 509MF, SDN41307.1, 412
+3302, LT630002.1, Leifsonia sp. 467MF, SEM79109.1, 412
+3304, LT629698.1, Leifsonia sp. 157MF, SDJ46030.1, 412
+3307, CP008741.1, Bacteroides dorei, AII68848.1, 426
+3308, CP008741.1, Bacteroides dorei, AII70009.1, 423
+3309, CP009057.1, Bacteroides dorei, ALA74630.1, 426
+3310, CP009057.1, Bacteroides dorei, ALA75732.1, 423
+3311, CP022655.1, Paenibacillus sp. RUD330, ASS67330.1, 421
+3314, CP002059.1, Nostoc azollae, ADI66040.1, 418
+3318, CP026681.1, Peltigera membranacea cyanobiont, AVH62355.1, 426
+3320, CP000113.1, Myxococcus xanthus DK 1622, ABF91603.1, 437
+3321, CP002987.1, Acetobacterium woodii DSM 1030, AFA47043.1, 400
+3322, CP002117.1, Methanolacinia petrolearia DSM 11571, ADN36163.1, 415
+3324, CP003594.1, Synechococcus sp. PCC 7502, AFY74971.1, 430
+3325, CP003594.1, Synechococcus sp. PCC 7502, AFY75118.1, 429
+3327, CP007031.1, Marichromatium purpuratum 984, AHF02589.1, 448
+3333, CP009549.1, Burkholderia sp. 2002721687, AJY43172.1, 402
+3334, CP009549.1, Burkholderia sp. 2002721687, AJY43894.1, 475
+3337, CP013380.1, Burkholderia sp. Bp5365, ALX41760.1, 458
+3338, CP013380.1, Burkholderia sp. Bp5365, ALX41758.1, 475
+3342, CP002830.1, Myxococcus macrosporus, AEI68093.1, 437
+3345, LR134503.1, Chryseobacterium jeonii, VEI97002.1, 420
+3356, AP017375.1, Stanieria sp. NIES-3757, BAU63101.1, 432
+3360, CP002514.1, Chloracidobacterium thermophilum B, AEP12356.1, 425
+3379, CP020559.1, Clostridium formicaceticum, ARE85827.1, 393
+3381, CP014761.1, Leifsonia xyli, ANF32878.1, 399
+3383, CP022989.1, Paraburkholderia aromaticivorans, ASV97020.1, 459
+3384, CP007787.1, Burkholderia cepacia, AIO46938.1, 464
+3386, AP014821.1, Geminocystis sp. NIES-3709, BAQ66184.1, 421
+3391, CP033931.1, Chryseobacterium bernardetii, AZB35016.1, 417
+3392, CP007619.1, Bacteroides dorei, AII64338.1, 431
+3393, CP007619.1, Bacteroides dorei, AII62865.1, 424
+3395, CP029145.1, Hymenobacter nivis, AWM35524.1, 415
+3396, CP016278.1, Diaphorobacter polyhydroxybutyrativorans, ASI69212.1, 469
+3397, CP013019.1, Clostridium pasteurianum, AOZ78869.1, 425
+3398, CP009267.1, Clostridium pasteurianum DSM 525 = ATCC 6013, AJA47777.1, 425
+3399, CP009268.1, Clostridium pasteurianum DSM 525 = ATCC 6013, AJA51765.1, 425
+3400, CP013018.1, Clostridium pasteurianum DSM 525 = ATCC 6013, AOZ75074.1, 425
+3405, AE017180.2, Geobacter sulfurreducens PCA, AAR34879.1, 422
+3406, CP001826.1, Thermobaculum terrenum ATCC BAA-798, ACZ43686.1, 439
+3407, CP002271.1, Stigmatella aurantiaca DW4/3-1, ADO71333.1, 438
+3408, CP022005.1, Burkholderia gladioli pv. gladioli, ASD78254.1, 451
+3409, CP022005.1, Burkholderia gladioli pv. gladioli, ASD78252.1, 468
+3411, CP022213.1, Burkholderia gladioli pv. gladioli, AWY56503.1, 451
+3412, CP022213.1, Burkholderia gladioli pv. gladioli, AWY56505.1, 468
+3414, CP009323.1, Burkholderia gladioli, AJW97469.1, 451
+3415, CP009323.1, Burkholderia gladioli, AJW99511.1, 468
+3417, LT629742.1, Microterricola viridarii, SDS28081.1, 411
+3427, CP000471.1, Magnetococcus marinus MC-1, ABK44926.1, 427
+3431, CP014513.1, Frondihabitans sp. PAMC 28766, AMM21702.1, 418
+3436, CP004371.1, Flammeovirgaceae bacterium 311, AHM58638.1, 422
+3437, CP004371.1, Flammeovirgaceae bacterium 311, AHM58634.1, 428
+3438, CP004371.1, Flammeovirgaceae bacterium 311, AHM59916.1, 422
+3439, CP004371.1, Flammeovirgaceae bacterium 311, AHM60583.1, 430
+3440, CP003364.1, Singulisphaera acidiphila DSM 18658, AGA26763.1, 393
+3445, CP000951.1, Synechococcus sp. PCC 7002, ACA98428.1, 433
+3447, FQ859183.1, Flavobacterium branchiophilum FL-15, CCB68858.1, 433
+3448, CP011388.1, Paenibacillus swuensis, ANE47050.1, 406
+3454, CP002198.1, Cyanothece sp. PCC 7822, ADN17227.1, 439
+3457, CP030041.1, Echinicola strongylocentroti, AWW32056.1, 421
+3460, CP011531.1, Bacteroides dorei CL03T12C01, AND21503.1, 423
+3461, CP011531.1, Bacteroides dorei CL03T12C01, AND20334.1, 424
+3462, CP001701.1, Cyanothece sp. PCC 8802, ACV01615.1, 428
+3463, CP001701.1, Cyanothece sp. PCC 8802, ACV02735.1, 446
+3465, CP001701.1, Cyanothece sp. PCC 8802, ACU99256.1, 397
+3467, CP009520.1, Methanosarcina vacuolata Z-761, AKB45293.1, 420
+3468, LT859958.1, Brevefilum fermentans, SMX55210.1, 427
+3469, LT859958.1, Brevefilum fermentans, SMX54198.1, 427
+3471, CP034160.1, Chryseobacterium sp. H6466, AZI55877.1, 417
+3474, CP030850.1, Runella sp. HYN0085, AXE19281.1, 416
+3475, CP030850.1, Runella sp. HYN0085, AXE20499.1, 428
+3476, CP009444.1, Francisella philomiragia, AJI57607.1, 414
+3479, CP000139.1, Bacteroides vulgatus ATCC 8482, ABR41572.1, 423
+3480, LT629781.1, Verrucomicrobium sp. GAS474, SDT86177.1, 429
+3485, CP002955.1, Cyclobacterium marinum DSM 745, AEL24482.1, 435
+3487, CP022203.1, Myxococcus macrosporus DSM 14697, ATB48881.1, 437
+3489, AP018166.1, Anabaena cylindrica PCC 7122, BAY03801.1, 433
+3490, AP018166.1, Anabaena cylindrica PCC 7122, BAY04386.1, 425
+3493, AP018166.1, Anabaena cylindrica PCC 7122, BAY03921.1, 426
+3494, CP003659.1, Anabaena cylindrica PCC 7122, AFZ59172.1, 433
+3495, CP003659.1, Anabaena cylindrica PCC 7122, AFZ58607.1, 425
+3498, CP003659.1, Anabaena cylindrica PCC 7122, AFZ59056.1, 426
+3502, CP002031.1, Geobacter sulfurreducens KN400, ADI84343.1, 422
+3503, AP018172.1, Calothrix sp. NIES-2098, BAY07238.1, 418
+3504, AP018172.1, Calothrix sp. NIES-2098, BAY08400.1, 436
+3507, CP015249.1, Dokdonella koreensis DS-123, ANB16803.1, 410
+3534, CP025958.1, Gemmata obscuriglobus, AWM42024.1, 415
+3536, LT670850.1, Polaribacter sp. KT 15, SHN09907.1, 427
+3537, CP034951.1, Aequorivita sp. H23M31, QAA81374.1, 420
+3540, CP007547.1, Elizabethkingia anophelis NUHP1, AIL47102.1, 424
+3625, CP001292.1, Cyanothece sp. PCC 7424, ACK73834.1, 429
+3632, CP011390.1, Flavisolibacter tropicus, ANE52458.1, 423
+3637, CP001100.1, Chloroherpeton thalassium ATCC 35110, ACF14967.1, 413
+3643, CP002859.1, Runella slithyformis DSM 19594, AEI48002.1, 416
+3646, CP002872.1, Francisella sp. TX077308, AEI35802.1, 414
+3648, CP015199.1, Chryseobacterium glaciei, ANF50403.1, 415
+3668, CP011270.1, Planctomyces sp. SH-PL14, AMV16761.1, 434
+3669, CP011270.1, Planctomyces sp. SH-PL14, AMV22286.1, 477
+3670, CP011270.1, Planctomyces sp. SH-PL14, AMV22651.1, 326
+3833, AP018288.1, Nostoc sp. NIES-4103, BAZ47958.1, 428
+3846, HF951689.1, Chthonomonas calidirosea T49, CCW36221.1, 416
+3848, CP002545.1, Pseudopedobacter saltans DSM 12145, ADY52863.1, 404
+3852, CP022286.1, Halomonas sp. N3-2A, ASK17926.1, 397
+3855, CP032624.1, Gryllotalpicola sp. 2DFW10M-5, AYG04277.1, 421
+3857, CP034367.1, Halomonas venusta, AZM96702.1, 397
+3859, CP012900.1, Stenotrophomonas acidaminiphila, ALJ27061.1, 424
+3861, CP033921.1, Chryseobacterium carnipullorum, AZA66809.1, 411
+3862, CP033920.1, Chryseobacterium carnipullorum, AZA47473.1, 411
+3863, CP034190.1, Pedobacter sp. G11, AZI25857.1, 425
+3864, CP001032.1, Opitutus terrae PB90-1, ACB77238.1, 416
+3865, CP001032.1, Opitutus terrae PB90-1, ACB76051.1, 418
+3866, CP001032.1, Opitutus terrae PB90-1, ACB76525.1, 435
+3867, CP010430.1, Geobacter sulfurreducens, AJY71608.1, 424
+3868, CP014963.1, Geobacter anodireducens, ANA40481.1, 422
+3869, CU207366.1, Gramella forsetii KT0803, CAL65529.1, 428
+3870, CP034588.1, Silicimonas algicola, AZQ67210.1, 403
+3874, CP029746.1, Serratia marcescens, AWS60481.1, 405
+3875, CP028949.1, Serratia marcescens, AWC69377.1, 405
+3876, CP029715.1, Serratia marcescens, AWS67379.1, 405
+3877, CP028948.1, Serratia marcescens, AWC91786.1, 405
+3878, CP028946.1, Serratia marcescens, AWC76190.1, 405
+3879, CP012685.1, Serratia marcescens, ALE95307.1, 405
+3880, CP027539.1, Serratia marcescens, AVN52179.1, 405
+3882, CP027533.1, Serratia marcescens, AVN32920.1, 405
+3883, CP009524.1, Methanosarcina sp. Kolksee, AKB48789.1, 420
+3885, MH449679.1, Aeromonas hydrophila, AXL04976.1, 392
+3886, CP022098.1, Cystobacter fuscus, ATB40570.1, 438
+3889, CP009530.1, Methanosarcina barkeri 227, AKB58347.1, 420
+3890, CP008746.1, Methanosarcina barkeri CM1, AKJ39135.1, 420
+3891, CP009528.1, Methanosarcina barkeri MS, AKB53545.1, 420
+3892, CP015125.1, Dokdonia donghaensis DSW-1, ANH60423.1, 430
+3893, CP033928.1, Chryseobacterium indoltheticum, AZA61534.1, 407
+3894, CP033929.1, Chryseobacterium indoltheticum, AZA72813.1, 407
+3897, CP021983.2, Halomicronema hongdechloris C2206, ASC71564.1, 440
+3898, CP021983.2, Halomicronema hongdechloris C2206, ASC71432.1, 438
+3901, CP033934.1, Chryseobacterium balustinum, AZB31066.1, 413
+3902, CP031030.1, Runella sp. SP2, AYQ35095.1, 416
+3905, LT906465.1, Chryseobacterium taklimakanense, SNV47958.1, 430
+3906, CP022207.1, Francisella noatunensis subsp. noatunensis FSC772, ASI20793.1, 419
+3909, CP033231.1, Methylobacterium brachiatum, AYO84261.1, 410
+3911, CP001681.1, Pedobacter heparinus DSM 2366, ACU06086.1, 418
+3912, CP001681.1, Pedobacter heparinus DSM 2366, ACU04231.1, 420
+3914, CP013068.1, Pannonibacter phragmitetus, ALV26681.1, 423
+3916, AP009178.1, Nitratiruptor sp. SB155-2, BAF70504.1, 390
+3922, CP026383.1, Serratia sp. SSNIH1, AUY14233.1, 405
+3923, LT934425.1, Candidatus Kuenenia stuttgartiensis, SOH03043.1, 449
+3929, LT629867.1, Leifsonia sp. 21MFCrub1.1, SEB00673.1, 401
+3948, CP019331.1, Polaribacter sp. SA4-10, ARV05495.1, 427
+3949, CP031817.1, Klebsiella pneumoniae, AYB65193.1, 469
+3951, CP033905.1, Trueperella pyogenes, AZR07829.1, 394
+3953, LT174605.1, Klebsiella pneumoniae, CZQ25323.1, 469
+3955, CP022743.1, Mucilaginibacter sp. BJC16-A31, ASU36806.1, 417
+3956, MF344556.1, Enterobacter cloacae, AVE17641.1, 469
+3957, CP026157.1, Klebsiella pneumoniae, QAW99939.1, 469
+3958, CP025816.1, Klebsiella pneumoniae, AUQ32032.1, 469
+3959, CP023949.1, Klebsiella pneumoniae, ATM70332.1, 469
+3960, CP009876.1, Klebsiella pneumoniae subsp. pneumoniae, AIX85215.1, 469
+3961, CP015382.1, Klebsiella pneumoniae, APV19106.1, 469
+3962, CP024535.1, Klebsiella pneumoniae, ATR35976.1, 469
+3963, CP032207.1, Klebsiella pneumoniae, AXZ51241.1, 469
+3964, CP025963.2, Klebsiella pneumoniae, AUT21739.1, 469
+3965, CP024570.1, Klebsiella pneumoniae, ATR75098.1, 469
+3966, CP024563.1, Klebsiella pneumoniae, ATR69566.1, 469
+3967, CP018438.1, Klebsiella pneumoniae, APM64092.1, 469
+3968, CP018692.1, Klebsiella pneumoniae, APP40679.1, 469
+3969, CP024191.1, Klebsiella pneumoniae, ATQ23242.1, 469
+3970, CP024528.1, Klebsiella pneumoniae, ATR30411.1, 469
+3971, CP024521.1, Klebsiella pneumoniae, ATR23605.1, 469
+3972, CP024549.1, Klebsiella pneumoniae, ATR57206.1, 469
+3973, CP024556.1, Klebsiella pneumoniae, ATR62741.1, 469
+3974, CP023907.1, Klebsiella pneumoniae, ATM34456.1, 469
+3975, CP029738.1, Klebsiella pneumoniae, AWS76166.1, 469
+3976, CP014762.1, Klebsiella pneumoniae, ANK22881.1, 469
+3977, CP028806.1, Klebsiella pneumoniae, AWA67821.1, 469
+3978, CP018671.1, Klebsiella pneumoniae, APP19551.1, 469
+3979, CP027036.1, Klebsiella pneumoniae, AZI06427.1, 469
+3980, CP028816.1, Klebsiella pneumoniae, AWA33159.1, 469
+3981, CP026155.1, Klebsiella pneumoniae, QAW94554.1, 469
+3984, CP035123.1, Escherichia coli, QAR39601.1, 469
+3985, CP018965.1, Escherichia coli, AQV40216.1, 469
+3986, CP026473.1, Escherichia coli, AUY27311.1, 469
+3987, CP029242.1, Escherichia coli, AWJ97299.1, 469
+3988, CP032892.1, Escherichia coli, AYL89324.1, 469
+3989, CP032426.1, Escherichia coli, AYC45216.1, 469
+3990, CP021722.1, Escherichia coli, ARX54436.1, 469
+3991, CP020048.1, Escherichia coli, ARA18013.1, 469
+3992, CP021535.1, Escherichia coli, ARW90622.1, 469
+4004, CP006003.1, Myxococcus fulvus 124B02, AKF82419.1, 430
+4007, CP025119.1, Polaribacter sp. ALD11, AUC84428.1, 412
+4011, CP001964.1, Cellulomonas flavigena DSM 20109, ADG75262.1, 411
+4013, CP033933.1, Chryseobacterium haifense, AZB21051.1, 408
+4014, CP035493.1, Xylanimicrobium sp. FW10M-9, QAY68910.1, 401
+4015, CP035493.1, Xylanimicrobium sp. FW10M-9, QAY69012.1, 426
+4017, CP001619.1, Dyadobacter fermentans DSM 18053, ACT93987.1, 419
+4018, CP018477.1, Thermogutta terrifontis, ASV76484.1, 406
+4019, CP018477.1, Thermogutta terrifontis, ASV74977.1, 426
+4020, CP003620.1, Crinalium epipsammum PCC 9333, AFZ13630.1, 427
+4023, AM946015.1, Streptococcus uberis 0140J, CAR41603.1, 403
+4030, CP002345.1, Paludibacter propionicigenes WB4, ADQ79292.1, 415
+4031, CP021781.1, Francisella sp. FDC440, AXA33403.1, 418
+4032, CP009440.1, Francisella philomiragia, AJI53187.1, 419
+4037, LR134357.1, Actinomyces israelii, VEG52616.1, 420
+4039, CP022435.1, Streptococcus uberis, AUC24790.1, 403
+4040, LS483397.1, Streptococcus uberis, SQG46071.1, 403
+4041, LS483408.1, Streptococcus uberis, SQG82896.1, 403
+4042, LT629692.1, Microbacterium pygmaeum, SDH48626.1, 402
+4046, CP022723.1, Bifidobacterium bifidum, AXM90826.1, 404
+4049, FQ859181.1, Hyphomicrobium sp. MC1, CCB66032.1, 423
+4050, CP033926.1, Chryseobacterium joostei, AZB01088.1, 417
+4051, CP003811.1, Methylobacterium oryzae CBMB20, AIQ93012.1, 406
+4060, CP010777.1, Rufibacter sp. DG31D, AKQ44830.1, 425
+4062, AP012057.1, Ilumatobacter coccineus YM16-304, BAN03313.1, 443
+4065, CP002831.1, Saprospira grandis str. Lewin, AFC26772.1, 428
+4067, CP014021.1, Elizabethkingia anophelis, AVF52016.1, 435
+4068, CP014020.1, Elizabethkingia anophelis, AVF48024.1, 435
+4071, LT629693.1, Bradyrhizobium ottawaense, SDJ71402.1, 415
+4072, AP014936.1, Sulfurifustis variabilis, BAU48084.1, 452
+4073, CP017758.1, Cupriavidus necator, AQV96488.1, 419
+4074, HG315671.1, Formosa agariphila KMM 3901, CDF80642.1, 420
+4075, HG315671.1, Formosa agariphila KMM 3901, CDF80040.1, 419
+4078, LR134002.1, Streptococcus sanguinis, VDY70954.1, 401
+4081, CP023010.2, Elizabethkingia anophelis, AVJ52816.1, 435
+4082, CP022143.1, Klebsiella pneumoniae, ASG35497.1, 469
+4083, CP018883.1, Klebsiella pneumoniae subsp. pneumoniae, AUX49492.1, 469
+4084, CP018885.1, Klebsiella pneumoniae subsp. pneumoniae, AUX59413.1, 469
+4085, LS483364.1, Streptococcus sanguinis, SQF71007.1, 401
+4086, CP034171.1, Chryseobacterium taklimakanense, AZI21183.1, 430
+4087, LS483385.1, Streptococcus sanguinis, SQG30614.1, 401
+4090, LS483346.1, Streptococcus sanguinis, SQF35153.1, 401
+4097, CP028833.1, Trueperella pyogenes, AWA44496.1, 394
+4106, CP000387.1, Streptococcus sanguinis SK36, ABN44901.1, 401
+4107, FP929043.1, [Eubacterium] rectale M104/1, CBK92936.1, 361
+4108, CP033903.1, Trueperella pyogenes, AZR03643.1, 394
+4109, CP007003.1, Trueperella pyogenes TP8, AJC69148.1, 422
+4110, CP007519.1, Trueperella pyogenes, AHU89459.1, 422
+4115, LS483383.1, Streptococcus cristatus ATCC 51100, SQG32057.1, 400
+4116, CP021388.1, Bifidobacterium breve, AUD75550.1, 422
+4117, CP021389.1, Bifidobacterium breve, AUD88069.1, 422
+4118, CP034173.1, Chryseobacterium taklimakanense, AZI21932.1, 430
+4119, CP000478.1, Syntrophobacter fumaroxidans MPOB, ABK19027.1, 411
+4122, CP004025.1, Myxococcus stipitatus DSM 14675, AGC46361.1, 431
+4124, CP005957.1, Candidatus Saccharimonas aalborgensis, AGL62213.1, 404
+4130, CP021393.1, Bifidobacterium breve, AUD83936.1, 422
+4132, CP021391.1, Bifidobacterium breve, AUD77561.1, 422
+4133, CP000303.1, Bifidobacterium breve UCC2003, ABE96457.1, 414
+4134, CP021553.1, Bifidobacterium breve, AUD94213.1, 422
+4135, CP033902.1, Trueperella pyogenes, AZR01769.1, 394
+4136, CP011964.1, Bifidobacterium longum subsp. longum, ALO73401.1, 422
+4137, CP021557.1, Bifidobacterium breve, AUE01934.1, 422
+4138, CP034549.1, Nonlabens sp. MJ115, AZQ43864.1, 424
+4139, CP033606.1, Lactococcus lactis, AYV49932.1, 398
+4140, CP033606.1, Lactococcus lactis, AYV50527.1, 466
+4141, AE005176.1, Lactococcus lactis subsp. lactis Il1403, AAK04301.1, 398
+4143, CP033607.1, Lactococcus lactis, AYV51975.1, 398
+4144, CP033607.1, Lactococcus lactis, AYV52649.1, 466
+4145, CP020604.1, Lactococcus lactis subsp. lactis bv. diacetylactis, ARR87983.1, 398
+4147, CP015896.1, Lactococcus lactis subsp. lactis, ARD95189.1, 398
+4148, CP015896.1, Lactococcus lactis subsp. lactis, ARD95918.1, 466
+4149, CP015906.1, Lactococcus lactis subsp. lactis, ARE07420.1, 398
+4150, CP015906.1, Lactococcus lactis subsp. lactis, ARE08149.1, 466
+4151, LR134323.1, Streptococcus urinalis, VEF32292.1, 407
+4152, AP013042.1, endosymbiont of Bathymodiolus septemdierum str. Myojin knoll, BAS67689.1, 434
+4160, LT629741.1, Gramella sp. MAR_2010_147, SDS02338.1, 429
+4161, LT578417.1, Cyanobium sp. NIES-981, SBO44020.1, 424
+4163, LT629737.1, Gillisia sp. Hel1_33_143, SDS23125.1, 425
+4164, LN879502.1, Candidatus Protochlamydia naegleriophila, CUI15820.1, 417
+4165, CP032739.1, Enterococcus casseliflavus, AYJ45368.1, 409
+4171, CP018384.1, Burkholderia pseudomallei, , 0
+4174, CP018418.1, Burkholderia pseudomallei, , 0
+4177, CP009576.1, Listeria ivanovii subsp. londoniensis, AIS62324.1, 336
+4183, CP011509.1, Archangium gephyra, AKJ02718.1, 435
+4184, CP014067.2, Enterococcus gallinarum, AMG50193.1, 413
+4187, CP016019.1, Bifidobacterium longum subsp. longum, AOP01962.1, 407
+4189, CP014504.1, Pedobacter cryoconitis, AMQ01255.1, 417
+4192, CP006711.1, Bifidobacterium breve 12L, AHJ16458.1, 407
+4193, CP021387.1, Bifidobacterium breve, AUD73638.1, 407
+4194, CP021384.1, Bifidobacterium breve, AUD68021.1, 407
+4195, AP012324.1, Bifidobacterium breve DSM 20213 = JCM 1192, BAR00848.1, 409
+4197, CP033841.1, Bifidobacterium breve, AYZ89710.1, 407
+4200, CP006716.1, Bifidobacterium breve S27, AHJ25554.1, 409
+4201, CP021554.1, Bifidobacterium breve, AUD96146.1, 407
+4202, CP006714.1, Bifidobacterium breve NCFB 2258, AHJ21989.1, 407
+4203, CP021386.1, Bifidobacterium breve, AUD71773.1, 407
+4205, CP006715.1, Bifidobacterium breve 689b, AHJ23810.1, 407
+4206, CP021392.1, Bifidobacterium breve, AUD81961.1, 407
+4207, CP021559.1, Bifidobacterium breve, AUE06226.1, 407
+4208, CP023199.1, Bifidobacterium breve, AUE21646.1, 407
+4235, FO203503.1, Desulfobacula toluolica Tol2, CCK80307.1, 407
+4237, AP017896.1, Actinomyces sp. Chiba101, BAW93801.1, 447
+4238, AP017896.1, Actinomyces sp. Chiba101, BAW93533.1, 346
+4239, CP004346.1, Bifidobacterium thermophilum RBL67, AGH40656.1, 433
+4240, CP009442.1, Francisella philomiragia, AJI56124.1, 422
+4242, CP006018.1, Bifidobacterium indicum LMG 11587 = DSM 20214, AIC91447.1, 407
+4248, CP015317.1, Fibrella sp. ES10-3-2-2, ARK11450.1, 419
+4249, CP015317.1, Fibrella sp. ES10-3-2-2, ARK12107.1, 422
+4251, CP019336.1, Polaribacter sejongensis, AUC22785.1, 418
+4257, CP028130.1, Rathayibacter iranicus, AZZ55794.1, 417
+4260, CP001650.1, Zunongwangia profunda SM-A87, ADF51440.1, 410
+4261, CP020438.2, Streptococcus equinus, ARC34711.1, 401
+4262, FO203526.1, Vibrio nigripulchritudo, CCO59613.1, 395
+4264, CP001622.1, Rhizobium leguminosarum bv. trifolii WSM1325, ACS57447.1, 433
+4265, CP001622.1, Rhizobium leguminosarum bv. trifolii WSM1325, ACS54760.1, 422
+4269, CP034669.1, Corallococcus coralloides, QAT86148.1, 436
+4270, CP019388.1, Winogradskyella sp. J14-2, APY07553.1, 427
+4271, LT629733.1, Formosa sp. Hel1_31_208, SDS69519.1, 422
+4273, CP010776.1, Rufibacter sp. DG15C, AMM51708.1, 431
+4275, CP007207.1, Flavobacterium psychrophilum FPG3, AIN73474.1, 419
+4276, LT670843.1, Flavobacterium psychrophilum, SHI06893.1, 419
+4286, CP027860.1, Ahniella affigens, AVP99885.1, 416
+4288, CP000252.1, Syntrophus aciditrophicus SB, ABC78147.1, 428
+4289, CP000252.1, Syntrophus aciditrophicus SB, ABC78503.1, 455
+4298, LS992241.1, Paenibacillus alvei, SYX86460.1, 424
+4308, CP033612.1, Listeria monocytogenes, AYV59129.1, 335
+4309, LT985474.1, Listeria monocytogenes, SPE80838.1, 335
+4311, CP010346.1, Listeria monocytogenes, AJA82785.1, 335
+4312, CP009897.1, Listeria monocytogenes, AIZ38371.1, 335
+4313, HF558398.1, Listeria monocytogenes serotype 4b str. LL195, CCO63678.1, 335
+4314, AE017262.2, Listeria monocytogenes serotype 4b str. F2365, AAT03869.1, 335
+4315, CP026043.1, Listeria monocytogenes, AVD51693.1, 335
+4316, CP007600.1, Listeria monocytogenes, AHY98715.1, 335
+4317, CP007462.1, Listeria monocytogenes serotype 4b str. 02-6680, ASH75515.1, 335
+4323, LT985475.1, Listeria monocytogenes, SPE84141.1, 335
+4324, CP019616.1, Listeria monocytogenes, AQP61905.1, 335
+4325, CP019620.1, Listeria monocytogenes, AQP73574.1, 335
+4326, CP019625.1, Listeria monocytogenes, AQP88063.1, 335
+4327, CP012021.1, Listeria monocytogenes, AKP38224.1, 335
+4328, FR733644.1, Listeria monocytogenes SLCC2378, CBY72856.1, 335
+4329, CP023321.1, Listeria monocytogenes, ATY53926.1, 335
+4330, CP007210.1, Listeria monocytogenes WSLC1042, AHJ35149.1, 335
+4331, CP013285.1, Listeria monocytogenes, ALQ14462.1, 335
+4332, CP013289.1, Listeria monocytogenes, ALQ24377.1, 335
+4333, CP013288.1, Listeria monocytogenes ATCC 19117, ALQ22293.1, 335
+4335, CP025219.1, Listeria monocytogenes, AVV15325.1, 335
+4336, FR733643.1, Listeria monocytogenes ATCC 19117, CBY69993.1, 335
+4337, CP006600.1, Listeria monocytogenes, AGR22637.1, 335
+4338, CP006599.1, Listeria monocytogenes, AGR20697.1, 335
+4339, CP006598.1, Listeria monocytogenes, AGR16745.1, 335
+4340, CP031674.1, Listeria monocytogenes, AXO75170.1, 335
+4341, CP007525.1, Listeria monocytogenes serotype 4b str. 81-0558, ASH78383.1, 335
+4342, CP006874.1, Listeria monocytogenes serotype 4b str. 81-0861, AHF28921.1, 335
+4343, CP019619.1, Listeria monocytogenes, AQP70713.1, 335
+4344, CP007167.1, Listeria monocytogenes serotype 4b str. 10-0809, ASH32128.1, 335
+4345, CP007526.1, Listeria monocytogenes serotype 4b str. 81-0592, ASH81303.1, 335
+4346, CP007461.1, Listeria monocytogenes serotype 4b str. 02-1792, ASH72680.1, 335
+4347, CP007460.1, Listeria monocytogenes serotype 4b str. 02-1289, ASH69761.1, 335
+4348, CP007459.1, Listeria monocytogenes serotype 4b str. 02-1103, ASH66843.1, 335
+4350, CP018149.1, Listeria monocytogenes, APH79050.1, 335
+4351, CP028333.1, Listeria monocytogenes, AVS35254.1, 335
+4352, CP015508.1, Listeria monocytogenes, ATP78304.1, 335
+4353, CP025565.1, Listeria monocytogenes, AVU86536.1, 335
+4354, CP020022.1, Listeria monocytogenes, AQY44652.1, 335
+4355, CP025220.1, Listeria monocytogenes, AVV12410.1, 335
+4357, CP018148.1, Listeria monocytogenes, APH76080.1, 335
+4363, CP007206.1, Flavobacterium psychrophilum FPG101, AIN72324.1, 419
+4367, AM398681.2, Flavobacterium psychrophilum JIP02/86, CAL43352.1, 419
+4368, CP007627.1, Flavobacterium psychrophilum, AIJ38675.1, 419
+4370, CP007440.1, Rhodoplanes sp. Z2-YC6860, AMN43749.1, 419
+4379, AP018216.1, Trichormus variabilis NIES-23, BAY71888.1, 426
+4384, CP003389.1, Corallococcus coralloides DSM 2259, AFE10123.1, 436
+4385, AP014583.1, Winogradskyella sp. PG-2, BAO74412.1, 421
+4386, CP031264.1, Streptacidiphilus sp. DSM 106435, AXI76657.1, 397
+4396, CP031367.1, Arcobacter trophiarum LMG 25534, AXK49290.1, 396
+4406, CP003178.1, Niastella koreensis GR20-10, AEW02974.1, 425
+4414, AP017928.1, Methylocaldum marinum, BBA32423.1, 414
+4415, AP017928.1, Methylocaldum marinum, BBA33360.1, 424
+4417, CP004856.1, Enterococcus casseliflavus EC20, EEV39659.1, 351
+4418, CP011373.1, Nonlabens sp. MIC269, ALM21681.1, 429
+4420, CP003280.1, Aequorivita sublithincola DSM 14238, AFL81689.1, 424
+4422, AP011532.1, Methanocella paludicola SANAE, BAI62007.1, 435
+4425, CP025536.1, Streptococcus pluranimalium, AUW96209.1, 414
+4430, CP003402.1, Francisella noatunensis subsp. orientalis str. Toba 04, AFJ43312.1, 422
+4431, CP018051.1, Francisella noatunensis subsp. orientalis, APD41664.1, 422
+4432, CP006875.1, Francisella noatunensis subsp. orientalis LADL--07-285A, AHB98762.1, 422
+4433, CP011923.2, Francisella noatunensis subsp. orientalis, AKN89098.1, 422
+4434, CP011921.2, Francisella noatunensis subsp. orientalis FNO12, AKN86022.1, 422
+4435, CP011922.2, Francisella noatunensis subsp. orientalis FNO24, AKN87560.1, 422
+4436, CP012153.2, Francisella noatunensis subsp. orientalis, AKU05857.1, 422
+4438, CP019169.1, Betaproteobacteria bacterium GR16-43, APV49640.1, 403
+4441, CP032382.1, Chryseolinea sp. KIS68-18, AYB31320.1, 422
+4442, LR134292.1, Streptococcus equinus, VEE22901.1, 402
+4443, CP001769.1, Spirosoma linguale DSM 74, ADB38589.1, 419
+4444, CP001769.1, Spirosoma linguale DSM 74, ADB38482.1, 431
+4445, CP016286.1, Rhizobium leguminosarum, ANP88494.1, 439
+4446, CP018228.1, Rhizobium leguminosarum, API53182.1, 439
+4453, LR134094.1, Streptococcus dysgalactiae subsp. dysgalactiae, VDZ40127.1, 401
+4454, CP025096.1, Spirosoma pollinicola, AUD03938.1, 419
+4455, CP001672.1, Methylotenera mobilis JLW8, ACT47938.1, 426
+4456, AP018726.1, Streptococcus dysgalactiae, BBE40473.1, 401
+4457, CP034161.1, Chryseobacterium sp. F5649, AZI39024.1, 418
+4458, CP023392.1, Lactococcus raffinolactis, ATC61461.1, 402
+4459, CP025938.1, Tamlana sp. UJ94, AUS04141.1, 425
+4461, AP012976.1, Streptococcus dysgalactiae subsp. equisimilis 167, BAN93208.1, 401
+4462, AP012603.1, Bradyrhizobium oligotrophicum S58, BAM86867.1, 426
+4464, CP000482.1, Pelobacter propionicus DSM 2379, ABK99715.1, 437
+4465, HE796683.1, Fibrella aestuarina BUZ 2, CCH02832.1, 418
+4467, CP033107.1, Plantibacter sp. PA-3-X8, AZH84373.1, 399
+4469, CP033914.1, Chryseobacterium shandongense, AZA59061.1, 416
+4471, CP002546.1, Rubinisphaera brasiliensis DSM 5305, ADY61740.1, 416
+4472, LT629734.1, Agrococcus carbonis, SDR81709.1, 413
+4474, CP001197.1, Miyazaki F, ACL09641.1, 427
+4475, LS483367.1, Streptococcus dysgalactiae subsp. equisimilis, SQF77744.1, 401
+4476, LS483363.1, Streptococcus dysgalactiae subsp. equisimilis, SQF69486.1, 401
+4477, CP020451.2, Streptococcus salivarius, ARC49306.1, 401
+4478, FR873482.1, Streptococcus salivarius JIM8777, CCB95843.1, 401
+4479, CP007172.1, Listeria ivanovii WSLC3009, AHI55573.1, 336
+4480, CP009577.1, Listeria ivanovii subsp. ivanovii, AIS65028.1, 336
+4486, CP009913.1, Streptococcus salivarius, AIY21568.1, 401
+4487, CP014144.1, Streptococcus salivarius, AMB83187.1, 401
+4488, LR134274.1, Streptococcus salivarius, VED89641.1, 401
+4489, CP034447.1, Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1, AZO25101.1, 452
+4493, AP012054.1, Streptococcus pasteurianus ATCC 43144, BAK30345.1, 403
+4494, LS483462.1, Streptococcus pasteurianus, SQI08813.1, 403
+4496, CP013643.1, Rhizobium sp. N941, ANM24656.1, 433
+4497, CP013636.1, Rhizobium sp. N541, ANM18270.1, 433
+4498, CP013630.1, Rhizobium sp. N324, ANM11778.1, 433
+4499, CP020468.1, Actinomyces gaoshouyii, ARD42808.1, 447
+4500, CP020468.1, Actinomyces gaoshouyii, ARD41410.1, 358
+4501, CP013216.1, Streptococcus salivarius, ALR80392.1, 401
+4502, LS483318.1, Streptococcus dysgalactiae subsp. equisimilis, SQE85601.1, 401
+4503, CP004409.1, Streptococcus cristatus AS 1.3089, AGK70492.1, 402
+4504, LS483471.1, Streptococcus cristatus, SQI47905.1, 402
+4507, LR134491.1, Streptococcus mutans, VEI59996.1, 407
+4508, CP022601.1, Streptococcus pluranimalium, AXJ12711.1, 401
+4509, LS483413.1, Streptococcus dysgalactiae subsp. equisimilis, SQG93566.1, 401
+4510, CP007542.1, Synechocystis sp. PCC 6714, AIE74128.1, 423
+4512, LT985188.1, Micropruina glycogenica, SPD85113.1, 404
+4514, CP000023.1, Streptococcus thermophilus LMG 18311, AAV61079.1, 401
+4515, LS974444.1, Streptococcus thermophilus, SSC62033.1, 401
+4516, CP031881.1, Streptococcus thermophilus, AXT15778.1, 401
+4517, CP032620.1, Streptococcus sp. JS71, AYF94342.1, 407
+4518, LS483436.1, Streptococcus intermedius, SQH51748.1, 406
+4519, AP010969.1, Streptococcus intermedius JTH08, BAM23312.1, 406
+4523, LT604076.1, Streptococcus thermophilus, SCB63477.1, 401
+4524, CP031545.1, Streptococcus thermophilus, AXN97700.1, 401
+4525, CP022547.1, Streptococcus thermophilus, ATH75032.1, 401
+4526, CP006819.1, Streptococcus thermophilus ASCC 1275, AIC24797.1, 401
+4527, CP003499.1, Streptococcus thermophilus MN-ZLW-002, AFJ83817.1, 401
+4528, CP010999.1, Streptococcus thermophilus, AKH33889.1, 401
+4529, CP025216.1, Streptococcus thermophilus, AUF36187.1, 401
+4530, CP016026.1, Streptococcus thermophilus, ANJ62386.1, 401
+4531, CP016394.1, Streptococcus thermophilus, AOZ59479.1, 401
+4532, CP012588.1, Streptococcus thermophilus, ALD17313.1, 401
+4538, CP033915.1, Chryseobacterium shandongense, , 0
+4539, CP033912.1, Chryseobacterium shandongense, , 0
+4540, CP013689.1, Streptococcus infantarius, ALT82776.1, 409
+4541, CP011102.1, Listeria phage LWP01, AQY51644.1, 338
+4545, CP019083.1, Paludisphaera borealis, APW64231.1, 432
+4546, CP024996.1, Herbaspirillum rubrisubalbicans, AYR22727.1, 438
+4549, CP009575.1, Listeria ivanovii subsp. londoniensis, AIS59497.1, 336
+4553, CP012718.1, Streptococcus intermedius, ALF27799.1, 406
+4554, CP020433.2, Streptococcus intermedius, ARC26035.1, 406
+4555, AP014880.1, Streptococcus intermedius, BAW16798.1, 406
+4558, CP010953.1, Campylobacter fetus subsp. testudinum Sp3, ALV64483.1, 394
+4559, CP027287.1, Campylobacter fetus subsp. testudinum, AVK80807.1, 394
+4561, CP029151.1, Dokdonia sp. Dokd-P16, AWH72888.1, 415
+4562, CP033918.1, Chryseobacterium sp. G0186, AZA78953.1, 417
+4565, CP012590.1, Actinomyces sp. oral taxon 414, ALD00721.1, 419
+4572, LR134307.1, Streptococcus milleri, VEE82333.1, 406
+4573, LS483444.1, Streptococcus australis, SQH66672.1, 407
+4574, CP007053.1, Opitutaceae bacterium TAV5, AHF92582.1, 415
+4578, HF680312.1, Thalassolituus oleivorans MIL-1, CCU72679.1, 428
+4579, CP025223.1, Enterococcus sp. CR-Ec1, AUJ85050.1, 351
+4580, CP034543.1, Streptococcus sp. KCOM 2412, AZQ41521.1, 400
+4581, CP009054.1, Lactococcus lactis subsp. lactis NCDO 2118, AII11697.1, 398
+4582, CP009054.1, Lactococcus lactis subsp. lactis NCDO 2118, AII12421.1, 485
+4583, CP001834.1, Lactococcus lactis subsp. lactis KF147, ADA63982.1, 398
+4584, CP001834.1, Lactococcus lactis subsp. lactis KF147, ABX75722.1, 479
+4585, AP010968.1, Kitasatospora setae KM-6054, BAJ27462.1, 399
+4588, CP000463.1, Rhodopseudomonas palustris BisA53, ABJ08173.1, 405
+4589, LT629302.1, Flavobacteriaceae bacterium MAR_2010_188, SDB64927.1, 420
+4590, LT629302.1, Flavobacteriaceae bacterium MAR_2010_188, SDB21897.1, 396
+4593, LR134273.1, Streptococcus equi subsp. equi, VED85413.1, 402
+4595, CP034998.1, Rhizobium acidisoli, QAS79317.1, 433
+4596, CP034998.1, Rhizobium acidisoli, QAS76971.1, 439
+4602, CP013913.1, Serratia fonticola, , 0
+4603, CP013913.1, Serratia fonticola, , 0
+4604, LS483348.1, Streptococcus lutetiensis, SQF42578.1, 402
+4605, CP003025.1, Streptococcus lutetiensis 033, AGS05749.1, 402
+4606, CP010429.1, Spirosoma radiotolerans, AKD54983.1, 419
+4610, LS483380.1, Streptococcus equi subsp. zooepidemicus, SQG17051.1, 402
+4611, CP023515.1, Enterococcus sp. FDAARGOS_375, ATF73090.1, 351
+4612, CP033923.1, Chryseobacterium nakagawai, AZA92000.1, 416
+4619, CP033922.1, Chryseobacterium sp. G0162, AZB09080.1, 416
+4620, CP033738.1, Listeria monocytogenes, AYY69817.1, 336
+4622, FR733651.1, Listeria monocytogenes SLCC2376, CBY63076.1, 336
+4624, CP009242.1, Listeria monocytogenes, AKS53678.1, 336
+4625, CP002816.1, Listeria monocytogenes M7, AEH92107.1, 336
+4626, CP001175.1, Listeria monocytogenes HCC23, ACK39899.1, 336
+4627, FM211688.1, Listeria monocytogenes L99, CAR83784.1, 336
+4628, CP033811.1, Chryseobacterium arthrosphaerae, AYZ14741.1, 417
+4631, CP033932.1, Chryseobacterium bernardetii, AZB24433.1, 416
+4633, CP006833.1, Campylobacter fetus subsp. testudinum 03-427, AGZ81384.1, 394
+4634, CP009226.1, Campylobacter fetus subsp. testudinum, AJB45132.1, 394
+4639, CP022282.1, Chryseobacterium sp. T16E-39, ASK31552.1, 417
+4640, LS483403.1, Streptococcus lutetiensis, SQG57119.1, 406
+4641, LR134203.1, Streptococcus equinus, VEB82346.1, 406
+4642, CP029252.1, Streptococcus thermophilus, AZA23821.1, 407
+4643, CP031021.1, Streptococcus thermophilus, AZA18540.1, 407
+4644, CP014232.1, Actinomyces oris, AME00256.1, 408
+4645, CP014232.1, Actinomyces oris, AMD98140.1, 345
+4646, CP002340.1, Streptococcus thermophilus ND03, ADQ63439.1, 400
+4647, CP019935.1, Streptococcus thermophilus, AQW33329.1, 400
+4649, CP017064.1, Streptococcus thermophilus, ASX19710.1, 400
+4651, AM263198.1, Listeria welshimeri serovar 6b str. SLCC5334, CAK20471.1, 336
+4653, LT906444.1, Listeria welshimeri, SNV22303.1, 336
+4655, CP016877.1, Streptococcus thermophilus, AOD25772.1, 400
+4657, CP003552.1, Nostoc sp. PCC 7524, AFY47980.1, 425
+4658, CP003552.1, Nostoc sp. PCC 7524, AFY47778.1, 429
+4663, CP020991.1, Monoglobus pectinilyticus, AUO19208.1, 394
+4664, CP015898.1, Lactococcus lactis subsp. lactis, ARE00249.1, 396
+4665, CP015898.1, Lactococcus lactis subsp. lactis, ARE00902.1, 466
+4666, CP015905.1, Lactococcus lactis subsp. lactis, ARE10042.1, 396
+4667, CP015905.1, Lactococcus lactis subsp. lactis, ARE10725.1, 466
+4668, CP002365.1, Lactococcus lactis subsp. lactis CV56, ADZ62853.1, 396
+4670, CP024958.1, Lactococcus lactis subsp. lactis, ATZ00447.1, 396
+4671, CP015908.1, Lactococcus lactis subsp. lactis, ARE02584.1, 396
+4672, CP015908.1, Lactococcus lactis subsp. lactis, ARE03288.1, 466
+4673, CP024954.1, Lactococcus lactis subsp. lactis, ATY86822.1, 396
+4674, CP015897.1, Lactococcus lactis subsp. lactis, ARD97876.1, 396
+4675, CP015897.1, Lactococcus lactis subsp. lactis, ARD98621.1, 466
+4676, CP033740.1, Enterococcus sp. FDAARGOS_553, AYY10347.1, 351
+4678, CP023643.1, Brochothrix thermosphacta, ATH84461.1, 534
+4679, CP023483.1, Brochothrix thermosphacta, ATF25078.1, 534
+4680, CP016839.1, Brochothrix thermosphacta, ANZ95977.1, 534
+4681, LT993737.1, Brochothrix thermosphacta, SPN72152.1, 534
+4682, CP032869.1, Mucilaginibacter sp. HYN0043, AYL97237.1, 421
+4684, CP016841.1, Brochothrix thermosphacta, ANZ97874.1, 534
+4685, CP001867.1, Geodermatophilus obscurus DSM 43160, ADB73182.1, 395
+4691, LT629710.1, Nakamurella panacisegetis, SDP04494.1, 439
+4692, CP002305.1, Leadbetterella byssophila DSM 17132, ADQ15848.1, 413
+4693, LS483361.1, Streptococcus dysgalactiae subsp. equisimilis, SQF66746.1, 401
+4694, LR134316.1, Streptococcus dysgalactiae subsp. equisimilis, VEF08020.1, 401
+4695, CP004050.1, Methanobrevibacter sp. AbM4, AGN17556.1, 393
+4702, AM406671.1, Lactococcus lactis subsp. cremoris MG1363, CAL96820.1, 397
+4704, CP002094.1, Lactococcus lactis subsp. cremoris NZ9000, ADJ59239.1, 397
+4707, CP029559.1, Streptococcus sobrinus, AWN61342.1, 406
+4708, CP029560.1, Streptococcus sobrinus, AWN63215.1, 406
+4709, LS483381.1, Streptococcus sobrinus, SQG19555.1, 406
+4710, CP029490.1, Streptococcus sobrinus, AWN20503.1, 406
+4711, LS483378.1, Streptococcus sobrinus, SQG13246.1, 406
+4715, CP003157.1, Lactococcus lactis subsp. cremoris UC509.9, AFW90892.1, 334
+4717, CP015899.1, Lactococcus lactis subsp. cremoris, ARE29514.1, 397
+4718, CP004884.1, Lactococcus lactis subsp. cremoris KW2, AGV72182.1, 397
+4719, CP004884.1, Lactococcus lactis subsp. cremoris KW2, AGV72860.1, 481
+4720, FN597254.1, Streptococcus gallolyticus UCN34, CBI13869.1, 399
+4722, AP012053.1, Streptococcus gallolyticus subsp. gallolyticus ATCC 43143, BAK28231.1, 399
+4723, CP018822.1, Streptococcus gallolyticus subsp. gallolyticus DSM 16831, AQP42414.1, 399
+4724, LS483409.1, Streptococcus gallolyticus, SQG79715.1, 399
+4726, LT960614.1, Hartmannibacter diazotrophicus, SON53912.1, 440
+4728, CP015907.1, Lactococcus lactis subsp. cremoris, ARE05141.1, 396
+4729, CP015894.1, Lactococcus lactis subsp. cremoris, ARD90531.1, 396
+4734, CP031133.1, Bifidobacterium longum subsp. longum, AXF99262.1, 419
+4735, AP009332.1, Lactococcus garvieae ATCC 49156, BAK57630.1, 396
+4736, AP009332.1, Lactococcus garvieae ATCC 49156, BAK58755.1, 471
+4737, AP009333.1, Lactococcus garvieae Lg2, BAK59577.1, 396
+4738, AP009333.1, Lactococcus garvieae Lg2, BAK60723.1, 471
+4739, LT670848.1, Salegentibacter salegens, SHN01834.1, 422
+4741, CP021030.1, Rhizobium sp. NXC14, ARO31317.1, 433
+4742, CP003800.1, Streptococcus constellatus subsp. pharyngis C232, AGU72969.1, 407
+4743, CP003840.1, Streptococcus constellatus subsp. pharyngis C818, AGU74724.1, 407
+4744, CP003859.1, Streptococcus constellatus subsp. pharyngis C1050, AGU80128.1, 407
+4746, LS483368.1, Streptococcus equi subsp. zooepidemicus, SQF81541.1, 402
+4748, CP019058.1, Gardnerella vaginalis, APW19170.1, 418
+4749, CP025500.1, Lactococcus lactis subsp. lactis, AUS68709.1, 403
+4750, CP025500.1, Lactococcus lactis subsp. lactis, AUS70685.1, 479
+4751, CP035757.1, Lactococcus lactis, QBC37611.1, 403
+4752, CP035757.1, Lactococcus lactis, QBC38282.1, 458
+4755, AP017629.1, Streptococcus pyogenes, BAV54902.1, 401
+4759, LS483325.1, Streptococcus equi subsp. zooepidemicus, SQE95728.1, 402
+4760, CP015900.1, Lactococcus lactis subsp. cremoris, ARE25055.1, 397
+4761, CP031538.1, Lactococcus lactis subsp. cremoris, AXN64458.1, 397
+4762, CP015909.1, Lactococcus lactis subsp. cremoris, ARE17307.1, 397
+4763, AP018499.1, Lactococcus lactis subsp. cremoris, BBC74802.1, 397
+4764, CP025199.1, Bifidobacterium pseudocatenulatum, AZN75373.1, 417
+4765, CP001129.1, Streptococcus equi subsp. zooepidemicus MGCS10565, ACG62200.1, 402
+4766, LS483354.1, Streptococcus equi subsp. zooepidemicus, SQF53893.1, 402
+4767, LS483328.1, Streptococcus equi subsp. zooepidemicus, SQF05395.1, 402
+4775, CP011271.1, Gemmata sp. SH-PL17, AMV23586.1, 412
+4777, CP013673.1, Bifidobacterium longum, AOL11118.1, 417
+4778, AP014658.1, Bifidobacterium longum, BAP84405.1, 417
+4779, LS483366.1, Streptococcus salivarius, SQF75471.1, 407
+4780, LT629774.1, Winogradskyella sp. RHA_55, SDS83620.1, 415
+4781, LR134291.1, Streptococcus gordonii, VEE21241.1, 407
+4782, CP000725.1, Streptococcus gordonii str. Challis substr. CH1, ABV09839.1, 407
+4783, CP018796.1, Lactobacillus parabuchneri, APR08226.1, 357
+4785, CP012648.1, Streptococcus gordonii, ALD72533.1, 407
+4792, CP006805.1, Streptococcus sp. I-G2, AGY39912.1, 407
+4793, CP000685.1, Flavobacterium johnsoniae UW101, ABQ03361.1, 422
+4794, HG321353.1, Streptococcus thermophilus, CDF87156.1, 400
+4795, CP003858.1, Streptococcus intermedius C270, AGU78140.1, 400
+4796, CP003857.1, Streptococcus intermedius B196, AGU76310.1, 400
+4797, LR134288.1, Streptococcus milleri, VEE12032.1, 400
+4798, CP012719.1, Streptococcus anginosus, ANW84909.1, 400
+4799, CP007573.1, Streptococcus anginosus, AIK78040.1, 400
+4800, CP001191.1, Rhizobium leguminosarum bv. trifolii WSM2304, ACI53706.1, 439
+4801, CP001849.1, Gardnerella vaginalis 409-05, ADB13588.1, 418
+4802, CP035306.1, Streptococcus thermophilus, QAU29222.1, 400
+4803, CP000419.1, Streptococcus thermophilus LMD-9, ABJ66596.1, 400
+4804, CP011217.1, Streptococcus thermophilus, AKB98077.1, 400
+4805, LS483339.1, Streptococcus thermophilus, SQF25490.1, 400
+4806, CP013563.1, Rhizobium phaseoli, ANL77312.1, 439
+4807, CP013552.1, Rhizobium phaseoli, ANL64497.1, 439
+4808, LR134476.1, Trueperella bialowiezensis, VEI12915.1, 449
+4809, LR134266.1, Streptococcus viridans, VED67429.1, 400
+4810, LR134285.1, Streptococcus sanguinis, VEE19591.1, 400
+4811, CP017666.1, Streptococcus suis, AWX95701.1, 408
+4812, CP003122.1, Streptococcus parasanguinis FW213, AFJ25832.1, 407
+4813, CP017667.1, Streptococcus suis, AWX97695.1, 408
+4814, CP020906.1, Rhizobium etli, ARQ08879.1, 439
+4822, CP007045.1, Rhizobium leguminosarum bv. trifolii WSM1689, AHF82533.1, 439
+4823, FR875178.1, Streptococcus thermophilus JIM 8232, CCC20362.1, 400
+4824, HE613569.1, Streptococcus macedonicus ACA-DC 198, CCF02605.1, 402
+4825, LS483329.1, Streptococcus pyogenes, SQF07477.1, 401
+4826, LT629697.1, Frankineae bacterium MT45, SDI94055.1, 404
+4827, LT906439.1, Streptococcus merionis, SNU88658.1, 403
+4829, LR134275.1, Streptococcus vestibularis, VED88880.1, 407
+4830, CP006776.1, Streptococcus sp. I-P16, AGY38423.1, 399
+4835, CP000829.1, Streptococcus phage NZ131.3, ACI60937.1, 406
+4836, CP016439.1, Streptococcus thermophilus, ANS61812.1, 400
+4837, CP000024.1, Streptococcus thermophilus CNRZ1066, AAV63005.1, 400
+4838, CP013651.1, Streptococcus sp. A12, AMP66819.1, 399
+4841, CP013015.1, Candidatus Desulfofervidus auxilii, AMM41038.1, 464
+4846, CP013939.1, Streptococcus thermophilus, ALX91645.1, 400
+4848, CP013557.1, Rhizobium phaseoli, ANL70859.1, 439
+4852, CP000806.1, Cyanothece sp. ATCC 51142, ACB51441.1, 437
+4856, LS483394.1, Streptococcus pyogenes, SQG39446.1, 401
+4857, LS483425.1, Streptococcus pyogenes, SQH23292.1, 401
+4869, CP001074.1, Rhizobium etli CIAT 652, ACE89819.1, 439
+4873, CP013527.1, Rhizobium phaseoli, ANL32908.1, 439
+4874, CP013580.1, Rhizobium phaseoli, ANL96638.1, 439
+4875, CP007562.1, Streptococcus pyogenes, AKI38938.1, 401
+4876, CP013839.1, Streptococcus pyogenes, ANC25294.1, 401
+4877, CP007023.1, Streptococcus pyogenes STAB1102, AIG48655.1, 401
+4878, CP007240.1, Streptococcus pyogenes, AIT77273.1, 401
+4879, HG316453.2, Streptococcus pyogenes, CDJ54880.1, 401
+4880, CP013840.1, Streptococcus pyogenes, ANC26925.1, 401
+4881, LS483322.1, Streptococcus pyogenes, SQE93833.1, 401
+4882, AP014585.1, Streptococcus pyogenes, BAQ52789.1, 401
+4883, AP014572.1, Streptococcus pyogenes, BAQ51068.1, 401
+4884, LS483338.1, Streptococcus pyogenes, SQF23332.1, 401
+4885, LS483359.1, Streptococcus pyogenes, SQF59549.1, 401
+4886, LS483355.1, Streptococcus pyogenes, SQF55484.1, 401
+4887, LS483326.1, Streptococcus pyogenes, SQE97329.1, 401
+4888, LS483430.1, Streptococcus pyogenes, SQH26428.1, 401
+4889, LS483379.1, Streptococcus pyogenes, SQG15183.1, 401
+4890, CP015238.2, Streptococcus pyogenes, ANC74259.1, 401
+4891, LS483353.1, Streptococcus pyogenes, SQF50584.1, 401
+4892, LR134272.1, Streptococcus pyogenes, VED83476.1, 401
+4893, LS483420.1, Streptococcus pyogenes, SQH09125.1, 401
+4894, LS483521.1, Streptococcus pyogenes, SRX88974.1, 401
+4895, CP013838.1, Streptococcus pyogenes, ANC23714.1, 401
+4896, LS483415.1, Streptococcus pyogenes, SQG96497.1, 401
+4897, CP028140.1, Streptococcus pyogenes, AWS22984.1, 401
+4898, CP007561.1, Streptococcus pyogenes, AKI37356.1, 401
+4899, CP010450.1, Streptococcus pyogenes, AKZ51910.1, 401
+4900, LS483333.1, Streptococcus pyogenes, SQF14575.1, 401
+4901, LS483401.1, Streptococcus pyogenes, SQG54263.1, 401
+4902, CP007024.1, Streptococcus pyogenes STAB901, AIG50159.1, 401
+4903, LS483345.1, Streptococcus pyogenes, SQF32977.1, 401
+4904, CP007241.1, Streptococcus pyogenes, AIW11529.1, 401
+4905, LS483442.1, Streptococcus pyogenes, SQH68527.1, 401
+4906, LS483323.1, Streptococcus pyogenes, SQF02270.1, 401
+4907, CP033335.1, Streptococcus pyogenes, QAX72531.1, 401
+4908, LS483337.1, Streptococcus pyogenes, SQF21142.1, 401
+4909, LS483315.1, Streptococcus pyogenes, SQE79075.1, 401
+4910, LS483327.1, Streptococcus pyogenes, SQF03415.1, 401
+4911, LS483407.1, Streptococcus pyogenes, SQG72861.1, 401
+4912, CP021640.1, Streptococcus pyogenes, AUG50129.1, 401
+4913, LS483522.1, Streptococcus pyogenes, SRX91201.1, 401
+4914, CP014278.2, Streptococcus pyogenes, AND04676.1, 401
+4915, CP014138.1, Streptococcus pyogenes, AMA68694.1, 401
+4916, CP006366.1, Streptococcus pyogenes HSC5, AGQ27428.1, 401
+4917, LS483399.1, Streptococcus pyogenes, SQG51598.1, 401
+4919, CP003068.1, Streptococcus pyogenes Alab49, AEQ24239.1, 401
+4920, LS483340.1, Streptococcus pyogenes, SQF28307.1, 401
+4921, CP032700.1, Streptococcus pyogenes, QAX74753.1, 401
+4922, CP008776.1, Streptococcus pyogenes, AKK70700.1, 401
+4923, LS483520.1, Streptococcus pyogenes, SRX87253.1, 401
+4925, AP012491.2, Streptococcus pyogenes M1 476, BAM29997.1, 401
+4926, CP031638.1, Streptococcus pyogenes, QBB26141.1, 401
+4927, LS483432.1, Streptococcus pyogenes, SQH47795.1, 401
+4928, CP000259.1, Streptococcus phage 9428.3, ABF31849.1, 401
+4929, CP003901.1, Streptococcus pyogenes A20, AFV37735.1, 401
+4930, CP031626.1, Streptococcus pyogenes, QBB47288.1, 401
+4931, CP033767.1, Streptococcus pyogenes, AYZ02584.1, 401
+4932, CP000017.2, Streptococcus pyogenes phage 5005.3, AAZ51224.1, 401
+4933, LS483344.1, Streptococcus pyogenes, SQF36779.1, 401
+4934, CP014027.2, Streptococcus pyogenes, AMH02461.1, 401
+4935, CP031620.1, Streptococcus pyogenes, QBB57825.1, 401
+4937, CP031630.1, Streptococcus pyogenes, QBB40292.1, 401
+4938, CP008926.1, Streptococcus pyogenes, AIL11388.1, 401
+4939, LS483332.1, Streptococcus pyogenes, SQF12237.1, 401
+4940, CP020027.1, Streptococcus pyogenes, ASQ20893.1, 401
+4941, CP008695.1, Streptococcus pyogenes, AIQ01055.1, 401
+4942, LS483384.1, Streptococcus pyogenes, SQG22947.1, 401
+4943, LS483382.1, Streptococcus pyogenes, SQG19238.1, 401
+4944, LS483331.1, Streptococcus pyogenes, SQF09319.1, 401
+4945, LS483334.1, Streptococcus pyogenes, SQF16222.1, 401
+4946, CP031633.1, Streptococcus pyogenes, QBB35035.1, 401
+4947, CP032666.1, Streptococcus pyogenes, AZZ64564.1, 401
+4948, CP031628.1, Streptococcus pyogenes, QBB43793.1, 401
+4949, CP031624.1, Streptococcus pyogenes, QBB50779.1, 401
+4950, CP031636.1, Streptococcus pyogenes, QBB29801.1, 401
+4951, AE004092.2, Streptococcus phage 370.4, AAK33728.1, 401
+4952, CP033621.1, Streptococcus pyogenes, QAZ36700.1, 401
+4953, CP023769.1, Streptococcus pyogenes, ATL56581.1, 401
+4954, CP031621.1, Streptococcus pyogenes, QBB56095.1, 401
+4955, CP031634.1, Streptococcus pyogenes, QBB33304.1, 401
+4956, CP032665.1, Streptococcus pyogenes, AZZ62831.1, 401
+4958, LS483352.1, Streptococcus pyogenes, SQF51922.1, 401
+4959, CP000261.1, Streptococcus phage 2096.2, ABF35723.1, 401
+4960, CP013672.1, Streptococcus pyogenes, AMY97155.1, 401
+4961, CP011069.1, Streptococcus pyogenes, ANP29208.1, 401
+4962, LS483321.1, Streptococcus pyogenes, SQE93756.1, 401
+4963, LS483391.1, Streptococcus pyogenes, SQG42710.1, 401
+4964, LS483330.1, Streptococcus pyogenes, SQF10576.1, 401
+4965, CP029694.1, Streptococcus pyogenes, AYO93022.1, 401
+4966, LS483336.1, Streptococcus pyogenes, SQF19312.1, 401
+4967, LR031521.1, Streptococcus pyogenes, VDC38913.1, 401
+4968, CP014139.1, Streptococcus pyogenes, AMA70823.1, 401
+4969, CP031738.1, Streptococcus pyogenes, QBC34682.1, 401
+4970, CP031632.1, Streptococcus pyogenes, QBB36765.1, 401
+4971, CP032699.1, Streptococcus pyogenes, QAX75894.1, 401
+4972, CP031639.1, Streptococcus pyogenes, QBB24378.1, 401
+4973, CP022354.1, Streptococcus pyogenes, ASO74441.1, 401
+4974, CP020082.1, Streptococcus pyogenes, ASQ22710.1, 401
+4975, CP014542.1, Streptococcus pyogenes, ARV00950.1, 401
+4976, LS483357.1, Streptococcus pyogenes, SQF57728.1, 401
+4977, LS483437.1, Streptococcus pyogenes, SQH62297.1, 401
+4978, CP007041.1, Streptococcus pyogenes STAB902, AIG47601.1, 401
+4979, CP031631.1, Streptococcus pyogenes, QBB38569.1, 401
+4980, CP031627.1, Streptococcus pyogenes, QBB45515.1, 401
+4981, CP022206.1, Streptococcus pyogenes, ASO68726.1, 401
+4982, CP031625.1, Streptococcus pyogenes, QBB49050.1, 401
+4983, CP031629.1, Streptococcus pyogenes, QBB41491.1, 401
+4984, AP014596.1, Streptococcus pyogenes, BAU60802.1, 401
+4985, CP031617.1, Streptococcus pyogenes, QBB63267.1, 401
+4986, CP031622.1, Streptococcus pyogenes, QBB54375.1, 401
+4987, BA000034.2, Streptococcus pyogenes SSI-1, BAC64424.1, 401
+4988, AE009949.1, Streptococcus pyogenes MGAS8232, AAL97507.1, 401
+4989, CP011535.2, Streptococcus pyogenes, AKJ92903.1, 401
+4990, CP000056.2, Streptococcus pyogenes phage 6180.4, AAX71699.1, 401
+4991, LS483351.1, Streptococcus pyogenes, SQF44991.1, 401
+4992, CP033815.1, Streptococcus pyogenes, AYZ10004.1, 401
+4993, AP018337.1, Streptococcus pyogenes, BBB88731.1, 401
+4994, AE014074.1, Streptococcus pyogenes phage 315.6, AAM79132.1, 401
+4995, LR134284.1, Streptococcus pyogenes, VEE00191.1, 401
+4996, CP033907.1, Streptococcus pyogenes, AZA35121.1, 401
+4997, CP033908.1, Streptococcus pyogenes, AZA33327.1, 401
+4998, CP031770.1, Streptococcus pyogenes, AYJ02229.1, 401
+4999, CP031623.1, Streptococcus pyogenes, QBB52575.1, 401
+5000, LS483298.1, Streptococcus pyogenes, SQE38967.1, 401
+5001, CP031635.1, Streptococcus pyogenes, QBB31573.1, 401
+5002, LS483389.1, Streptococcus pyogenes, SQG28659.1, 401
+5003, CP007537.1, Streptococcus pyogenes, AKG28275.1, 401
+5005, LS483414.1, Streptococcus pyogenes, SQG94780.1, 401
+5006, CP028841.1, Streptococcus pyogenes, QAB34294.1, 401
+5007, LN831034.1, Streptococcus pyogenes, CKG84465.1, 401
+5008, CP007560.1, Streptococcus pyogenes, AKI35571.1, 401
+5009, LS483347.1, Streptococcus pyogenes, SQF38963.1, 401
+5010, LS483320.1, Streptococcus pyogenes, SQE90190.1, 401
+5011, LS483307.1, Streptococcus pyogenes, SQE55807.1, 401
+5012, LS483335.1, Streptococcus pyogenes, SQF17414.1, 401
+5013, CP000260.1, Streptococcus phage 10270.5, ABF33726.1, 401
+5014, LS483356.1, Streptococcus pyogenes, SQF59662.1, 401
+5015, LS483386.1, Streptococcus pyogenes, SQG24222.1, 401
+5016, CP031637.1, Streptococcus pyogenes, QBB27954.1, 401
+5017, CP000262.1, Streptococcus phage 10750.4, ABF37643.1, 401
+5019, CP031618.1, Streptococcus pyogenes, QBB61436.1, 401
+5021, CP012045.1, Streptococcus pyogenes, AKP81455.1, 401
+5022, CP031619.1, Streptococcus pyogenes, QBB59652.1, 401
+5023, CP011068.1, Streptococcus pyogenes, AKL62821.1, 401
+5024, CP010449.1, Streptococcus pyogenes, AKZ50107.1, 401
+5025, CP031640.1, Streptococcus pyogenes, QBB21964.1, 401
+5026, CP033337.1, Streptococcus pyogenes, QAX69039.1, 401
+5027, AP017373.1, Lactococcus garvieae, BAV02600.1, 386
+5029, CP003325.1, Bifidobacterium asteroides PRL2011, AFU70867.1, 424
+5030, CP017696.1, Bifidobacterium asteroides DSM 20089, ATO40847.1, 424
+5031, CP023511.1, Streptococcus gordonii, ATF65504.1, 407
+5032, CP020450.2, Streptococcus gordonii, ARC47591.1, 407
+5033, LS483360.1, Streptococcus pyogenes, SQF63050.1, 401
+5037, LS483375.1, Streptococcus gordonii, SQG04034.1, 407
+5038, LS483341.1, Streptococcus gordonii, SQF29282.1, 407
+5044, LK995501.1, Actinomyces succiniciruminis, CED91363.1, 431
+5045, CP003116.1, Streptococcus pyogenes MGAS15252, AFC65983.1, 401
+5046, CP003121.1, Streptococcus pyogenes MGAS1882, AFC67849.1, 401
+5047, LS483421.1, Streptococcus pyogenes, SQH10769.1, 401
+5048, AP012335.1, Streptococcus pyogenes JRS4, BAR44103.1, 401
+5049, CP011415.1, Streptococcus pyogenes, AKI77592.1, 401
+5050, CP011414.1, Streptococcus pyogenes JRS4, AKI75921.1, 401
+5051, LR134314.1, Streptococcus pyogenes, VEF01069.1, 401
+5052, CP000003.1, Streptococcus pyogenes MGAS10394, AAT86758.1, 401
+5053, LT906454.1, Streptococcus acidominimus, SNV38800.1, 403
+5055, LT629775.1, Streptomyces sp. TLI_053, SDT24392.1, 399
+5058, CP010453.1, Bifidobacterium longum, ALE37103.1, 426
+5066, CP006713.1, Bifidobacterium breve JCM 7019, AHJ20137.1, 413
+5067, CP029255.1, Flavobacterium crocinum, , 0
+5069, LR134477.1, Actinomyces viscosus, VEI14407.1, 345
+5071, FM204884.1, Streptococcus equi subsp. zooepidemicus, CAW99530.1, 402
+5080, LR134317.1, Streptococcus equi subsp. zooepidemicus, VEF06952.1, 402
+5082, CP008885.1, Bifidobacterium longum, AIF91362.1, 432
+5083, LR134389.1, Streptococcus equi subsp. equi, VEH32244.1, 402
+5084, FM204883.1, Streptococcus equi subsp. equi 4047, CAW93517.1, 402
+5085, CP021972.1, Streptococcus equi subsp. equi, ASB96600.1, 402
+5086, CP031192.1, Humibacter sp. BT305, AXH35357.1, 397
+5088, AP012281.1, Lactococcus lactis subsp. lactis IO-1, BAL50169.1, 397
+5089, AP012281.1, Lactococcus lactis subsp. lactis IO-1, BAL50866.1, 458
+5093, CP003243.1, Methanocella conradii HZ254, AFC99376.1, 432
+5094, CP015903.1, Lactococcus lactis subsp. lactis, ARE14934.1, 397
+5095, CP015903.1, Lactococcus lactis subsp. lactis, ARE15616.1, 458
+5096, CP015904.1, Lactococcus lactis subsp. lactis, ARE12525.1, 397
+5097, CP015904.1, Lactococcus lactis subsp. lactis, ARE13207.1, 458
+5098, CP000425.1, Lactococcus lactis subsp. cremoris SK11, ABJ71827.1, 397
+5099, CP015901.1, Lactococcus lactis subsp. cremoris, ARE22422.1, 397
+5101, CP015282.1, Streptococcus salivarius, ARI58627.1, 400
+5108, CP002888.1, Streptococcus salivarius 57.I, AEJ52977.1, 400
+5109, CP020431.2, Streptococcus sp. FDAARGOS_192, ARC22880.1, 400
+5110, CP025118.1, Lacinutrix sp. Bg11-31, AUC82086.1, 425
+5112, FP565147.1, uncultured archaeon, CBH38550.1, 414
+5113, AP012327.1, Bifidobacterium kashiwanohense JCM 15439 = DSM 21854, BAQ29880.1, 415
+5116, CP033068.1, Flavobacterium sp. 140616W15, AYN05197.1, 419
+5127, CP034438.1, Flaviflexus salsibiostraticola, AZN30852.1, 400
+5129, CP002652.1, Lactobacillus buchneri NRRL B-30929, AEB73547.1, 357
+5130, CP003255.1, Thermobacillus composti KWC4, AGA59923.1, 421
+5133, CP013923.1, Achromobacter denitrificans, ALX86607.1, 446
+5138, CP017295.1, Streptococcus gordonii, AOS71420.1, 407
+5139, CP000481.1, Acidothermus cellulolyticus 11B, ABK52195.1, 424
+5140, CP023278.1, Nostoc sp. CENA543, AUS99447.1, 425
+5144, CP002843.1, Streptococcus parasanguinis ATCC 15912, AEH55329.1, 399
+5149, CP015107.1, Flavobacterium columnare, AND64649.1, 428
+5152, CP002825.1, Lacinutrix sp. 5H-3-7-4, AEG99976.1, 420
+5153, CP033336.1, Streptococcus pyogenes, QAX71396.1, 401
+5162, CP003132.1, Lactococcus lactis subsp. cremoris A76, AEU39427.1, 399
+5163, CP003132.1, Lactococcus lactis subsp. cremoris A76, AEU40785.1, 458
+5167, CP029491.1, Streptococcus sobrinus, AWN19189.1, 406
+5171, CP009612.1, Streptococcus pyogenes, AIW24442.1, 401
+5172, CP025791.1, Flavivirga eckloniae, AUP78183.1, 425
+5173, CP003993.1, Streptococcus suis TL13, AGL47637.1, 404
+5174, LR134283.1, Streptococcus anginosus, VED97937.1, 404
+5175, CP013688.1, Streptococcus gallolyticus, ALT80656.1, 409
+5187, CP032627.1, Lactococcus sp. 1JSPR-7, AYG01568.1, 393
+5193, CP031612.1, Olleya aquimaris, AXO81592.1, 432
+5196, CP012076.1, Bordetella hinzii, AKQ53452.1, 480
+5200, LT906461.1, Bordetella hinzii, SNW00444.1, 480
+5209, CP009501.1, Methanosarcina thermophila TM-1, AKB14230.1, 416
+5210, CP009502.1, Methanosarcina thermophila CHTI-55, AKB15128.1, 416
+5220, CP011489.1, Actinobacteria bacterium IMCC26256, AKL74374.1, 397
+5221, CP011489.1, Actinobacteria bacterium IMCC26256, AKL74211.1, 394
+5222, CP011489.1, Actinobacteria bacterium IMCC26256, AKL72663.1, 411
+5223, CP014263.1, Spirosoma montaniterrae, AQG79656.1, 417
+5228, CP017142.1, Streptococcus suis, AOM74294.1, 404
+5229, CP015557.1, Streptococcus suis, ANC99572.1, 404
+5230, CP003736.1, Streptococcus suis S735, AFR00585.1, 404
+5231, LS483418.1, Streptococcus suis, SQH00749.1, 404
+5232, AM946016.1, Streptococcus suis P1/7, CAR46354.1, 404
+5233, CP002633.1, Streptococcus suis ST3, AEB81155.1, 404
+5235, CP000837.1, Streptococcus suis GZ1, ADE31597.1, 404
+5236, CP002570.1, Streptococcus suis A7, AER44455.1, 404
+5237, CP006645.1, Streptococcus suis YB51, AGW87065.1, 404
+5239, CP016175.1, Streptococcus suis, ARX90560.1, 404
+5240, CP018908.1, Streptococcus suis, AUW22121.1, 404
+5241, CP007497.1, Streptococcus suis, AKG40570.1, 404
+5242, FM252031.1, Streptococcus suis SC84, CAZ51930.1, 404
+5243, CP020863.1, Streptococcus suis, ARL70125.1, 404
+5244, CP000407.1, Streptococcus suis 05ZYH33, ABP90252.1, 404
+5245, CP002640.1, Streptococcus suis SS12, AER15366.1, 404
+5246, CP002465.1, Streptococcus suis JS14, ADV70321.1, 404
+5247, CP024050.1, Streptococcus suis, AUW24143.1, 404
+5248, CP003922.1, Streptococcus suis SC070731, AGG64656.1, 404
+5249, CP012731.1, Streptococcus suis, AMU80248.1, 404
+5251, FM252032.1, Streptococcus suis BM407, CAZ55502.1, 404
+5252, CP002007.2, Streptococcus suis 05HAS68, AHF59786.1, 404
+5254, CP002641.1, Streptococcus suis D9, AER16929.1, 404
+5256, CP030124.1, Streptococcus suis, AXI65711.1, 404
+5258, CP006246.1, Streptococcus suis T15, AGZ22780.1, 404
+5261, CP024126.1, Streptococcus suis, AUW25756.1, 404
+5263, CP011419.1, Streptococcus suis, ALA28529.1, 404
+5265, CP012911.1, Streptococcus suis, AML46123.1, 404
+5267, CP008921.1, Streptococcus suis 6407, AIG43185.1, 404
+5269, CP025095.1, Streptococcus suis, AUC91807.1, 404
+5270, CP003860.1, Streptococcus anginosus C1051, AGU81420.1, 403
+5271, CP012805.1, Streptococcus anginosus, ALL02771.1, 403
+5272, AP013072.1, Streptococcus anginosus subsp. whileyi MAS624, BAN61996.1, 403
+5273, CP003861.1, Streptococcus anginosus C238, AGU83150.1, 403
+5274, CP003137.1, Pediococcus claussenii ATCC BAA-344, AEV94733.1, 363
+5277, CP002651.1, Streptococcus suis ST1, AER21065.1, 404
+5278, CP017088.1, Streptococcus suis, ASW49387.1, 404
+5280, CP017092.1, Streptococcus suis, ASW52037.1, 404
+5288, CP001361.1, Bifidobacterium bifidum BGN4, AFL03660.1, 436
+5290, CP030125.1, Streptococcus suis, AXI67722.1, 405
+5294, CP006741.1, Bifidobacterium longum subsp. longum GT15, AIW44368.1, 425
+5295, CP002794.1, Bifidobacterium longum subsp. longum KACC 91563, AEI96634.1, 425
+5300, CP003222.2, Flavobacterium columnare ATCC 49512, AEW87312.1, 428
+5301, CP016277.1, Flavobacterium columnare, ANO48353.1, 428
+5305, CP024771.1, Bacillus thuringiensis LM1212, AXY06873.1, 544
+5307, CP002801.1, Frankia symbiont of Datisca glomerata, AEH08555.1, 470
+5311, CP002353.1, Isosphaera pallida ATCC 43644, ADV63690.1, 458
+5313, CP002299.1, Frankia inefficax, ADP84075.1, 437
+5315, CP011786.1, Bifidobacterium actinocoloniiforme DSM 22766, AKV55624.1, 421
+5316, CP014228.1, Actinomyces radicidentis, AMD86535.1, 401
+5324, CP007496.1, Candidatus Saccharibacteria oral taxon TM7x, AJA06664.1, 386
+5327, CP021904.1, Alkalitalea saponilacus, ASB50949.1, 427
+5330, CP022316.1, Brachybacterium sp. VR2415, ASK65536.1, 341
+5333, CP000820.1, Frankia sp. EAN1pec, ABW15236.1, 418
+5334, CP029398.1, Streptococcus suis, AWL26164.1, 404
+5336, CP023669.1, Methylomonas koyamae, ATG90447.1, 408
+5337, CP002691.1, Haliscomenobacter hydrossis DSM 1100, AEE50736.1, 429
+5338, LT599049.1, Lactococcus lactis subsp. lactis, SBW29375.1, 399
+5339, LT599049.1, Lactococcus lactis subsp. lactis, SBW30197.1, 485
+5347, CP002085.1, Desulfarculus baarsii DSM 2075, ADK83827.1, 414
+5350, CP015902.1, Lactococcus lactis subsp. lactis, ARE19819.1, 399
+5351, CP014065.2, Achromobacter xylosoxidans, AMG44375.1, 446
+5352, CP024974.1, Streptococcus suis, ATZ04577.1, 412
+5354, LT629712.1, Bifidobacterium longum, SDO33707.1, 420
+5367, CP002004.1, Listeria monocytogenes Finland 1998, AEO38622.1, 333
+5420, HG813247.1, Listeria monocytogenes R479a, CDM16325.1, 335
+5441, CP002003.1, Listeria monocytogenes FSL R2-561, AEO25374.1, 333
+5472, CP002001.1, Listeria monocytogenes J0161, AEO03169.1, 333
+5524, CP013237.1, Streptococcus mutans, AMF85618.1, 405
+5525, AP010655.1, Streptococcus mutans NN2025, BAH88212.1, 405
+5526, LS483349.1, Streptococcus mutans, SQF48914.1, 405
+5527, CP003686.1, Streptococcus mutans GS-5, AFM81256.1, 405
+5528, CP007016.1, Streptococcus mutans UA159-FR, AJD55191.1, 405
+5529, AE014133.2, Streptococcus mutans UA159, AAN58544.1, 405
+5530, CP033199.1, Streptococcus mutans, AYO47881.1, 405
+5531, CP023477.1, Streptococcus mutans, AVM71694.1, 405
+5532, CP021318.1, Streptococcus mutans, ARS62223.1, 405
+5533, AP012336.1, Streptococcus mutans LJ23, BAL69519.1, 406
+5538, CP001643.1, Brachybacterium faecium DSM 4810, ACU86563.1, 352
+5540, CP001124.1, Geobacter bemidjiensis Bem, ACH39588.1, 428
+5541, CP016907.1, Flavobacterium anhuiense, AOC95307.1, 426
+5544, CP006712.1, Bifidobacterium breve JCM 7017, AHJ18227.1, 418
+5545, CP023193.1, Bifidobacterium breve, AUE09974.1, 418
+5546, CP023194.1, Bifidobacterium breve, AUE11850.1, 418
+5547, CP023192.1, Bifidobacterium breve, AUE08099.1, 418
+5548, CP023197.1, Bifidobacterium breve, AUE17464.1, 418
+5549, CP023196.1, Bifidobacterium breve, AUE15595.1, 418
+5550, CP021385.1, Bifidobacterium breve, AUD69888.1, 418
+5551, CP023195.1, Bifidobacterium breve, AUE13724.1, 418
+5552, CP019596.1, Bifidobacterium breve, AQM43847.1, 418
+5553, CP021556.1, Bifidobacterium breve, AUE00022.1, 418
+5554, CP010413.1, Bifidobacterium breve, ALE14394.1, 418
+5556, LR134320.1, Streptococcus mutans, VEF18923.1, 405
+5565, CP032683.1, Methanosarcina flavescens, AYK14301.1, 416
+5567, AM114193.2, Methanocella arvoryzae MRE50, CAJ35695.1, 430
+5568, CP035266.1, Pediococcus acidilactici, QAT20200.1, 356
+5570, CP034443.1, Mesorhizobium sp. M9A.F.Ca.ET.002.03.1.2, AZO00757.1, 411
+5571, CP031733.1, Streptococcus sp. Z15, AXQ78908.1, 408
+5573, AP014612.1, Streptococcus troglodytae, BAQ24574.1, 406
+5580, CP035151.1, Pediococcus acidilactici, QAR71635.1, 356
+5595, CT573213.2, Frankia alni ACN14a, CAJ59899.1, 516
+5601, CP012643.1, Rufibacter tibetensis, ALI99907.1, 430
+5606, CP025043.1, Streptococcus suis, AUA19295.1, 407
+5609, CP025815.1, Sulfitobacter sp. JL08, AXI54116.1, 428
+5614, CP035806.1, Leucobacter triazinivorans, QBE50334.1, 376
+5624, CP021390.1, Bifidobacterium breve, AUD90040.1, 418
+5633, CP002644.1, Streptococcus suis D12, AER18986.1, 404
+5636, CP014699.1, Streptococcus pantholopis, AND79150.1, 408
+5642, CP002394.1, Bacillus cellulosilyticus DSM 2522, ADU31888.1, 513
+5649, CP011211.1, Candidatus Saccharibacteria bacterium GW2011_GWC2_44_17, AKM80574.1, 407
+5668, CP035501.1, Sphingosinicella sp. BN140058, QAY75122.1, 455
+5669, HE965807.1, Bordetella bronchiseptica MO149, CCJ56882.1, 454
+5734, CP020715.1, Cnuibacter physcomitrellae, ARJ07367.1, 401
+5736, LT907983.1, Cytophagales bacterium TFI 002, SOE19954.1, 415
+5769, LR134409.1, Kocuria rhizophila, VEH75119.1, 334
+5773, CP000249.1, Frankia casuarinae, ABD10107.1, 420
+5782, CP027789.1, Bacillus licheniformis, AYC53516.1, 531
+5792, CP002551.1, Methanobacterium lacus, ADZ09150.1, 349
+5793, CP016440.1, Bordetella pseudohinzii, ANY18010.1, 390
+5795, CP016440.1, Bordetella pseudohinzii, ANY18011.1, 386
+5800, CP019699.1, Novibacillus thermophilus, AQS57114.1, 507
+5801, CP019699.1, Novibacillus thermophilus, AQS57114.1, 507
+5802, LR134387.1, Cellulomonas fimi, VEH33752.1, 403
+5803, CP002666.1, Cellulomonas fimi ATCC 484, AEE46642.1, 403
+5805, CP002116.1, Sediminispirochaeta smaragdinae DSM 11293, ADK83339.1, 423
+5809, CP023299.1, Pseudomonas mosselii, ATB64086.1, 393
+5818, CP027669.1, Simplicispira suum, AVO40722.1, 407
+5823, CP016447.1, Acidovorax sp. RAC01, AOG22740.1, 406
+5824, AE010299.1, Methanosarcina acetivorans C2A, AAM04598.1, 409
+5826, CP029329.1, Clostridium beijerinckii, AWK50032.1, 341
+5827, CP026522.1, Bacillus licheniformis, AUZ32346.1, 531
+5830, CP031964.1, Flavobacteriaceae bacterium, AXT20763.1, 427
+5831, CP020880.1, Bacillus horikoshii, ART78081.1, 533
+5833, CP002449.1, Alicycliphilus denitrificans BC, ADU98435.1, 406
+5859, CP021394.1, Bifidobacterium breve, AUD85914.1, 418
+5865, CP012072.1, Actinomyces meyeri, AKU65234.1, 391
+5866, CP006915.1, Candidatus Saccharibacteria bacterium RAAC3_TM7_1, AHB42167.1, 408
+5880, AP012320.1, Rubrivivax gelatinosus IL144, BAL93779.1, 414
+5883, CP003156.1, Owenweeksia hongkongensis DSM 17368, AEV33982.1, 392
+5892, LR134350.1, Actinomyces howellii, VEG29897.1, 408
+5911, CP017267.1, Vagococcus teuberi, APB31749.1, 354
+5924, CP017016.1, Bacillus sp. ABP14, AOY18548.1, 543
+5925, CP010050.1, Lactococcus lactis subsp. lactis, AJA56129.1, 393
+5926, CP010050.1, Lactococcus lactis subsp. lactis, AJA56769.1, 466
+5927, CP034836.1, Hahella sp. KA22, AZZ90903.1, 416
+5929, CP035490.1, Hahella sp. KA22, QAY54273.1, 416
+5934, CP009472.1, Lactococcus lactis, AIS02782.1, 393
+5935, CP009472.1, Lactococcus lactis, AIS04007.1, 479
+5936, CP015895.1, Lactococcus lactis subsp. lactis, ARD92687.1, 393
+5937, CP015895.1, Lactococcus lactis subsp. lactis, ARD93422.1, 466
+5938, CP028160.1, Lactococcus lactis subsp. lactis, AWN64819.1, 393
+5939, CP028160.1, Lactococcus lactis subsp. lactis, AWN67030.1, 479
+5940, CP006766.1, Lactococcus lactis subsp. lactis KLDS 4.0325, AGY43546.1, 393
+5943, CP031356.1, Brachybacterium saurashtrense, AXK46202.1, 343
+5953, CP032401.1, Streptococcus iniae, AYB01097.1, 388
+5954, CP017952.1, Streptococcus iniae, APD31992.1, 388
+5955, CP032400.1, Streptococcus iniae, AYB02961.1, 388
+5956, CP005941.1, Streptococcus iniae SF1, AGM99007.1, 388
+5957, CP030261.1, Flavobacterium sp. HYN0086, AXB55363.1, 427
+5958, CP014241.1, Bifidobacterium angulatum, AMK57289.1, 418
+5959, CP027034.1, Bacillus pumilus, AVI42540.1, 533
+5965, LR134354.1, Bifidobacterium longum subsp. infantis, VEG44626.1, 421
+5966, CP001095.1, Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088, ACJ53441.1, 421
+5969, CP027786.1, Tetragenococcus koreensis, AYW45212.1, 352
+5977, CP024684.1, Bacillus wiedmannii bv. thuringiensis, AZJ23338.1, 543
+5981, CP020030.1, Geobacillus thermodenitrificans, ARP44273.1, 531
+5993, CP007755.1, Bifidobacterium animalis, AIA33498.1, 471
+5994, CP035497.1, Bifidobacterium animalis, QBA09220.1, 471
+5996, CP031154.1, Bifidobacterium animalis subsp. lactis, AYD77968.1, 471
+5997, CP001606.1, Bifidobacterium animalis subsp. lactis DSM 10140, ACS48432.1, 471
+6001, CP009045.1, Bifidobacterium animalis subsp. lactis, AJD89221.1, 471
+6002, CP001515.1, Bifidobacterium animalis subsp. lactis Bl-04, ACS46866.1, 471
+6006, CP001892.1, Bifidobacterium animalis subsp. lactis V9, ADG34061.1, 471
+6007, CP022724.1, Bifidobacterium animalis subsp. lactis, AXM93024.1, 471
+6008, CP031703.1, Bifidobacterium animalis subsp. lactis, AXQ17588.1, 471
+6009, CP017098.1, Bifidobacterium animalis, ASL78296.1, 471
+6010, CP007522.1, Bifidobacterium animalis subsp. lactis KLDS2.0603, AJC77177.1, 471
+6011, CP010433.1, Bifidobacterium animalis, AJD34622.1, 471
+6017, CP007587.1, Streptococcus iniae, AHY17822.1, 388
+6018, CP007586.1, Streptococcus iniae, AHY15956.1, 388
+6019, CP010783.1, Streptococcus iniae, AJG26115.1, 388
+6021, CP022392.1, Streptococcus iniae, ASL34939.1, 388
+6030, CP023481.1, Bacillus glycinifermentans, ATH93459.1, 526
+6037, CP023563.1, Brachybacterium sp. VM2412, ATG50890.1, 343
+6039, CP028922.1, Paenibacillus sp. CAA11, AWB46185.1, 411
+6041, CP014360.1, Methylomonas sp. DH-1, , 0
+6058, LT627735.1, Nonlabens sp. Hel1_33_55, SCX92091.1, 431
+6059, CP002207.1, Bacillus atrophaeus 1942, ADP34853.1, 527
+6061, CP007640.1, Bacillus atrophaeus subsp. globigii, AIK49061.1, 527
+6067, AP010935.1, Streptococcus dysgalactiae subsp. equisimilis GGS_124, BAH81255.1, 388
+6069, CP002215.1, Streptococcus dysgalactiae subsp. equisimilis ATCC 12394, ADX24316.1, 388
+6072, CP002657.1, Alicycliphilus denitrificans K601, AEB83043.1, 406
+6080, CP017072.1, Bacillus sp. FJAT-14266, AOL25754.1, 527
+6081, CP029461.2, Bacillus subtilis, AWM22501.1, 527
+6082, CP035164.1, Bacillus subtilis, QAS09671.1, 527
+6083, CP032860.1, Bacillus subtilis subsp. subtilis, AYK60814.1, 527
+6087, CP026010.1, Bacillus subtilis, QAR59524.1, 527
+6094, CP031165.1, Euzebya sp. DY32-46, AXV05675.1, 483
+6102, CP000813.4, Bacillus pumilus SAFR-032, ABV63873.1, 533
+6114, CP035393.1, Bacillus velezensis, QAV93935.1, 517
+6115, CP035399.1, Bacillus velezensis, QAW26422.1, 517
+6117, CP035410.1, Bacillus velezensis, QAW51641.1, 517
+6119, LR134165.1, Bacillus licheniformis, VEB20941.1, 532
+6122, LT603683.1, Bacillus glycinifermentans, SCA88032.1, 527
+6124, CP035232.1, Bacillus glycinifermentans, QAT67990.1, 526
+6126, CP027666.1, Ottowia oryzae, AVO32946.1, 424
+6135, CP009748.1, Bacillus subtilis, AIW35403.1, 517
+6140, CP018902.1, Bacillus amyloliquefaciens, AZV90906.1, 517
+6143, CP012482.1, Bacillus cellulasensis, ALM44246.1, 534
+6144, CP012330.1, Bacillus cellulasensis, ANY95720.1, 534
+6145, CP012329.1, Bacillus cellulasensis, ALM27704.1, 534
+6176, CP028136.1, Gramella sp. SH35, AVR47266.1, 398
+6179, CP018762.1, Microbacterium aurum, APZ35912.1, 404
+6186, CP035403.1, Bacillus subtilis, QAW10036.1, 527
+6194, CP031092.1, Ruegeria sp. NKC1-1, AXF56524.1, 525
+6195, CP031092.1, Ruegeria sp. NKC1-1, AXF56524.1, 525
+6198, CP018761.1, Bordetella bronchiseptica, AUL13492.1, 402
+6199, CP018761.1, Bordetella bronchiseptica, AUL13491.1, 389
+6201, CP020645.1, Bordetella bronchiseptica, AWP56581.1, 402
+6202, CP020645.1, Bordetella bronchiseptica, AWP56580.1, 389
+6220, CP029364.1, Bacillus halotolerans, AZV49882.1, 527
+6223, CP021107.1, Bordetella genomosp. 6, ARP78914.1, 402
+6224, CP021107.1, Bordetella genomosp. 6, ARP78915.1, 389
+6229, CP024051.1, Bacillus atrophaeus, ATO27404.1, 536
+6245, CP009504.1, Methanosarcina sp. WH1, AKB22481.1, 414
+6246, CP009503.1, Methanosarcina sp. WWM596, AKB19734.1, 414
+6247, CP035230.1, Bacillus subtilis, QAT38002.1, 527
+6248, CP035397.1, Bacillus subtilis, QAW14026.1, 527
+6250, CP035166.1, Bacillus subtilis, QAR94420.1, 527
+6251, CP027783.1, Tetragenococcus osmophilus, AYW48767.1, 352
+6257, CP023564.1, Brachybacterium ginsengisoli, ATG53758.1, 367
+6268, CP007244.1, Bacillus velezensis TrigoCor1448, AHK50779.1, 517
+6346, CP035406.1, Bacillus subtilis, QAW34900.1, 527
+6347, CP011534.1, Bacillus subtilis, AKI93732.1, 527
+6349, CP029465.1, Bacillus subtilis subsp. inaquosorum, AWM18653.1, 527
+6350, CP016359.1, Gramella flava JLT2011, APU69098.1, 401
+6351, CP007173.1, Bacillus subtilis HJ5, AKD36777.1, 527
+6352, CP004405.1, Bacillus subtilis subsp. subtilis str. BAB-1, AGI30715.1, 527
+6353, CP013654.1, Bacillus subtilis subsp. subtilis, ALS80516.1, 527
+6354, CP004019.1, Bacillus subtilis XF-1, AGE65171.1, 527
+6355, CP022287.1, Bacillus subtilis, ASK25595.1, 527
+6356, CP033967.1, Bacillus velezensis, AZJ42855.1, 517
+6357, CP016767.1, Bacillus subtilis, ARV46361.1, 527
+6364, CP030925.1, Bacillus subtilis subsp. spizizenii, AXC54572.1, 527
+6365, CP018173.1, Bacillus subtilis, APH66410.1, 527
+6366, CP019609.1, Vagococcus penaei, AQP54759.1, 340
+6368, CP035391.1, Bacillus subtilis, QAV85955.1, 527
+6369, CP003851.1, Leuconostoc carnosum JB16, AFT81447.1, 498
+6372, CP013984.1, Bacillus subtilis subsp. inaquosorum, AMA54066.1, 527
+6377, CP016789.1, Bacillus subtilis subsp. subtilis, ANY38981.1, 527
+6378, CP016788.1, Bacillus subtilis subsp. subtilis, ANY36265.1, 527
+6379, CP016787.1, Bacillus subtilis subsp. subtilis, ANY33467.1, 527
+6381, CP015975.1, Bacillus subtilis subsp. subtilis, ANJ32332.1, 527
+6383, CP035394.1, Bacillus subtilis, QAV97904.1, 527
+6386, CP014166.1, Bacillus subtilis subsp. subtilis, AMB25815.1, 527
+6387, CP005997.1, Bacillus subtilis TO-A, AII37294.1, 527
+6394, CP010314.1, Bacillus subtilis subsp. subtilis, AJE96262.1, 527
+6395, CP015004.1, Bacillus subtilis, AMS49139.1, 527
+6396, CP015375.1, Bacillus subtilis subsp. subtilis, ANX06559.1, 527
+6397, CP032310.1, Bacillus subtilis, AYE66144.1, 527
+6398, CP016852.1, Bacillus subtilis subsp. subtilis, AOA12893.1, 527
+6399, CP010053.1, Bacillus subtilis, AIY99194.1, 527
+6400, CP019663.1, Bacillus subtilis subsp. subtilis str. 168, AQR87823.1, 527
+6401, CP019662.1, Bacillus subtilis subsp. subtilis str. 168, AQR83608.1, 527
+6406, CP010052.1, Bacillus subtilis subsp. subtilis str. 168, AIY94884.1, 527
+6407, CP011115.1, Bacillus subtilis KCTC 1028, AKC49139.1, 527
+6408, CP017312.1, Bacillus subtilis subsp. subtilis, AOT49862.1, 527
+6409, CP017313.1, Bacillus subtilis subsp. subtilis, AOT52912.1, 527
+6417, CP035231.1, Bacillus subtilis, QAT47570.1, 527
+6419, CP003695.1, Bacillus subtilis subsp. subtilis str. BSP1, AGA21771.1, 527
+6420, CP031675.1, Bacillus subtilis subsp. subtilis, AXP50049.1, 527
+6421, CP014858.1, Bacillus subtilis subsp. subtilis, , 0
+6424, CP002906.1, Bacillus subtilis subsp. subtilis str. RO-NN-1, AEP92613.1, 527
+6425, CP003941.1, Bifidobacterium animalis subsp. lactis ATCC 27673, AGW85690.1, 437
+6427, CP025941.1, Bacillus subtilis, AUS11683.1, 527
+6428, CP033064.1, Bacillus sp. WR11, , 0
+6429, AP012333.1, Parascardovia denticolens DSM 10105 = JCM 12538, BAR05972.1, 477
+6433, CP035191.1, Bacillus subtilis, QAS05530.1, 527
+6434, CP035167.1, Bacillus subtilis, QAS22149.1, 527
+6435, CP021903.1, Bacillus subtilis, ASC01133.1, 527
+6436, CP010014.1, Bacillus sp. YP1, AJO59940.1, 527
+6437, CP035163.1, Bacillus subtilis, QAS13752.1, 527
+6438, CP035411.1, Bacillus subtilis, QAW47466.1, 527
+6439, CP035413.1, Bacillus subtilis, QAW43419.1, 527
+6440, CP035161.1, Bacillus subtilis, QAR98575.1, 527
+6441, CP032315.1, Bacillus subtilis, AYF13020.1, 527
+6442, CP035165.1, Bacillus subtilis, QAR85205.1, 527
+6443, CP030937.1, Bacillus sp. DM2, AXF34851.1, 527
+6451, CP026523.1, Bacillus cereus, AUZ28069.1, 527
+6454, CP002905.1, Bacillus subtilis subsp. spizizenii TU-B-10, AEP88495.1, 527
+6456, AP018400.1, Streptococcus ruminantium, BBA92860.1, 403
+6463, BA000028.3, Oceanobacillus iheyensis HTE831, BAC14879.1, 521
+6464, BA000028.3, Oceanobacillus iheyensis HTE831, BAC14879.1, 521
+6467, CP001719.1, Methanobrevibacter ruminantium M1, ADC46922.1, 488
+6472, CP011252.1, Bacillus amyloliquefaciens, ASF30331.1, 514
+6474, CP009507.1, Methanosarcina siciliae HI350, AKB33548.1, 402
+6479, CP032146.1, Bacillus amyloliquefaciens, QBG58035.1, 514
+6485, CP006058.1, Bacillus amyloliquefaciens UMAF6639, AMQ69290.1, 517
+6494, AP009256.1, Bifidobacterium adolescentis ATCC 15703, BAF40281.1, 408
+6497, CP009938.1, Bacillus sp. BH072, AJE76606.1, 514
+6501, CP025308.1, Bacillus velezensis, AUG37645.1, 514
+6503, CP009684.1, Bacillus subtilis, AIU75576.1, 514
+6506, CP034203.1, Bacillus velezensis, QAR58467.1, 514
+6508, CP032144.1, Bacillus velezensis, AXY39379.1, 514
+6509, CP023414.1, Bacillus velezensis, AWG40614.1, 514
+6510, CP009749.1, Bacillus subtilis, AIW39005.1, 514
+6511, CP020874.1, Bacillus velezensis, AWD14286.1, 514
+6512, CP029296.1, Bacillus velezensis, AWK47759.1, 514
+6513, CP011347.1, Bacillus velezensis, AKF75131.1, 514
+6515, CP023859.1, Bacillus velezensis, ATO08954.1, 514
+6517, CP034176.1, Bacillus velezensis, AZI48704.1, 514
+6518, CP015417.1, Bacillus velezensis, ANB85257.1, 514
+6519, CP027429.1, Bacillus velezensis, AVM07147.1, 514
+6520, CP006960.1, Bacillus amyloliquefaciens UMAF6614, AMQ71973.1, 514
+6521, CP029070.1, Bacillus amyloliquefaciens, AWM49509.1, 514
+6522, CP027868.1, Bacillus velezensis, AWQ14909.1, 514
+6523, CP034037.1, Bacillus velezensis, AZG40498.1, 514
+6525, CP007242.1, Bacillus amyloliquefaciens KHG19, AJK66976.1, 514
+6526, CP023748.1, Bacillus velezensis, ATL41115.1, 514
+6528, CP009611.1, Bacillus subtilis, AIW31475.1, 514
+6529, CP010406.1, Bacillus sp. Pc3, AJC25890.1, 514
+6533, CP015443.1, Bacillus velezensis, ANB47979.1, 514
+6534, CP030150.1, Bacillus velezensis, AWX73937.1, 514
+6535, CP026610.1, Bacillus velezensis, AVI30328.1, 514
+6546, CP020805.1, Bacillus velezensis, ARJ72997.1, 514
+6548, CP023431.1, Bacillus velezensis, ATD74665.1, 514
+6549, CP009679.1, Bacillus velezensis, AIU83466.1, 514
+6550, CP022341.1, Bacillus velezensis, ASK60021.1, 514
+6551, CP024647.1, Bacillus sp. Lzh-5, ATV24387.1, 514
+6553, CP033576.1, Bacillus velezensis, AYV17232.1, 514
+6561, LN999829.1, Bacillus velezensis, CUX95096.1, 514
+6565, CP021976.1, Bacillus velezensis, ASF56675.1, 514
+6566, CP027061.1, Bacillus sp. ZY-1-1, AVX15847.1, 514
+6567, CP011278.1, Bacillus velezensis, AKD23703.1, 514
+6568, CP010556.1, Bacillus velezensis, AJH25575.1, 514
+6569, CP029473.2, Bacillus velezensis, AWM84600.1, 514
+6570, CP014990.2, Bacillus velezensis, AOU02528.1, 514
+6572, CP014700.1, Bacillus amyloliquefaciens, AMP33512.1, 514
+6573, CP004065.1, Bacillus amyloliquefaciens IT-45, AGF26030.1, 514
+6574, CP017953.1, Bacillus amyloliquefaciens, APB83798.1, 514
+6575, CP013727.1, Bacillus amyloliquefaciens, ALV02919.1, 514
+6576, CP018152.1, Bacillus amyloliquefaciens, APH48597.1, 514
+6577, CP014783.1, Bacillus amyloliquefaciens, AMR51920.1, 514
+6578, CP016395.1, Bacillus velezensis, AOO63157.1, 514
+6579, CP031880.1, Bacillus velezensis, AXT14012.1, 514
+6580, HE617159.1, Bacillus velezensis CAU B946, CCF06847.1, 514
+6581, CP023320.1, Bacillus velezensis, ATC50897.1, 514
+6582, CP011346.1, Bacillus velezensis, AKF32279.1, 514
+6584, CP023133.1, Bacillus velezensis, ASZ05611.1, 514
+6589, CP024897.1, Bacillus velezensis, ATY29904.1, 514
+6597, CP035226.1, Bacillus subtilis, QAT59404.1, 527
+6598, CP013862.1, Lentibacillus amyloliquefaciens, ALX49939.1, 518
+6599, CP013862.1, Lentibacillus amyloliquefaciens, ALX49939.1, 518
+6601, CP015911.1, Bacillus velezensis, ANU31650.1, 514
+6602, CP018007.1, Bacillus velezensis, AQZ71860.1, 514
+6604, CP021495.1, Bacillus velezensis, ARZ59796.1, 514
+6605, CP032154.1, Bacillus velezensis, AXY71812.1, 514
+6606, CP016371.1, Bacillus velezensis, ANS39892.1, 514
+6607, CP020893.1, Bacillus vallismortis, ARM29399.1, 514
+6608, CP020375.1, Bacillus velezensis, ARB34851.1, 514
+6609, CP018200.1, Bacillus amyloliquefaciens, APQ51140.1, 514
+6610, CP011937.1, Bacillus velezensis, ARN85926.1, 514
+6611, CP028437.1, Bacillus velezensis, AVV95521.1, 514
+6613, CP029034.1, Bacillus velezensis, AWE18159.1, 514
+6616, CP006952.1, Bacillus amyloliquefaciens LFB112, AHC43850.1, 514
+6617, CP007165.1, Bacillus velezensis NJN-6, AKD31544.1, 514
+6621, CP024175.1, Bordetella bronchiseptica, AZW28825.1, 402
+6622, CP024175.1, Bordetella bronchiseptica, AZW28824.1, 389
+6625, CP021011.1, Bacillus velezensis, AUJ60416.1, 514
+6632, CP009506.1, Methanosarcina siciliae T4/M, AKB29612.1, 402
+6633, LN774769.1, Lactococcus piscium MKFS47, CEN29393.1, 402
+6634, LN774769.1, Lactococcus piscium MKFS47, CEN28191.1, 499
+6635, CP007436.1, Bacillus pumilus, AHL73035.1, 532
+6637, CP010997.1, Bacillus pumilus, AMM90553.1, 532
+6641, CP013950.1, Bacillus sp. SDLI1, AME07218.1, 514
+6642, CP025001.1, Bacillus siamensis, AUJ75800.1, 514
+6651, CP024173.1, Bordetella bronchiseptica, AZW19855.1, 402
+6652, CP024173.1, Bordetella bronchiseptica, AZW19854.1, 389
+6654, LR134326.1, Bordetella bronchiseptica, VEF45877.1, 402
+6657, CP020649.1, Bordetella bronchiseptica, AWP73054.1, 402
+6658, CP020649.1, Bordetella bronchiseptica, AWP73053.1, 389
+6660, LR134480.1, Bordetella bronchiseptica, VEI28444.1, 402
+6661, LR134480.1, Bordetella bronchiseptica, VEI28443.1, 389
+6663, CP020650.1, Bordetella bronchiseptica, AWP77862.1, 402
+6664, CP020650.1, Bordetella bronchiseptica, AWP77861.1, 389
+6672, CP012047.1, Tetragenococcus halophilus, AOF48998.1, 352
+6681, CP016342.1, Bordetella parapertussis, AOB37520.1, 402
+6682, CP016342.1, Bordetella parapertussis, AOB37519.1, 389
+6684, CP025071.1, Bordetella parapertussis, AZW50962.1, 402
+6685, CP025071.1, Bordetella parapertussis, AZW50961.1, 389
+6687, CP025070.1, Bordetella parapertussis, AZW46798.1, 402
+6688, CP025070.1, Bordetella parapertussis, AZW46797.1, 389
+6690, CP024174.1, Bordetella parapertussis, AZW24654.1, 402
+6691, CP024174.1, Bordetella parapertussis, AZW24653.1, 389
+6693, CP020654.1, Bordetella parapertussis, AWP94974.1, 402
+6694, CP020654.1, Bordetella parapertussis, AWP94973.1, 389
+6696, CP025067.1, Bordetella parapertussis, AZW33788.1, 402
+6697, CP025067.1, Bordetella parapertussis, AZW33787.1, 389
+6699, CP025068.1, Bordetella parapertussis, AZW37951.1, 402
+6700, CP025068.1, Bordetella parapertussis, AZW37950.1, 389
+6702, CP020655.1, Bordetella parapertussis, AWP99145.1, 402
+6703, CP020655.1, Bordetella parapertussis, AWP99144.1, 389
+6705, CP020652.1, Bordetella parapertussis, AWP87476.1, 402
+6706, CP020652.1, Bordetella parapertussis, AWP87475.1, 389
+6708, CP018897.1, Bordetella parapertussis, AUL41475.1, 402
+6709, CP018897.1, Bordetella parapertussis, AUL41474.1, 389
+6711, CP020646.1, Bordetella parapertussis, AWP61386.1, 402
+6712, CP020646.1, Bordetella parapertussis, AWP61385.1, 389
+6714, CP020648.1, Bordetella parapertussis, AWP68882.1, 402
+6715, CP020648.1, Bordetella parapertussis, AWP68881.1, 389
+6717, LR134329.1, Bordetella parapertussis, VEF51196.1, 402
+6718, LR134329.1, Bordetella parapertussis, VEF51195.1, 389
+6720, LS483424.1, Bordetella parapertussis, SQH19492.1, 402
+6723, CP025072.1, Bordetella parapertussis, AZW55124.1, 402
+6724, CP025072.1, Bordetella parapertussis, AZW55123.1, 389
+6729, CP020651.1, Bordetella bronchiseptica, AWP82684.1, 402
+6730, CP020651.1, Bordetella bronchiseptica, AWP82683.1, 389
+6732, CP020819.1, Bordetella bronchiseptica, AWQ08252.1, 402
+6733, CP020819.1, Bordetella bronchiseptica, AWQ08251.1, 389
+6735, CP024171.1, Bordetella bronchiseptica, AZW10595.1, 402
+6736, CP024171.1, Bordetella bronchiseptica, AZW10594.1, 389
+6738, CP014013.2, Bordetella bronchiseptica, AMG86743.1, 402
+6739, CP014013.2, Bordetella bronchiseptica, AMG86742.1, 389
+6821, CP001758.1, Leuconostoc kimchii IMSNU 11154, ADG41260.1, 501
+6824, AE017226.1, Treponema denticola ATCC 35405, AAS11934.1, 411
+6841, CP007457.1, Bifidobacterium pseudolongum PV8-2, AIZ16867.1, 455
+6843, CP010411.1, Bifidobacterium longum subsp. infantis, ALE08591.1, 427
+6851, CP036195.1, Klebsiella pneumoniae, , 0
+6859, CP024706.1, Bacillus velezensis, , 0
+6864, CP000477.1, Methanothrix thermoacetophila PT, ABK14850.1, 399
+6865, AP012046.1, Tetragenococcus halophilus NBRC 12172, BAK94925.1, 352
+6869, CP003117.1, Methanosaeta harundinacea 6Ac, AET64472.1, 430
+6872, CP028460.1, Bifidobacterium animalis subsp. animalis, AYN24289.1, 453
+6873, CP002567.1, Bifidobacterium animalis subsp. animalis ATCC 25527, AFI63667.1, 453
+6874, CP015407.2, Bifidobacterium animalis subsp. animalis, ANU43246.1, 453
+6875, CP002898.1, Leuconostoc sp. C2, AEJ30771.1, 496
+6888, CP001397.1, Nonlabens dokdonensis DSW-6, AGC77397.1, 401
+7015, CP017478.1, Lutibacter sp. LPB0138, AOW19496.1, 405
+7016, CP007130.1, Gemmatirosa kalamazoonesis, AHG93606.1, 401
+7018, LR134363.1, Actinomyces slackii, VEG75870.1, 408
+7027, CP023008.1, Pediococcus pentosaceus, AXR44052.1, 353
+7031, CP032514.1, Actinomyces sp. 2129, AYD90251.1, 424
+7036, CP007456.1, Bifidobacterium kashiwanohense PV20-2, AIZ15206.1, 425
+7043, CP022531.1, Bacillus velezensis, , 0
+7047, CP018866.1, Bacillus cohnii, AST93378.1, 508
+7048, CP018866.1, Bacillus cohnii, AST93378.1, 508
+7065, CP035154.1, Pediococcus acidilactici, QAR87479.1, 353
+7066, CP018763.1, Pediococcus acidilactici, APR29132.1, 353
+7071, AE014295.3, Bifidobacterium longum NCC2705, AAN24060.1, 427
+7081, CP020018.1, Pediococcus pentosaceus, AVL02048.1, 353
+7086, CP033070.1, Chryseobacterium sp. 3008163, AYN02631.1, 402
+7101, CP020814.1, Bacillus krulwichiae, ARK32213.1, 448
+7102, CP020814.1, Bacillus krulwichiae, ARK32213.1, 448
+7104, LT629745.1, Gramella sp. MAR_2010_102, SDR69259.1, 409
+7118, BA000004.3, Bacillus halodurans C-125, BAB07378.1, 534
+7122, CP003362.1, Methanomethylovorans hollandica DSM 15978, AGB49509.1, 409
+7137, CP014209.1, Isoptericola dokdonensis DS-3, ANC32722.1, 401
+7198, CP022437.1, Virgibacillus necropolis, ASN04124.1, 438
+7221, CP025471.1, Pediococcus acidilactici, AZP91328.1, 354
+7258, LR215974.1, Chryseobacterium gleum, VFB04635.1, 403
+7265, AP012326.1, Bifidobacterium dentium JCM 1195 = DSM 20436, BAQ27922.1, 428
+7266, LR134349.1, Bifidobacterium dentium, VEG24593.1, 428
+7267, CP001750.1, Bifidobacterium dentium Bd1, ADB10617.1, 429
+7313, CP009508.1, Methanosarcina siciliae C2J, AKB37914.1, 402
+7339, CP022985.1, Mariniflexile sp. TRM1-10, AXP79283.1, 440
+7346, CP001854.1, Conexibacter woesei DSM 14684, ADB53881.1, 413
+7444, LR134289.1, Chryseobacterium gleum, VEE10103.1, 398
+7459, CP023049.2, Chryseobacterium piperi, ASW75051.1, 398
+7525, LT607803.1, Variovorax sp. HW608, SCK42509.1, 411
+7546, CP011212.1, candidate division TM6 bacterium GW2011_GWF2_28_16, AKM81039.1, 350
+8113, CP009511.1, Methanosarcina mazei SarPi, AKB62345.1, 504
+8114, CP009512.1, Methanosarcina mazei S-6, AKB65673.1, 504
+8115, CP009513.1, Methanosarcina mazei LYC, AKB69182.1, 504
+8116, CP009514.1, Methanosarcina mazei C16, AKB71856.1, 504
+8229, CP009509.1, Methanosarcina mazei WWM610, AKB41422.1, 508
+8251, CP016598.1, Leuconostoc lactis, ANY12291.1, 326
+8281, CP000009.1, Gluconobacter oxydans 621H, AAW61229.1, 503
+8311, CP016329.1, Leuconostoc garlicum, AQN80113.1, 326
+8322, CP002446.1, Pseudoxanthomonas suwonensis 11-1, ADV28286.1, 409
+8544, LT906453.1, Dermatophilus congolensis, SNV25560.1, 328
+8694, CP018911.1, Glycocaulis alkaliphilus, AZU03099.1, 402
+8769, CP010827.1, Corynebacterium singulare, AJI79486.1, 328
+8855, CP003244.1, Rahnella aquatilis CIP 78.65 = ATCC 33071, AEX50549.1, 477
+9068, CP004144.1, Methanosarcina mazei Tuc01, AGF97587.1, 500
+9125, CP000494.1, Bradyrhizobium sp. BTAi1, ABQ38929.1, 473
+9160, CP029052.1, Bacillus subtilis subsp. subtilis, , 0
+9161, CP029052.1, Bacillus subtilis subsp. subtilis, , 0
+9188, CP026734.1, Brevibacterium linens, AZT99658.1, 436
+9190, LT629739.1, Brevibacterium sandarakinum, SDS13871.1, 436
+9254, LT629766.1, Brevibacterium siliguriense, SDT18613.1, 434
+9258, CP025334.1, Brevibacterium aurantiacum, AZT96044.1, 435
+9266, CP025331.1, Brevibacterium aurantiacum, AZL04601.1, 453
+9285, CP001700.1, Catenulispora acidiphila DSM 44928, ACU76457.1, 331
+9289, BA000030.4, Streptomyces avermitilis MA-4680 = NBRC 14893, BAC72792.1, 329
+9327, CP025333.1, Brevibacterium aurantiacum, AZL11796.1, 423
+9440, CP025330.1, Brevibacterium aurantiacum, AZT92202.1, 435
+9810, CP008853.1, Bacillus anthracis, AIM09141.1, 368
+9922, FN869568.2, Halomonas elongata DSM 2581, CBV42277.1, 351
+10427, LN890331.1, Leuconostoc gelidum subsp. gasicomitatum KG16-1, CUR63119.1, 365
+10449, CP003839.1, Leuconostoc gelidum JB7, AFS39966.1, 365
+10472, FN822744.1, Leuconostoc gelidum subsp. gasicomitatum LMG 18811, CBL91177.1, 365
+11128, CP028367.1, Halomonas sp. SF2003, AVV32295.1, 373
+11166, CP017113.1, Porphyrobacter sp. LM 6, AOL93443.1, 482
+11931, CP004018.1, Rhizobium tropici CIAT 899, AGB74797.1, 401
